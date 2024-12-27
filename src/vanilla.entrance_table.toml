@@ -1,0 +1,2205 @@
+# Transition Types:
+	# Wipe
+	# Triforce
+	# FadeBlack
+	# FadeWhite
+	# FadeBlackFast
+	# FadeWhiteFast
+	# FadeBlackSlow
+	# FadeWhiteSlow
+	# WipeFast
+	# FillWhite2
+	# FillWhite
+	# Instant
+	# FillBrown
+	# FadeWhiteCsDelayed
+	# Sandstorm
+	# SandstormEnd
+	# FillBlack
+	# FadeWhiteInstant
+	# FadeGreen
+	# FadeBlue
+	# Circle
+	# Warp
+
+# Array Items: [ scene_id, spawn_id, continue_bgm, title_card, fade_in, fade_out ]
+
+# Inside_the_Deku_Tree 
+0x0000          = [ 0x00, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0001          = [ 0x00, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0002          = [ 0x00, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0003          = [ 0x00, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Dodongos_Cavern 
+0x0004          = [ 0x01, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0005          = [ 0x01, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0006          = [ 0x01, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0007          = [ 0x01, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudo_Training_Ground 
+0x0008          = [ 0x0B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0009          = [ 0x0B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x000A          = [ 0x0B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x000B          = [ 0x0B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Phantom_Ganons_Lair 
+0x000C          = [ 0x14, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x000D          = [ 0x14, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x000E          = [ 0x14, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x000F          = [ 0x14, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Water_Temple 
+0x0010          = [ 0x05, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0011          = [ 0x05, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0012          = [ 0x05, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0013          = [ 0x05, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Pause 
+0x0014          = [ 0x6E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0015          = [ 0x6E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0016          = [ 0x6E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0017          = [ 0x6E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Sasa_Test 
+0x0018          = [ 0x6C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0019          = [ 0x6C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x001A          = [ 0x6C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x001B          = [ 0x6C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Stalfos_MiniBoss_Room 
+0x001C          = [ 0x68, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x001D          = [ 0x68, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x001E          = [ 0x68, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x001F          = [ 0x68, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Stalfos_Boss_Room 
+0x0020          = [ 0x69, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0021          = [ 0x69, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0022          = [ 0x69, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0023          = [ 0x69, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Treasure_Chest_Room 
+0x0024          = [ 0x6D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0025          = [ 0x6D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0026          = [ 0x6D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0027          = [ 0x6D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Inside_Jabu_Jabus_Belly 
+0x0028          = [ 0x02, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0029          = [ 0x02, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x002A          = [ 0x02, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x002B          = [ 0x02, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x002C          = [ 0x02, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Royal_Familys_Tomb 
+0x002D          = [ 0x41, 0x00, false, true, "FadeBlack", "Circle" ]
+0x002E          = [ 0x41, 0x00, false, true, "FadeBlack", "Circle" ]
+0x002F          = [ 0x41, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0030          = [ 0x41, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0031          = [ 0x41, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0032          = [ 0x41, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Entrance_Child_Day 
+0x0033          = [ 0x1B, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+# Market_Entrance_Child_Night 
+0x0034          = [ 0x1C, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Entrance_Ruins 
+0x0035          = [ 0x1D, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x0036          = [ 0x1D, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Shadow_Temple 
+0x0037          = [ 0x07, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0038          = [ 0x07, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0039          = [ 0x07, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x003A          = [ 0x07, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Shooting_Gallery 
+0x003B          = [ 0x42, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x003C          = [ 0x42, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x003D          = [ 0x42, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x003E          = [ 0x42, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Grottos 
+0x003F          = [ 0x3E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0040          = [ 0x3E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0041          = [ 0x3E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0042          = [ 0x3E, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Lakeside_Laboratory 
+0x0043          = [ 0x38, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0044          = [ 0x38, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0045          = [ 0x38, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0046          = [ 0x38, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Sutaru 
+0x0047          = [ 0x6A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0048          = [ 0x6A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0049          = [ 0x6A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x004A          = [ 0x6A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Grave_Fairys_Fountain 
+0x004B          = [ 0x40, 0x00, false, true, "FadeBlack", "Circle" ]
+0x004C          = [ 0x40, 0x00, false, true, "FadeBlack", "Circle" ]
+0x004D          = [ 0x40, 0x00, false, true, "FadeBlack", "Circle" ]
+0x004E          = [ 0x40, 0x00, false, true, "FadeBlack", "Circle" ]
+# Ranch_House_&_Silo 
+0x004F          = [ 0x4C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0050          = [ 0x4C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0051          = [ 0x4C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0052          = [ 0x4C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Temple_of_Time 
+0x0053          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0054          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0055          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0056          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0057          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0058          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0059          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x005A          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x005B          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x005C          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x005D          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x005E          = [ 0x43, 0x00, false, true, "Instant", "Instant" ]
+0x005F          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0060          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0061          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0062          = [ 0x43, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Treasure_Box_Shop 
+0x0063          = [ 0x10, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0064          = [ 0x10, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0065          = [ 0x10, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0066          = [ 0x10, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Back_Alley_Child_Day 
+0x0067          = [ 0x1E, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_Child_Night 
+0x0068          = [ 0x1F, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x0069          = [ 0x1E, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x006A          = [ 0x1F, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Chamber_of_the_Sages 
+0x006B          = [ 0x44, 0x00, false, true, "FadeWhiteSlow", "FadeWhiteSlow" ]
+0x006C          = [ 0x44, 0x00, false, true, "FadeWhiteSlow", "FadeWhiteSlow" ]
+0x006D          = [ 0x44, 0x00, false, true, "FadeWhiteSlow", "FadeWhiteSlow" ]
+0x006E          = [ 0x44, 0x00, false, true, "FadeWhiteSlow", "FadeWhiteSlow" ]
+0x006F          = [ 0x44, 0x00, false, true, "FadeWhiteCsDelayed", "FadeBlack" ]
+0x0070          = [ 0x44, 0x00, false, true, "FadeWhiteCsDelayed", "FadeBlack" ]
+0x0071          = [ 0x44, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Grannys_Potion_Shop 
+0x0072          = [ 0x4E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0073          = [ 0x4E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0074          = [ 0x4E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0075          = [ 0x4E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Castle_Hedge_Maze_Early 
+0x0076          = [ 0x6B, 0x00, false, true, "Circle", "Circle" ]
+0x0077          = [ 0x6B, 0x00, false, true, "Circle", "Circle" ]
+0x0078          = [ 0x6B, 0x00, false, true, "Circle", "Circle" ]
+0x0079          = [ 0x6B, 0x00, false, true, "Circle", "Circle" ]
+# Castle_Hedge_Maze_Day 
+0x007A          = [ 0x45, 0x00, false, true, "Circle", "FadeBlackFast" ]
+# Castle_Hedge_Maze_Night 
+0x007B          = [ 0x46, 0x00, false, true, "Circle", "FadeBlackFast" ]
+# Castle_Hedge_Maze_Day 
+0x007C          = [ 0x45, 0x00, false, true, "Circle", "FadeBlackFast" ]
+# Castle_Hedge_Maze_Night 
+0x007D          = [ 0x46, 0x00, false, true, "Circle", "FadeBlackFast" ]
+# Guard_House 
+0x007E          = [ 0x4D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x007F          = [ 0x4D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0080          = [ 0x4D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0081          = [ 0x4D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Spirit_Temple 
+0x0082          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0083          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0084          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0085          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0086          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0087          = [ 0x06, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Ice_Cavern 
+0x0088          = [ 0x09, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0089          = [ 0x09, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x008A          = [ 0x09, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x008B          = [ 0x09, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x008C          = [ 0x09, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Twinrovas_Lair 
+0x008D          = [ 0x17, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x008E          = [ 0x17, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x008F          = [ 0x17, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0090          = [ 0x17, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0091          = [ 0x17, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0092          = [ 0x17, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0093          = [ 0x17, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Jungle_Gym 
+0x0094          = [ 0x65, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0095          = [ 0x65, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0096          = [ 0x65, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0097          = [ 0x65, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Bottom_of_the_Well 
+0x0098          = [ 0x08, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0099          = [ 0x08, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x009A          = [ 0x08, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x009B          = [ 0x08, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# House_of_Twins 
+0x009C          = [ 0x27, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x009D          = [ 0x27, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x009E          = [ 0x27, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x009F          = [ 0x27, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Cutscene_Map 
+0x00A0          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00A1          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00A2          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00A3          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00A4          = [ 0x47, 0x00, false, true, "FillWhite", "FillWhite" ]
+0x00A5          = [ 0x47, 0x00, false, true, "FadeBlack", "FillWhite" ]
+0x00A6          = [ 0x47, 0x00, true, true, "FillWhite", "FillWhite" ]
+0x00A7          = [ 0x47, 0x00, false, true, "Instant", "Instant" ]
+0x00A8          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00A9          = [ 0x47, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00AA          = [ 0x47, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00AB          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00AC          = [ 0x47, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_Child_Day 
+0x00AD          = [ 0x1E, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_Child_Night 
+0x00AE          = [ 0x1F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x00AF          = [ 0x1E, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x00B0          = [ 0x1F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x00B1          = [ 0x20, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+# Market_Child_Night 
+0x00B2          = [ 0x21, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Ruins 
+0x00B3          = [ 0x22, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00B4          = [ 0x22, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x00B5          = [ 0x20, 0x00, false, true, "WipeFast", "WipeFast" ]
+# Depth_Test 
+0x00B6          = [ 0x67, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Bazaar 
+0x00B7          = [ 0x2C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x00B8          = [ 0x2C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x00B9          = [ 0x2C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x00BA          = [ 0x2C, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Links_House 
+0x00BB          = [ 0x34, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00BC          = [ 0x34, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00BD          = [ 0x34, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00BE          = [ 0x34, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00BF          = [ 0x34, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x00C0          = [ 0x34, 0x00, false, true, "FillBlack", "FillBlack" ]
+# Kokiri_Shop 
+0x00C1          = [ 0x2D, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00C2          = [ 0x2D, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00C3          = [ 0x2D, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00C4          = [ 0x2D, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Dodongos_Cavern 
+0x00C5          = [ 0x01, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x00C6          = [ 0x01, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x00C7          = [ 0x01, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x00C8          = [ 0x01, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+# Know_It_All_Brothers_House 
+0x00C9          = [ 0x26, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00CA          = [ 0x26, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00CB          = [ 0x26, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x00CC          = [ 0x26, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Hyrule_Field 
+0x00CD          = [ 0x51, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00CE          = [ 0x51, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00CF          = [ 0x51, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00D0          = [ 0x51, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00D1          = [ 0x51, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x00D2          = [ 0x51, 0x00, false, true, "Circle", "Circle" ]
+0x00D3          = [ 0x51, 0x00, false, true, "Circle", "Circle" ]
+0x00D4          = [ 0x51, 0x00, false, true, "Circle", "Circle" ]
+0x00D5          = [ 0x51, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00D6          = [ 0x51, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00D7          = [ 0x51, 0x00, false, true, "Circle", "Circle" ]
+0x00D8          = [ 0x51, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00D9          = [ 0x51, 0x00, false, true, "Circle", "Circle" ]
+0x00DA          = [ 0x51, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+# Kakariko_Village 
+0x00DB          = [ 0x52, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00DC          = [ 0x52, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00DD          = [ 0x52, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00DE          = [ 0x52, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00DF          = [ 0x52, 0x00, false, true, "Circle", "Circle" ]
+0x00E0          = [ 0x52, 0x00, false, true, "Circle", "Circle" ]
+0x00E1          = [ 0x52, 0x00, true, true, "Circle", "Circle" ]
+0x00E2          = [ 0x52, 0x00, false, true, "Circle", "Circle" ]
+0x00E3          = [ 0x52, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Graveyard 
+0x00E4          = [ 0x53, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00E5          = [ 0x53, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00E6          = [ 0x53, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00E7          = [ 0x53, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00E8          = [ 0x53, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x00E9          = [ 0x53, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Zoras_River 
+0x00EA          = [ 0x54, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x00EB          = [ 0x54, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00EC          = [ 0x54, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x00ED          = [ 0x54, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x00EE          = [ 0x55, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00EF          = [ 0x55, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00F0          = [ 0x55, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x00F1          = [ 0x55, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x00F2          = [ 0x55, 0x00, true, true, "FillWhite", "FillWhite" ]
+0x00F3          = [ 0x55, 0x00, false, true, "FillWhite", "FillWhite" ]
+0x00F4          = [ 0x55, 0x00, true, true, "FillWhite", "FillWhite" ]
+0x00F5          = [ 0x55, 0x00, false, true, "FadeWhiteCsDelayed", "FillWhite" ]
+0x00F6          = [ 0x55, 0x00, false, true, "FillWhite", "FillWhite" ]
+0x00F7          = [ 0x55, 0x00, false, true, "FillWhite", "FillWhite" ]
+0x00F8          = [ 0x55, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00F9          = [ 0x55, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00FA          = [ 0x55, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00FB          = [ 0x55, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Sacred_Forest_Meadow 
+0x00FC          = [ 0x56, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00FD          = [ 0x56, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00FE          = [ 0x56, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x00FF          = [ 0x56, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0100          = [ 0x56, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0101          = [ 0x56, 0x00, false, true, "Wipe", "Wipe" ]
+# Lake_Hylia 
+0x0102          = [ 0x57, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x0103          = [ 0x57, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0104          = [ 0x57, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x0105          = [ 0x57, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0106          = [ 0x57, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0107          = [ 0x57, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Domain 
+0x0108          = [ 0x58, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0109          = [ 0x58, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x010A          = [ 0x58, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x010B          = [ 0x58, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x010C          = [ 0x58, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x010D          = [ 0x58, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Fountain 
+0x010E          = [ 0x59, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x010F          = [ 0x59, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0110          = [ 0x59, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0111          = [ 0x59, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0112          = [ 0x59, 0x00, false, true, "FadeWhiteCsDelayed", "Wipe" ]
+0x0113          = [ 0x59, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0114          = [ 0x59, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0115          = [ 0x59, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0116          = [ 0x59, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Gerudo_Valley 
+0x0117          = [ 0x5A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0118          = [ 0x5A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0119          = [ 0x5A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x011A          = [ 0x5A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x011B          = [ 0x5A, 0x00, true, true, "FillBrown", "FillWhite" ]
+0x011C          = [ 0x5A, 0x00, true, true, "FillWhite", "FillWhite" ]
+0x011D          = [ 0x5A, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x011E          = [ 0x5B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x011F          = [ 0x5B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0120          = [ 0x5B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0121          = [ 0x5B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0122          = [ 0x5B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x0123          = [ 0x5C, 0x00, true, true, "SandstormEnd", "SandstormEnd" ]
+0x0124          = [ 0x5C, 0x00, true, true, "SandstormEnd", "SandstormEnd" ]
+0x0125          = [ 0x5C, 0x00, true, true, "SandstormEnd", "SandstormEnd" ]
+0x0126          = [ 0x5C, 0x00, true, true, "SandstormEnd", "SandstormEnd" ]
+0x0127          = [ 0x5C, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0128          = [ 0x5C, 0x00, true, true, "SandstormEnd", "SandstormEnd" ]
+# Gerudos_Fortress 
+0x0129          = [ 0x5D, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x012A          = [ 0x5D, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x012B          = [ 0x5D, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x012C          = [ 0x5D, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x012D          = [ 0x5D, 0x00, true, true, "Circle", "Circle" ]
+0x012E          = [ 0x5D, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x012F          = [ 0x5D, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Haunted_Wasteland 
+0x0130          = [ 0x5E, 0x00, true, true, "Sandstorm", "Sandstorm" ]
+0x0131          = [ 0x5E, 0x00, true, true, "Sandstorm", "Sandstorm" ]
+0x0132          = [ 0x5E, 0x00, true, true, "Sandstorm", "Sandstorm" ]
+0x0133          = [ 0x5E, 0x00, true, true, "Sandstorm", "Sandstorm" ]
+# Ganons_Tower_Collapsing 
+0x0134          = [ 0x0E, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0135          = [ 0x0E, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0136          = [ 0x0E, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0137          = [ 0x0E, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Castle 
+0x0138          = [ 0x5F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0139          = [ 0x5F, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Castle_Exterior 
+0x013A          = [ 0x64, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x013B          = [ 0x64, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x013C          = [ 0x64, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+# Death_Mountain_Trail 
+0x013D          = [ 0x60, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x013E          = [ 0x60, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x013F          = [ 0x60, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0140          = [ 0x60, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0141          = [ 0x60, 0x00, true, true, "FillWhite", "FillWhite" ]
+0x0142          = [ 0x60, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0143          = [ 0x60, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0144          = [ 0x60, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0145          = [ 0x60, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+0x0146          = [ 0x60, 0x00, true, true, "FadeWhite", "FadeWhite" ]
+# Death_Mountain_Crater 
+0x0147          = [ 0x61, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0148          = [ 0x61, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0149          = [ 0x61, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x014A          = [ 0x61, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x014B          = [ 0x61, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x014C          = [ 0x61, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Goron_City 
+0x014D          = [ 0x62, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x014E          = [ 0x62, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x014F          = [ 0x62, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0150          = [ 0x62, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0151          = [ 0x62, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0152          = [ 0x62, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Domain 
+0x0153          = [ 0x58, 0x03, false, true, "Wipe", "Wipe" ]
+0x0154          = [ 0x58, 0x03, false, true, "Wipe", "Wipe" ]
+0x0155          = [ 0x58, 0x03, false, true, "Wipe", "Wipe" ]
+0x0156          = [ 0x58, 0x03, false, true, "Wipe", "Wipe" ]
+# Lon_Lon_Ranch 
+0x0157          = [ 0x63, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0158          = [ 0x63, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0159          = [ 0x63, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x015A          = [ 0x63, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x015B          = [ 0x63, 0x00, false, true, "Circle", "Circle" ]
+0x015C          = [ 0x63, 0x00, false, true, "Circle", "Circle" ]
+0x015D          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x015E          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x015F          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0160          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0161          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0162          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0163          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0164          = [ 0x63, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Fire_Temple 
+0x0165          = [ 0x04, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0166          = [ 0x04, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0167          = [ 0x04, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0168          = [ 0x04, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Forest_Temple 
+0x0169          = [ 0x03, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x016A          = [ 0x03, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x016B          = [ 0x03, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x016C          = [ 0x03, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Shooting_Gallery 
+0x016D          = [ 0x42, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x016E          = [ 0x42, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x016F          = [ 0x42, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x0170          = [ 0x42, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Temple_of_Time_Exterior_Child_Day 
+0x0171          = [ 0x23, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Temple_of_Time_Exterior_Child_Night 
+0x0172          = [ 0x24, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time_Exterior_Ruins 
+0x0173          = [ 0x25, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0174          = [ 0x25, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Fire_Temple 
+0x0175          = [ 0x04, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0176          = [ 0x04, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0177          = [ 0x04, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0178          = [ 0x04, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x0179          = [ 0x0E, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x017A          = [ 0x0E, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x017B          = [ 0x0E, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x017C          = [ 0x0E, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x017D          = [ 0x51, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x017E          = [ 0x51, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x017F          = [ 0x51, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x0180          = [ 0x51, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x0181          = [ 0x51, 0x02, true, true, "FadeWhite", "FadeWhite" ]
+0x0182          = [ 0x51, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x0183          = [ 0x51, 0x02, true, true, "FadeWhite", "FadeWhite" ]
+0x0184          = [ 0x51, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x0185          = [ 0x51, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0186          = [ 0x51, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0187          = [ 0x51, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0188          = [ 0x51, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x0189          = [ 0x51, 0x04, true, true, "FadeWhite", "FadeWhite" ]
+0x018A          = [ 0x51, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x018B          = [ 0x51, 0x04, true, true, "FadeWhite", "FadeWhite" ]
+0x018C          = [ 0x51, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x018D          = [ 0x51, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x018E          = [ 0x51, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x018F          = [ 0x51, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0190          = [ 0x51, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Village 
+0x0191          = [ 0x52, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x0192          = [ 0x52, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0193          = [ 0x52, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x0194          = [ 0x52, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Village 
+0x0195          = [ 0x52, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0196          = [ 0x52, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0197          = [ 0x52, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0198          = [ 0x52, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_River 
+0x0199          = [ 0x54, 0x01, true, true, "FadeWhite", "FadeWhite" ]
+0x019A          = [ 0x54, 0x01, true, true, "FadeWhite", "FadeWhite" ]
+0x019B          = [ 0x54, 0x01, true, true, "FadeWhite", "FadeWhite" ]
+0x019C          = [ 0x54, 0x01, true, true, "FadeWhite", "FadeWhite" ]
+# Zoras_River 
+0x019D          = [ 0x54, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x019E          = [ 0x54, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x019F          = [ 0x54, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x01A0          = [ 0x54, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Domain 
+0x01A1          = [ 0x58, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01A2          = [ 0x58, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01A3          = [ 0x58, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01A4          = [ 0x58, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudo_Valley 
+0x01A5          = [ 0x5A, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01A6          = [ 0x5A, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01A7          = [ 0x5A, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01A8          = [ 0x5A, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x01A9          = [ 0x5B, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x01AA          = [ 0x5B, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x01AB          = [ 0x5B, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x01AC          = [ 0x5B, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x01AD          = [ 0x5B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x01AE          = [ 0x5B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x01AF          = [ 0x5B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x01B0          = [ 0x5B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x01B1          = [ 0x5B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x01B2          = [ 0x5B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x01B3          = [ 0x5B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x01B4          = [ 0x5B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x01B5          = [ 0x0E, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x01B6          = [ 0x0E, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x01B7          = [ 0x0E, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x01B8          = [ 0x0E, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Trail 
+0x01B9          = [ 0x60, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01BA          = [ 0x60, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01BB          = [ 0x60, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01BC          = [ 0x60, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Trail 
+0x01BD          = [ 0x60, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x01BE          = [ 0x60, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x01BF          = [ 0x60, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x01C0          = [ 0x60, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Goron_City 
+0x01C1          = [ 0x62, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01C2          = [ 0x62, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01C3          = [ 0x62, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01C4          = [ 0x62, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Lakeside_Laboratory 
+0x01C5          = [ 0x38, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x01C6          = [ 0x38, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x01C7          = [ 0x38, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x01C8          = [ 0x38, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x01C9          = [ 0x1A, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x01CA          = [ 0x1A, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x01CB          = [ 0x1A, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x01CC          = [ 0x1A, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x01CD          = [ 0x20, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x01CE          = [ 0x21, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x01CF          = [ 0x22, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+0x01D0          = [ 0x22, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Day 
+0x01D1          = [ 0x20, 0x09, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x01D2          = [ 0x21, 0x09, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x01D3          = [ 0x22, 0x09, false, true, "FadeBlackFast", "FadeBlack" ]
+0x01D4          = [ 0x22, 0x09, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Day 
+0x01D5          = [ 0x20, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x01D6          = [ 0x21, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x01D7          = [ 0x22, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x01D8          = [ 0x22, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+# Zoras_River 
+0x01D9          = [ 0x54, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+0x01DA          = [ 0x54, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x01DB          = [ 0x54, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+0x01DC          = [ 0x54, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Zoras_River 
+0x01DD          = [ 0x54, 0x04, false, true, "Circle", "Circle" ]
+0x01DE          = [ 0x54, 0x04, false, true, "Circle", "Circle" ]
+0x01DF          = [ 0x54, 0x04, false, true, "Circle", "Circle" ]
+0x01E0          = [ 0x54, 0x04, false, true, "Circle", "Circle" ]
+# Desert_Colossus 
+0x01E1          = [ 0x5C, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01E2          = [ 0x5C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x01E3          = [ 0x5C, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x01E4          = [ 0x5C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x01E5          = [ 0x5C, 0x02, false, false, "FadeWhite", "FadeWhite" ]
+0x01E6          = [ 0x5C, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+0x01E7          = [ 0x5C, 0x02, false, false, "FadeWhite", "FadeWhite" ]
+0x01E8          = [ 0x5C, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x01E9          = [ 0x5C, 0x03, false, false, "FadeWhite", "FadeWhite" ]
+0x01EA          = [ 0x5C, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+0x01EB          = [ 0x5C, 0x03, false, false, "FadeWhite", "FadeWhite" ]
+0x01EC          = [ 0x5C, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x01ED          = [ 0x5C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x01EE          = [ 0x5C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x01EF          = [ 0x5C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x01F0          = [ 0x5C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x01F1          = [ 0x5C, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x01F2          = [ 0x5C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x01F3          = [ 0x5C, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x01F4          = [ 0x5C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Desert_Colossus 
+0x01F5          = [ 0x5C, 0x06, true, false, "SandstormEnd", "SandstormEnd" ]
+0x01F6          = [ 0x5C, 0x06, true, false, "SandstormEnd", "SandstormEnd" ]
+0x01F7          = [ 0x5C, 0x06, true, false, "SandstormEnd", "SandstormEnd" ]
+0x01F8          = [ 0x5C, 0x06, true, false, "SandstormEnd", "SandstormEnd" ]
+# Hyrule_Field 
+0x01F9          = [ 0x51, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x01FA          = [ 0x51, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x01FB          = [ 0x51, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x01FC          = [ 0x51, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x01FD          = [ 0x51, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x01FE          = [ 0x51, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x01FF          = [ 0x51, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x0200          = [ 0x51, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Village 
+0x0201          = [ 0x52, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0202          = [ 0x52, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0203          = [ 0x52, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0204          = [ 0x52, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+# Graveyard 
+0x0205          = [ 0x53, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0206          = [ 0x53, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0207          = [ 0x53, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0208          = [ 0x53, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x0209          = [ 0x55, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x020A          = [ 0x55, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x020B          = [ 0x55, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x020C          = [ 0x55, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x020D          = [ 0x55, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x020E          = [ 0x55, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x020F          = [ 0x55, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0210          = [ 0x55, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x0211          = [ 0x55, 0x03, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0212          = [ 0x55, 0x03, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0213          = [ 0x55, 0x03, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0214          = [ 0x55, 0x03, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Sacred_Forest_Meadow 
+0x0215          = [ 0x56, 0x01, false, true, "FadeGreen", "FadeGreen" ]
+0x0216          = [ 0x56, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0217          = [ 0x56, 0x01, false, true, "FadeGreen", "FadeGreen" ]
+0x0218          = [ 0x56, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x0219          = [ 0x57, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x021A          = [ 0x57, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x021B          = [ 0x57, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x021C          = [ 0x57, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x021D          = [ 0x57, 0x02, false, true, "FadeBlue", "FadeBlue" ]
+0x021E          = [ 0x57, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x021F          = [ 0x57, 0x02, false, true, "FadeBlue", "FadeBlue" ]
+0x0220          = [ 0x57, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Fountain 
+0x0221          = [ 0x59, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0222          = [ 0x59, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0223          = [ 0x59, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0224          = [ 0x59, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Fountain 
+0x0225          = [ 0x59, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0226          = [ 0x59, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0227          = [ 0x59, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0228          = [ 0x59, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudo_Valley 
+0x0229          = [ 0x5A, 0x02, true, true, "FadeWhite", "FadeWhite" ]
+0x022A          = [ 0x5A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x022B          = [ 0x5A, 0x02, true, true, "FadeWhite", "FadeWhite" ]
+0x022C          = [ 0x5A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Gerudo_Valley 
+0x022D          = [ 0x5A, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+0x022E          = [ 0x5A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x022F          = [ 0x5A, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+0x0230          = [ 0x5A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x0231          = [ 0x5D, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x0232          = [ 0x5D, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0233          = [ 0x5D, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x0234          = [ 0x5D, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x0235          = [ 0x5D, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0236          = [ 0x5D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0237          = [ 0x5D, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x0238          = [ 0x5D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x0239          = [ 0x5D, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x023A          = [ 0x5D, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x023B          = [ 0x5D, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x023C          = [ 0x5D, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Castle 
+0x023D          = [ 0x5F, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+0x023E          = [ 0x5F, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Castle_Exterior 
+0x023F          = [ 0x64, 0x01, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0240          = [ 0x64, 0x01, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+# Hyrule_Castle 
+0x0241          = [ 0x5F, 0x01, false, true, "Wipe", "Wipe" ]
+# Death_Mountain_Trail 
+0x0242          = [ 0x60, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x0243          = [ 0x60, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0244          = [ 0x60, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x0245          = [ 0x60, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Crater 
+0x0246          = [ 0x61, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0247          = [ 0x61, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0248          = [ 0x61, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0249          = [ 0x61, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Crater 
+0x024A          = [ 0x61, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x024B          = [ 0x61, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x024C          = [ 0x61, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x024D          = [ 0x61, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Forest_Temple 
+0x024E          = [ 0x03, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x024F          = [ 0x03, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0250          = [ 0x03, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0251          = [ 0x03, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Inside_the_Deku_Tree 
+0x0252          = [ 0x00, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x0253          = [ 0x00, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x0254          = [ 0x00, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+0x0255          = [ 0x00, 0x01, true, false, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x0256          = [ 0x0E, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0257          = [ 0x0E, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0258          = [ 0x0E, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0259          = [ 0x0E, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x025A          = [ 0x20, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+# Market_Child_Night 
+0x025B          = [ 0x21, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Ruins 
+0x025C          = [ 0x22, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x025D          = [ 0x22, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x025E          = [ 0x20, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+# Market_Child_Night 
+0x025F          = [ 0x21, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Ruins 
+0x0260          = [ 0x22, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0261          = [ 0x22, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x0262          = [ 0x20, 0x03, true, true, "FadeWhite", "FadeWhite" ]
+# Market_Child_Night 
+0x0263          = [ 0x21, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Ruins 
+0x0264          = [ 0x22, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0265          = [ 0x22, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x0266          = [ 0x55, 0x04, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0267          = [ 0x55, 0x04, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0268          = [ 0x55, 0x04, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0269          = [ 0x55, 0x04, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Kokiri_Forest 
+0x026A          = [ 0x55, 0x05, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x026B          = [ 0x55, 0x05, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x026C          = [ 0x55, 0x05, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x026D          = [ 0x55, 0x05, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Market_Entrance_Child_Day 
+0x026E          = [ 0x1B, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+# Market_Entrance_Child_Night 
+0x026F          = [ 0x1C, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+# Market_Entrance_Ruins 
+0x0270          = [ 0x1D, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+0x0271          = [ 0x1D, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+# Links_House 
+0x0272          = [ 0x34, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0273          = [ 0x34, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0274          = [ 0x34, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0275          = [ 0x34, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Market_Entrance_Child_Day 
+0x0276          = [ 0x1B, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+# Market_Entrance_Child_Night 
+0x0277          = [ 0x1C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Entrance_Ruins 
+0x0278          = [ 0x1D, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0279          = [ 0x1D, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x027A          = [ 0x51, 0x08, true, true, "FadeWhite", "FadeWhite" ]
+0x027B          = [ 0x51, 0x08, true, true, "FadeBlack", "FadeBlack" ]
+0x027C          = [ 0x51, 0x08, true, true, "FadeWhite", "FadeWhite" ]
+0x027D          = [ 0x51, 0x08, true, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x027E          = [ 0x51, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x027F          = [ 0x51, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x0280          = [ 0x51, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x0281          = [ 0x51, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+# Hyrule_Field 
+0x0282          = [ 0x51, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+0x0283          = [ 0x51, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+0x0284          = [ 0x51, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+0x0285          = [ 0x51, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+# Kokiri_Forest 
+0x0286          = [ 0x55, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0287          = [ 0x55, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0288          = [ 0x55, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0289          = [ 0x55, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x028A          = [ 0x51, 0x0B, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x028B          = [ 0x51, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x028C          = [ 0x51, 0x0B, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x028D          = [ 0x51, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+# Hyrule_Field 
+0x028E          = [ 0x51, 0x0C, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x028F          = [ 0x51, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0290          = [ 0x51, 0x0C, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0291          = [ 0x51, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+# Hyrule_Field 
+0x0292          = [ 0x51, 0x0D, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0293          = [ 0x51, 0x0D, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0294          = [ 0x51, 0x0D, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0295          = [ 0x51, 0x0D, false, true, "FadeBlackFast", "FadeBlack" ]
+# Castle_Hedge_Maze_Day 
+0x0296          = [ 0x45, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+# Castle_Hedge_Maze_Night 
+0x0297          = [ 0x46, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Castle_Hedge_Maze_Day 
+0x0298          = [ 0x45, 0x01, false, true, "FadeWhite", "FadeWhite" ]
+# Castle_Hedge_Maze_Night 
+0x0299          = [ 0x46, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x029A          = [ 0x1E, 0x01, true, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_Child_Night 
+0x029B          = [ 0x1F, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x029C          = [ 0x1E, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x029D          = [ 0x1F, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x029E          = [ 0x20, 0x04, true, true, "FadeWhite", "FadeWhite" ]
+# Market_Child_Night 
+0x029F          = [ 0x21, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Ruins 
+0x02A0          = [ 0x22, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x02A1          = [ 0x22, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x02A2          = [ 0x20, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x02A3          = [ 0x21, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x02A4          = [ 0x22, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x02A5          = [ 0x22, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Kakariko_Village 
+0x02A6          = [ 0x52, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x02A7          = [ 0x52, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x02A8          = [ 0x52, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x02A9          = [ 0x52, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02AA          = [ 0x5D, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x02AB          = [ 0x5D, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x02AC          = [ 0x5D, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x02AD          = [ 0x5D, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x02AE          = [ 0x63, 0x01, false, false, "FadeWhite", "FadeWhite" ]
+0x02AF          = [ 0x63, 0x01, false, false, "FadeBlack", "FadeBlack" ]
+0x02B0          = [ 0x63, 0x01, false, false, "FadeWhite", "FadeWhite" ]
+0x02B1          = [ 0x63, 0x01, false, false, "FadeBlack", "FadeBlack" ]
+# Shadow_Temple 
+0x02B2          = [ 0x07, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02B3          = [ 0x07, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02B4          = [ 0x07, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02B5          = [ 0x07, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Shadow_Temple 
+0x02B6          = [ 0x07, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x02B7          = [ 0x07, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x02B8          = [ 0x07, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x02B9          = [ 0x07, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02BA          = [ 0x5D, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x02BB          = [ 0x5D, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x02BC          = [ 0x5D, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x02BD          = [ 0x5D, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02BE          = [ 0x5D, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x02BF          = [ 0x5D, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x02C0          = [ 0x5D, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x02C1          = [ 0x5D, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02C2          = [ 0x5D, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x02C3          = [ 0x5D, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x02C4          = [ 0x5D, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x02C5          = [ 0x5D, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02C6          = [ 0x5D, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x02C7          = [ 0x5D, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x02C8          = [ 0x5D, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x02C9          = [ 0x5D, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time 
+0x02CA          = [ 0x43, 0x02, false, true, "FillWhite", "FillWhite" ]
+0x02CB          = [ 0x43, 0x02, false, true, "FillWhite", "FillWhite" ]
+0x02CC          = [ 0x43, 0x02, false, true, "FillWhite", "FillWhite" ]
+0x02CD          = [ 0x43, 0x02, false, true, "FillWhite", "FillWhite" ]
+# Chamber_of_the_Sages 
+0x02CE          = [ 0x44, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02CF          = [ 0x44, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02D0          = [ 0x44, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x02D1          = [ 0x44, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02D2          = [ 0x5D, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x02D3          = [ 0x5D, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x02D4          = [ 0x5D, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x02D5          = [ 0x5D, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02D6          = [ 0x5D, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+0x02D7          = [ 0x5D, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x02D8          = [ 0x5D, 0x0A, false, true, "FadeWhite", "FadeWhite" ]
+0x02D9          = [ 0x5D, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02DA          = [ 0x5D, 0x0B, false, true, "FadeWhite", "FadeWhite" ]
+0x02DB          = [ 0x5D, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x02DC          = [ 0x5D, 0x0B, false, true, "FadeWhite", "FadeWhite" ]
+0x02DD          = [ 0x5D, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x02DE          = [ 0x5D, 0x0C, false, true, "FadeWhite", "FadeWhite" ]
+0x02DF          = [ 0x5D, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x02E0          = [ 0x5D, 0x0C, false, true, "FadeWhite", "FadeWhite" ]
+0x02E1          = [ 0x5D, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x02E2          = [ 0x63, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x02E3          = [ 0x63, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x02E4          = [ 0x63, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+0x02E5          = [ 0x63, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x02E6          = [ 0x63, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x02E7          = [ 0x63, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x02E8          = [ 0x63, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x02E9          = [ 0x63, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Shooting_Gallery 
+0x02EA          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02EB          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02EC          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02ED          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Sacred_Forest_Meadow 
+0x02EE          = [ 0x56, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Cutscene_Map 
+0x02EF          = [ 0x47, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Shooting_Gallery 
+0x02F0          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02F1          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02F2          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02F3          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x02F4          = [ 0x42, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Spirit_Temple 
+0x02F5          = [ 0x06, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x02F6          = [ 0x06, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x02F7          = [ 0x06, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x02F8          = [ 0x06, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Stable 
+0x02F9          = [ 0x36, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x02FA          = [ 0x36, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x02FB          = [ 0x36, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x02FC          = [ 0x36, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Kakariko_Tenement 
+0x02FD          = [ 0x2A, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x02FE          = [ 0x2A, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x02FF          = [ 0x2A, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0300          = [ 0x2A, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Barinades_Lair 
+0x0301          = [ 0x13, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0302          = [ 0x13, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0303          = [ 0x13, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0304          = [ 0x13, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Volvagias_Lair 
+0x0305          = [ 0x15, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0306          = [ 0x15, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0307          = [ 0x15, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0308          = [ 0x15, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x0309          = [ 0x57, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x030A          = [ 0x57, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x030B          = [ 0x57, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x030C          = [ 0x57, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Gravekeepers_Hut 
+0x030D          = [ 0x3A, 0x00, false, true, "FadeBlack", "Circle" ]
+0x030E          = [ 0x3A, 0x00, false, true, "FadeBlack", "Circle" ]
+0x030F          = [ 0x3A, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0310          = [ 0x3A, 0x00, false, true, "FadeBlack", "Circle" ]
+# Hyrule_Field 
+0x0311          = [ 0x51, 0x0E, true, true, "FadeWhite", "FadeWhite" ]
+0x0312          = [ 0x51, 0x0E, true, true, "FadeWhite", "FadeWhite" ]
+0x0313          = [ 0x51, 0x0E, true, true, "FadeWhite", "FadeWhite" ]
+0x0314          = [ 0x51, 0x0E, true, true, "FadeWhite", "FadeWhite" ]
+# Great_Fairys_Fountain_Upgrades 
+0x0315          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0316          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0317          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0318          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0319          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x031A          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x031B          = [ 0x3B, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Grave_Redead 
+0x031C          = [ 0x3F, 0x00, false, true, "FadeBlack", "Circle" ]
+0x031D          = [ 0x3F, 0x00, false, true, "FadeBlack", "Circle" ]
+0x031E          = [ 0x3F, 0x00, false, true, "FadeBlack", "Circle" ]
+0x031F          = [ 0x3F, 0x00, false, true, "FadeBlack", "Circle" ]
+# Temple_of_Time 
+0x0320          = [ 0x43, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0321          = [ 0x43, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0322          = [ 0x43, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0323          = [ 0x43, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time 
+0x0324          = [ 0x43, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0325          = [ 0x43, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0326          = [ 0x43, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0327          = [ 0x43, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Domain 
+0x0328          = [ 0x58, 0x04, false, true, "Circle", "Circle" ]
+0x0329          = [ 0x58, 0x04, false, true, "Circle", "Circle" ]
+0x032A          = [ 0x58, 0x04, false, true, "Circle", "Circle" ]
+0x032B          = [ 0x58, 0x04, false, true, "Circle", "Circle" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x032C          = [ 0x1A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x032D          = [ 0x1A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x032E          = [ 0x1A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x032F          = [ 0x1A, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x0330          = [ 0x1A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0331          = [ 0x1A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0332          = [ 0x1A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+0x0333          = [ 0x1A, 0x03, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x0334          = [ 0x1A, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x0335          = [ 0x1A, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x0336          = [ 0x1A, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x0337          = [ 0x1A, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x0338          = [ 0x55, 0x07, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0339          = [ 0x55, 0x07, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x033A          = [ 0x55, 0x07, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x033B          = [ 0x55, 0x07, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Kokiri_Forest 
+0x033C          = [ 0x55, 0x08, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x033D          = [ 0x55, 0x08, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x033E          = [ 0x55, 0x08, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x033F          = [ 0x55, 0x08, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Hyrule_Castle 
+0x0340          = [ 0x5F, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0341          = [ 0x5F, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Castle_Exterior 
+0x0342          = [ 0x64, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0343          = [ 0x64, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Castle 
+0x0344          = [ 0x5F, 0x02, false, true, "Wipe", "Wipe" ]
+# Kakariko_Village 
+0x0345          = [ 0x52, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0346          = [ 0x52, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0347          = [ 0x52, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0348          = [ 0x52, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Kakariko_Village 
+0x0349          = [ 0x52, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x034A          = [ 0x52, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x034B          = [ 0x52, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x034C          = [ 0x52, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Kakariko_Village 
+0x034D          = [ 0x52, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x034E          = [ 0x52, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x034F          = [ 0x52, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0350          = [ 0x52, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+# Kakariko_Village 
+0x0351          = [ 0x52, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0352          = [ 0x52, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0353          = [ 0x52, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0354          = [ 0x52, 0x08, false, true, "FadeBlackFast", "FadeBlack" ]
+# Graveyard 
+0x0355          = [ 0x53, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0356          = [ 0x53, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0357          = [ 0x53, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0358          = [ 0x53, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+# Graveyard 
+0x0359          = [ 0x53, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x035A          = [ 0x53, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x035B          = [ 0x53, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x035C          = [ 0x53, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+# Graveyard 
+0x035D          = [ 0x53, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x035E          = [ 0x53, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x035F          = [ 0x53, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x0360          = [ 0x53, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+# Graveyard 
+0x0361          = [ 0x53, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0362          = [ 0x53, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0363          = [ 0x53, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0364          = [ 0x53, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+# Haunted_Wasteland 
+0x0365          = [ 0x5E, 0x01, true, true, "Sandstorm", "Sandstorm" ]
+0x0366          = [ 0x5E, 0x01, true, true, "Sandstorm", "Sandstorm" ]
+0x0367          = [ 0x5E, 0x01, true, true, "Sandstorm", "Sandstorm" ]
+0x0368          = [ 0x5E, 0x01, true, true, "Sandstorm", "Sandstorm" ]
+# Haunted_Wasteland 
+0x0369          = [ 0x5E, 0x02, false, true, "Sandstorm", "Sandstorm" ]
+0x036A          = [ 0x5E, 0x02, false, true, "Sandstorm", "Sandstorm" ]
+0x036B          = [ 0x5E, 0x02, false, true, "Sandstorm", "Sandstorm" ]
+0x036C          = [ 0x5E, 0x02, false, true, "Sandstorm", "Sandstorm" ]
+# Fairys_Fountain 
+0x036D          = [ 0x3C, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x036E          = [ 0x3C, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x036F          = [ 0x3C, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0370          = [ 0x3C, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Great_Fairys_Fountain_Spells 
+0x0371          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0372          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0373          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0374          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0375          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0376          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0377          = [ 0x3D, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x0378          = [ 0x63, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0379          = [ 0x63, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x037A          = [ 0x63, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x037B          = [ 0x63, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Goron_Shop 
+0x037C          = [ 0x2E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x037D          = [ 0x2E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x037E          = [ 0x2E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x037F          = [ 0x2E, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Zora_Shop 
+0x0380          = [ 0x2F, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0381          = [ 0x2F, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0382          = [ 0x2F, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0383          = [ 0x2F, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Kakariko_Potion_Shop 
+0x0384          = [ 0x30, 0x00, false, false, "FadeBlackFast", "Circle" ]
+0x0385          = [ 0x30, 0x00, false, false, "FadeBlackFast", "Circle" ]
+0x0386          = [ 0x30, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0387          = [ 0x30, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Market_Potion_Shop 
+0x0388          = [ 0x31, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0389          = [ 0x31, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x038A          = [ 0x31, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x038B          = [ 0x31, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Back_Alley_Child_Day 
+0x038C          = [ 0x1E, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x038D          = [ 0x1F, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x038E          = [ 0x1E, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x038F          = [ 0x1F, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Bombchu_Shop 
+0x0390          = [ 0x32, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0391          = [ 0x32, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0392          = [ 0x32, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0393          = [ 0x32, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Fountain 
+0x0394          = [ 0x59, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0395          = [ 0x59, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0396          = [ 0x59, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+0x0397          = [ 0x59, 0x05, false, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_House_Dog_Lady 
+0x0398          = [ 0x35, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0399          = [ 0x35, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x039A          = [ 0x35, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x039B          = [ 0x35, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+# Impas_House_Cucco_Ladys_home 
+0x039C          = [ 0x37, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x039D          = [ 0x37, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x039E          = [ 0x37, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x039F          = [ 0x37, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Carpenters_Tent 
+0x03A0          = [ 0x39, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x03A1          = [ 0x39, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x03A2          = [ 0x39, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x03A3          = [ 0x39, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Gerudos_Fortress 
+0x03A4          = [ 0x5D, 0x0D, false, true, "FadeWhite", "FadeWhite" ]
+0x03A5          = [ 0x5D, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+0x03A6          = [ 0x5D, 0x0D, false, true, "FadeWhite", "FadeWhite" ]
+0x03A7          = [ 0x5D, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x03A8          = [ 0x5D, 0x0E, false, true, "FadeWhite", "FadeWhiteFast" ]
+0x03A9          = [ 0x5D, 0x0E, false, true, "FadeBlack", "FadeBlackFast" ]
+0x03AA          = [ 0x5D, 0x0E, false, true, "FadeWhite", "FadeWhiteFast" ]
+0x03AB          = [ 0x5D, 0x0E, false, true, "FadeBlack", "FadeBlackFast" ]
+# Gerudos_Fortress 
+0x03AC          = [ 0x5D, 0x0F, true, true, "SandstormEnd", "SandstormEnd" ]
+0x03AD          = [ 0x5D, 0x0F, true, true, "SandstormEnd", "SandstormEnd" ]
+0x03AE          = [ 0x5D, 0x0F, true, true, "SandstormEnd", "SandstormEnd" ]
+0x03AF          = [ 0x5D, 0x0F, true, true, "SandstormEnd", "SandstormEnd" ]
+# Gerudos_Fortress 
+0x03B0          = [ 0x5D, 0x10, false, true, "FadeBlack", "FadeBlack" ]
+0x03B1          = [ 0x5D, 0x10, false, true, "FadeBlack", "FadeBlack" ]
+0x03B2          = [ 0x5D, 0x10, false, true, "FadeBlack", "FadeBlack" ]
+0x03B3          = [ 0x5D, 0x10, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x03B4          = [ 0x5D, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+0x03B5          = [ 0x5D, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+0x03B6          = [ 0x5D, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+0x03B7          = [ 0x5D, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+# Market_Child_Day 
+0x03B8          = [ 0x20, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x03B9          = [ 0x21, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x03BA          = [ 0x22, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03BB          = [ 0x22, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Day 
+0x03BC          = [ 0x20, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Child_Night 
+0x03BD          = [ 0x21, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+# Market_Ruins 
+0x03BE          = [ 0x22, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03BF          = [ 0x22, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x03C0          = [ 0x1E, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Night 
+0x03C1          = [ 0x1F, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+# Back_Alley_Child_Day 
+0x03C2          = [ 0x1E, 0x02, false, true, "FadeWhite", "FadeWhite" ]
+# Back_Alley_Child_Night 
+0x03C3          = [ 0x1F, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Domain 
+0x03C4          = [ 0x58, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x03C5          = [ 0x58, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x03C6          = [ 0x58, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x03C7          = [ 0x58, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x03C8          = [ 0x57, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x03C9          = [ 0x57, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x03CA          = [ 0x57, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x03CB          = [ 0x57, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+# Lake_Hylia 
+0x03CC          = [ 0x57, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03CD          = [ 0x57, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03CE          = [ 0x57, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03CF          = [ 0x57, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Gerudo_Valley 
+0x03D0          = [ 0x5A, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03D1          = [ 0x5A, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03D2          = [ 0x5A, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03D3          = [ 0x5A, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Zoras_Fountain 
+0x03D4          = [ 0x59, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x03D5          = [ 0x59, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x03D6          = [ 0x59, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x03D7          = [ 0x59, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Zoras_Fountain 
+0x03D8          = [ 0x59, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03D9          = [ 0x59, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03DA          = [ 0x59, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03DB          = [ 0x59, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x03DC          = [ 0x0E, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x03DD          = [ 0x0E, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x03DE          = [ 0x0E, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+0x03DF          = [ 0x0E, 0x04, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x03E0          = [ 0x0E, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x03E1          = [ 0x0E, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x03E2          = [ 0x0E, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+0x03E3          = [ 0x0E, 0x05, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x03E4          = [ 0x0E, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x03E5          = [ 0x0E, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x03E6          = [ 0x0E, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x03E7          = [ 0x0E, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Potion_Shop 
+0x03E8          = [ 0x30, 0x01, false, false, "FadeBlackFast", "Circle" ]
+0x03E9          = [ 0x30, 0x01, false, false, "FadeBlackFast", "Circle" ]
+0x03EA          = [ 0x30, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x03EB          = [ 0x30, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Kakariko_Potion_Shop 
+0x03EC          = [ 0x30, 0x02, false, false, "FadeBlackFast", "Circle" ]
+0x03ED          = [ 0x30, 0x02, false, false, "FadeBlackFast", "Circle" ]
+0x03EE          = [ 0x30, 0x02, false, true, "FadeBlackFast", "Circle" ]
+0x03EF          = [ 0x30, 0x02, false, true, "FadeBlackFast", "Circle" ]
+# Spirit_Temple 
+0x03F0          = [ 0x06, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+0x03F1          = [ 0x06, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+0x03F2          = [ 0x06, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+0x03F3          = [ 0x06, 0x02, false, false, "FadeBlack", "FadeBlack" ]
+# Spirit_Temple 
+0x03F4          = [ 0x06, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+0x03F5          = [ 0x06, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+0x03F6          = [ 0x06, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+0x03F7          = [ 0x06, 0x03, false, false, "FadeBlack", "FadeBlack" ]
+# Spirit_Temple 
+0x03F8          = [ 0x06, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03F9          = [ 0x06, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03FA          = [ 0x06, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x03FB          = [ 0x06, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Goron_City 
+0x03FC          = [ 0x62, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03FD          = [ 0x62, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03FE          = [ 0x62, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x03FF          = [ 0x62, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+# Castle_Courtyard 
+0x0400          = [ 0x4A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0401          = [ 0x4A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0402          = [ 0x4A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0403          = [ 0x4A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0404          = [ 0x4A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0405          = [ 0x4A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0406          = [ 0x4A, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Inside_Jabu_Jabus_Belly 
+0x0407          = [ 0x02, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0408          = [ 0x02, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0409          = [ 0x02, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x040A          = [ 0x02, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# King_Dodongos_Lair 
+0x040B          = [ 0x12, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x040C          = [ 0x12, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x040D          = [ 0x12, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x040E          = [ 0x12, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+# Gohmas_Lair 
+0x040F          = [ 0x11, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x0410          = [ 0x11, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x0411          = [ 0x11, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+0x0412          = [ 0x11, 0x00, true, false, "FadeBlack", "FadeBlack" ]
+# Bongo_Bongos_Lair 
+0x0413          = [ 0x18, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0414          = [ 0x18, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0415          = [ 0x18, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0416          = [ 0x18, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Morphas_Lair 
+0x0417          = [ 0x16, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0418          = [ 0x16, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0419          = [ 0x16, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x041A          = [ 0x16, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower 
+0x041B          = [ 0x0A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x041C          = [ 0x0A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x041D          = [ 0x0A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x041E          = [ 0x0A, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Ganondorfs_Lair 
+0x041F          = [ 0x19, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0420          = [ 0x19, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0421          = [ 0x19, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0422          = [ 0x19, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Water_Temple 
+0x0423          = [ 0x05, 0x01, true, true, "FadeWhite", "FadeBlack" ]
+0x0424          = [ 0x05, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0425          = [ 0x05, 0x01, true, true, "FadeWhite", "FadeBlack" ]
+0x0426          = [ 0x05, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower 
+0x0427          = [ 0x0A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0428          = [ 0x0A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x0429          = [ 0x0A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x042A          = [ 0x0A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower 
+0x042B          = [ 0x0A, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x042C          = [ 0x0A, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x042D          = [ 0x0A, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x042E          = [ 0x0A, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x042F          = [ 0x63, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0430          = [ 0x63, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0431          = [ 0x63, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0432          = [ 0x63, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Midos_House 
+0x0433          = [ 0x28, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0434          = [ 0x28, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0435          = [ 0x28, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0436          = [ 0x28, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Sarias_House 
+0x0437          = [ 0x29, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0438          = [ 0x29, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0439          = [ 0x29, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x043A          = [ 0x29, 0x00, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Back_Alley_House_Man_in_Green 
+0x043B          = [ 0x2B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x043C          = [ 0x2B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x043D          = [ 0x2B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x043E          = [ 0x2B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x043F          = [ 0x1A, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0440          = [ 0x1A, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0441          = [ 0x1A, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x0442          = [ 0x1A, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Kokiri_Forest 
+0x0443          = [ 0x55, 0x09, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0444          = [ 0x55, 0x09, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0445          = [ 0x55, 0x09, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0446          = [ 0x55, 0x09, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Kokiri_Forest 
+0x0447          = [ 0x55, 0x0A, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0448          = [ 0x55, 0x0A, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x0449          = [ 0x55, 0x0A, false, false, "FadeBlackFast", "FadeBlackFast" ]
+0x044A          = [ 0x55, 0x0A, false, false, "FadeBlackFast", "FadeBlackFast" ]
+# Kakariko_Village 
+0x044B          = [ 0x52, 0x09, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x044C          = [ 0x52, 0x09, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x044D          = [ 0x52, 0x09, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x044E          = [ 0x52, 0x09, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Dampes_Grave_&_Windmill 
+0x044F          = [ 0x48, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0450          = [ 0x48, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0451          = [ 0x48, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0452          = [ 0x48, 0x00, false, true, "FadeBlack", "Circle" ]
+# Dampes_Grave_&_Windmill 
+0x0453          = [ 0x48, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x0454          = [ 0x48, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x0455          = [ 0x48, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x0456          = [ 0x48, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Kokiri_Forest 
+0x0457          = [ 0x55, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0458          = [ 0x55, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0459          = [ 0x55, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x045A          = [ 0x55, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+# Death_Mountain_Trail 
+0x045B          = [ 0x60, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x045C          = [ 0x60, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x045D          = [ 0x60, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x045E          = [ 0x60, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Fishing_Pond 
+0x045F          = [ 0x49, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0460          = [ 0x49, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0461          = [ 0x49, 0x00, false, true, "FadeBlack", "Circle" ]
+0x0462          = [ 0x49, 0x00, false, true, "FadeBlack", "Circle" ]
+# Kakariko_Village 
+0x0463          = [ 0x52, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0464          = [ 0x52, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0465          = [ 0x52, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0466          = [ 0x52, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x0467          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0468          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0469          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046A          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046B          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046C          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046D          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046E          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x046F          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0470          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0471          = [ 0x0D, 0x00, false, true, "FadeBlackFast", "FadeBlack" ]
+# Temple_of_Time_Exterior_Child_Day 
+0x0472          = [ 0x23, 0x01, false, true, "FadeBlackFast", "FadeBlack" ]
+# Temple_of_Time_Exterior_Child_Night 
+0x0473          = [ 0x24, 0x01, false, true, "FadeBlackFast", "FadeBlack" ]
+# Temple_of_Time_Exterior_Ruins 
+0x0474          = [ 0x25, 0x01, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0475          = [ 0x25, 0x01, false, true, "FadeBlackFast", "FadeBlack" ]
+# Hyrule_Field 
+0x0476          = [ 0x51, 0x0F, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0477          = [ 0x51, 0x0F, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0478          = [ 0x51, 0x0F, false, true, "FadeWhiteFast", "FadeWhiteFast" ]
+0x0479          = [ 0x51, 0x0F, false, true, "FadeBlackFast", "FadeBlack" ]
+# Death_Mountain_Trail 
+0x047A          = [ 0x60, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x047B          = [ 0x60, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x047C          = [ 0x60, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x047D          = [ 0x60, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Hyrule_Castle 
+0x047E          = [ 0x5F, 0x04, false, true, "FadeWhite", "FadeWhite" ]
+0x047F          = [ 0x5F, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Castle_Exterior 
+0x0480          = [ 0x64, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0481          = [ 0x64, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Crater 
+0x0482          = [ 0x61, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0483          = [ 0x61, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0484          = [ 0x61, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0485          = [ 0x61, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x0486          = [ 0x0C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0487          = [ 0x0C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0488          = [ 0x0C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0489          = [ 0x0C, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x048A          = [ 0x0C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x048B          = [ 0x0C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x048C          = [ 0x0C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x048D          = [ 0x0C, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x048E          = [ 0x0C, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x048F          = [ 0x0C, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0490          = [ 0x0C, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0491          = [ 0x0C, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x0492          = [ 0x0C, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0493          = [ 0x0C, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0494          = [ 0x0C, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x0495          = [ 0x0C, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x0496          = [ 0x0C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0497          = [ 0x0C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0498          = [ 0x0C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x0499          = [ 0x0C, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x049A          = [ 0x0C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x049B          = [ 0x0C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x049C          = [ 0x0C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x049D          = [ 0x0C, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x049E          = [ 0x0C, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x049F          = [ 0x0C, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x04A0          = [ 0x0C, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x04A1          = [ 0x0C, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x04A2          = [ 0x0C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x04A3          = [ 0x0C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x04A4          = [ 0x0C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x04A5          = [ 0x0C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x04A6          = [ 0x0C, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x04A7          = [ 0x0C, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x04A8          = [ 0x0C, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x04A9          = [ 0x0C, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x04AA          = [ 0x0C, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x04AB          = [ 0x0C, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x04AC          = [ 0x0C, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x04AD          = [ 0x0C, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x04AE          = [ 0x0C, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x04AF          = [ 0x0C, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x04B0          = [ 0x0C, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x04B1          = [ 0x0C, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x04B2          = [ 0x0C, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x04B3          = [ 0x0C, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x04B4          = [ 0x0C, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x04B5          = [ 0x0C, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapsing 
+0x04B6          = [ 0x0E, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x04B7          = [ 0x0E, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x04B8          = [ 0x0E, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x04B9          = [ 0x0E, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x04BA          = [ 0x1A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x04BB          = [ 0x1A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x04BC          = [ 0x1A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+0x04BD          = [ 0x1A, 0x01, true, true, "FadeBlack", "FadeBlack" ]
+# Great_Fairys_Fountain_Upgrades 
+0x04BE          = [ 0x3B, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x04BF          = [ 0x3B, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x04C0          = [ 0x3B, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x04C1          = [ 0x3B, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Great_Fairys_Fountain_Upgrades 
+0x04C2          = [ 0x3B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x04C3          = [ 0x3B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x04C4          = [ 0x3B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x04C5          = [ 0x3B, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x04C6          = [ 0x5B, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04C7          = [ 0x5B, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04C8          = [ 0x5B, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04C9          = [ 0x5B, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x04CA          = [ 0x63, 0x06, false, false, "FadeBlack", "Circle" ]
+0x04CB          = [ 0x63, 0x06, false, false, "FadeBlack", "Circle" ]
+0x04CC          = [ 0x63, 0x06, false, false, "FadeBlack", "Circle" ]
+0x04CD          = [ 0x63, 0x06, false, false, "FadeBlack", "Circle" ]
+# Lon_Lon_Ranch 
+0x04CE          = [ 0x63, 0x07, false, false, "Circle", "Circle" ]
+0x04CF          = [ 0x63, 0x07, false, false, "Circle", "Circle" ]
+0x04D0          = [ 0x63, 0x07, false, false, "Circle", "Circle" ]
+0x04D1          = [ 0x63, 0x07, false, false, "Circle", "Circle" ]
+# Lost_Woods 
+0x04D2          = [ 0x5B, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04D3          = [ 0x5B, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04D4          = [ 0x5B, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04D5          = [ 0x5B, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x04D6          = [ 0x5B, 0x06, false, true, "Circle", "Circle" ]
+0x04D7          = [ 0x5B, 0x06, false, true, "Circle", "Circle" ]
+0x04D8          = [ 0x5B, 0x06, false, true, "Circle", "Circle" ]
+0x04D9          = [ 0x5B, 0x06, false, true, "Circle", "Circle" ]
+# Lost_Woods 
+0x04DA          = [ 0x5B, 0x07, false, true, "Circle", "Circle" ]
+0x04DB          = [ 0x5B, 0x07, false, true, "Circle", "Circle" ]
+0x04DC          = [ 0x5B, 0x07, false, true, "Circle", "Circle" ]
+0x04DD          = [ 0x5B, 0x07, false, true, "Circle", "Circle" ]
+# Lost_Woods 
+0x04DE          = [ 0x5B, 0x08, false, false, "FadeBlack", "FadeBlack" ]
+0x04DF          = [ 0x5B, 0x08, false, false, "FadeBlack", "FadeBlack" ]
+0x04E0          = [ 0x5B, 0x08, false, false, "FadeBlack", "FadeBlack" ]
+0x04E1          = [ 0x5B, 0x08, false, false, "FadeBlack", "FadeBlack" ]
+# Goron_City 
+0x04E2          = [ 0x62, 0x03, false, true, "Circle", "Circle" ]
+0x04E3          = [ 0x62, 0x03, false, true, "Circle", "Circle" ]
+0x04E4          = [ 0x62, 0x03, false, true, "Circle", "Circle" ]
+0x04E5          = [ 0x62, 0x03, false, true, "Circle", "Circle" ]
+# Lake_Hylia 
+0x04E6          = [ 0x57, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04E7          = [ 0x57, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04E8          = [ 0x57, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x04E9          = [ 0x57, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Shadow_Temple 
+0x04EA          = [ 0x07, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04EB          = [ 0x07, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04EC          = [ 0x07, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04ED          = [ 0x07, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Village 
+0x04EE          = [ 0x52, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x04EF          = [ 0x52, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x04F0          = [ 0x52, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+0x04F1          = [ 0x52, 0x0B, false, true, "FadeBlackFast", "FadeBlack" ]
+# Great_Fairys_Fountain_Upgrades 
+0x04F2          = [ 0x3B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04F3          = [ 0x3B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04F4          = [ 0x3B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04F5          = [ 0x3B, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Death_Mountain_Crater 
+0x04F6          = [ 0x61, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04F7          = [ 0x61, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04F8          = [ 0x61, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x04F9          = [ 0x61, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Castle 
+0x04FA          = [ 0x5F, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x04FB          = [ 0x5F, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Castle_Exterior 
+0x04FC          = [ 0x64, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x04FD          = [ 0x64, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Castle 
+0x04FE          = [ 0x5F, 0x03, false, true, "Wipe", "Wipe" ]
+# Kakariko_Village 
+0x04FF          = [ 0x52, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0500          = [ 0x52, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0501          = [ 0x52, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0502          = [ 0x52, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+# Dampes_Grave_&_Windmill 
+0x0503          = [ 0x48, 0x02, true, true, "FadeBlackFast", "Circle" ]
+0x0504          = [ 0x48, 0x02, true, true, "FadeBlackFast", "Circle" ]
+0x0505          = [ 0x48, 0x02, true, true, "FadeBlackFast", "Circle" ]
+0x0506          = [ 0x48, 0x02, true, true, "FadeBlackFast", "Circle" ]
+# Bombchu_Bowling_Alley 
+0x0507          = [ 0x4B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0508          = [ 0x4B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0509          = [ 0x4B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x050A          = [ 0x4B, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Graveyard 
+0x050B          = [ 0x53, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x050C          = [ 0x53, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x050D          = [ 0x53, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+0x050E          = [ 0x53, 0x06, false, true, "FadeWhite", "FadeWhite" ]
+# Hyrule_Field 
+0x050F          = [ 0x51, 0x10, false, true, "Instant", "Instant" ]
+0x0510          = [ 0x51, 0x10, false, true, "Instant", "Instant" ]
+0x0511          = [ 0x51, 0x10, false, true, "Instant", "Instant" ]
+0x0512          = [ 0x51, 0x10, false, true, "Instant", "Instant" ]
+# Kakariko_Village 
+0x0513          = [ 0x52, 0x0D, false, true, "FadeWhite", "FadeWhite" ]
+0x0514          = [ 0x52, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+0x0515          = [ 0x52, 0x0D, false, true, "FadeWhite", "FadeWhite" ]
+0x0516          = [ 0x52, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Collapse_&_Battle_Arena 
+0x0517          = [ 0x4F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0518          = [ 0x4F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x0519          = [ 0x4F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x051A          = [ 0x4F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+0x051B          = [ 0x4F, 0x00, false, true, "FadeWhite", "FadeWhite" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x051C          = [ 0x1A, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x051D          = [ 0x1A, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x051E          = [ 0x1A, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+0x051F          = [ 0x1A, 0x06, true, true, "FadeBlack", "FadeBlack" ]
+# Ganondorf_Test_Room 
+0x0520          = [ 0x66, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0521          = [ 0x66, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0522          = [ 0x66, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+0x0523          = [ 0x66, 0x00, false, true, "FadeBlack", "FadeBlack" ]
+# Ganons_Tower_Exterior_Collapsing 
+0x0524          = [ 0x1A, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x0525          = [ 0x1A, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x0526          = [ 0x1A, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+0x0527          = [ 0x1A, 0x07, true, true, "FadeBlack", "FadeBlack" ]
+# Bombchu_Shop 
+0x0528          = [ 0x32, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0529          = [ 0x32, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x052A          = [ 0x32, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x052B          = [ 0x32, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Bazaar 
+0x052C          = [ 0x2C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x052D          = [ 0x2C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x052E          = [ 0x2C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x052F          = [ 0x2C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Happy_Mask_Shop 
+0x0530          = [ 0x33, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0531          = [ 0x33, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0532          = [ 0x33, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0533          = [ 0x33, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Inside_Ganons_Castle 
+0x0534          = [ 0x0D, 0x01, false, false, "FadeBlackFast", "FadeBlack" ]
+0x0535          = [ 0x0D, 0x01, false, false, "FadeBlackFast", "FadeBlack" ]
+0x0536          = [ 0x0D, 0x01, false, false, "FadeBlackFast", "FadeBlack" ]
+0x0537          = [ 0x0D, 0x01, false, false, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x0538          = [ 0x0D, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0539          = [ 0x0D, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x053A          = [ 0x0D, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+0x053B          = [ 0x0D, 0x02, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x053C          = [ 0x0D, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x053D          = [ 0x0D, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x053E          = [ 0x0D, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+0x053F          = [ 0x0D, 0x03, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x0540          = [ 0x0D, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0541          = [ 0x0D, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0542          = [ 0x0D, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0543          = [ 0x0D, 0x04, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x0544          = [ 0x0D, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0545          = [ 0x0D, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0546          = [ 0x0D, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0547          = [ 0x0D, 0x05, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x0548          = [ 0x0D, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x0549          = [ 0x0D, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x054A          = [ 0x0D, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+0x054B          = [ 0x0D, 0x06, false, true, "FadeBlackFast", "FadeBlack" ]
+# Inside_Ganons_Castle 
+0x054C          = [ 0x0D, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x054D          = [ 0x0D, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x054E          = [ 0x0D, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+0x054F          = [ 0x0D, 0x07, false, true, "FadeBlackFast", "FadeBlack" ]
+# House_of_Skulltula 
+0x0550          = [ 0x50, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0551          = [ 0x50, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0552          = [ 0x50, 0x00, false, true, "FadeBlackFast", "Circle" ]
+0x0553          = [ 0x50, 0x00, false, true, "FadeBlackFast", "Circle" ]
+# Kakariko_Village 
+0x0554          = [ 0x52, 0x0E, false, true, "FadeWhite", "FadeWhite" ]
+0x0555          = [ 0x52, 0x0E, false, true, "FadeBlack", "FadeBlack" ]
+0x0556          = [ 0x52, 0x0E, false, true, "FadeWhite", "FadeWhite" ]
+0x0557          = [ 0x52, 0x0E, false, true, "FadeBlack", "FadeBlack" ]
+# Lon_Lon_Ranch 
+0x0558          = [ 0x63, 0x08, false, false, "Circle", "Circle" ]
+0x0559          = [ 0x63, 0x08, false, false, "Circle", "Circle" ]
+0x055A          = [ 0x63, 0x08, false, false, "Circle", "Circle" ]
+0x055B          = [ 0x63, 0x08, false, false, "Circle", "Circle" ]
+# Lon_Lon_Ranch 
+0x055C          = [ 0x63, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x055D          = [ 0x63, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x055E          = [ 0x63, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x055F          = [ 0x63, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x0560          = [ 0x57, 0x07, false, true, "Circle", "Circle" ]
+0x0561          = [ 0x57, 0x07, false, true, "Circle", "Circle" ]
+0x0562          = [ 0x57, 0x07, false, true, "Circle", "Circle" ]
+0x0563          = [ 0x57, 0x07, false, true, "Circle", "Circle" ]
+# Death_Mountain_Crater 
+0x0564          = [ 0x61, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x0565          = [ 0x61, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x0566          = [ 0x61, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x0567          = [ 0x61, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Graveyard 
+0x0568          = [ 0x53, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x0569          = [ 0x53, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x056A          = [ 0x53, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x056B          = [ 0x53, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+# Inside_Ganons_Castle_Collapsing 
+0x056C          = [ 0x0F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x056D          = [ 0x0F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x056E          = [ 0x0F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+0x056F          = [ 0x0F, 0x00, true, true, "FadeBlack", "FadeBlack" ]
+# Thieves_Hideout 
+0x0570          = [ 0x0C, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x0571          = [ 0x0C, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x0572          = [ 0x0C, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x0573          = [ 0x0C, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+# Royal_Familys_Tomb 
+0x0574          = [ 0x41, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0575          = [ 0x41, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0576          = [ 0x41, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0577          = [ 0x41, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Great_Fairys_Fountain_Spells 
+0x0578          = [ 0x3D, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x0579          = [ 0x3D, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x057A          = [ 0x3D, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x057B          = [ 0x3D, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Desert_Colossus 
+0x057C          = [ 0x5C, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x057D          = [ 0x5C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x057E          = [ 0x5C, 0x07, false, true, "FadeWhite", "FadeWhite" ]
+0x057F          = [ 0x5C, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Graveyard 
+0x0580          = [ 0x53, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0581          = [ 0x53, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0582          = [ 0x53, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0583          = [ 0x53, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+# Forest_Temple 
+0x0584          = [ 0x03, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0585          = [ 0x03, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0586          = [ 0x03, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0587          = [ 0x03, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Great_Fairys_Fountain_Spells 
+0x0588          = [ 0x3D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0589          = [ 0x3D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x058A          = [ 0x3D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x058B          = [ 0x3D, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time 
+0x058C          = [ 0x43, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x058D          = [ 0x43, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x058E          = [ 0x43, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+0x058F          = [ 0x43, 0x05, false, true, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time 
+0x0590          = [ 0x43, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0591          = [ 0x43, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0592          = [ 0x43, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x0593          = [ 0x43, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Hyrule_Field 
+0x0594          = [ 0x51, 0x11, false, true, "FadeWhite", "FadeWhite" ]
+0x0595          = [ 0x51, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+0x0596          = [ 0x51, 0x11, false, true, "FadeWhite", "FadeWhite" ]
+0x0597          = [ 0x51, 0x11, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x0598          = [ 0x3E, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x0599          = [ 0x3E, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x059A          = [ 0x3E, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x059B          = [ 0x3E, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x059C          = [ 0x3E, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x059D          = [ 0x3E, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x059E          = [ 0x3E, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x059F          = [ 0x3E, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05A0          = [ 0x3E, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x05A1          = [ 0x3E, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x05A2          = [ 0x3E, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+0x05A3          = [ 0x3E, 0x03, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05A4          = [ 0x3E, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x05A5          = [ 0x3E, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x05A6          = [ 0x3E, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+0x05A7          = [ 0x3E, 0x04, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05A8          = [ 0x3E, 0x05, false, true, "FadeBlack", "FadeWhite" ]
+0x05A9          = [ 0x3E, 0x05, false, true, "FadeBlack", "FadeWhite" ]
+0x05AA          = [ 0x3E, 0x05, false, true, "FadeBlack", "FadeWhite" ]
+0x05AB          = [ 0x3E, 0x05, false, true, "FadeBlack", "FadeWhite" ]
+# Grottos 
+0x05AC          = [ 0x3E, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x05AD          = [ 0x3E, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x05AE          = [ 0x3E, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+0x05AF          = [ 0x3E, 0x06, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05B0          = [ 0x3E, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05B1          = [ 0x3E, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05B2          = [ 0x3E, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05B3          = [ 0x3E, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05B4          = [ 0x3E, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x05B5          = [ 0x3E, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x05B6          = [ 0x3E, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x05B7          = [ 0x3E, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05B8          = [ 0x3E, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x05B9          = [ 0x3E, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x05BA          = [ 0x3E, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+0x05BB          = [ 0x3E, 0x09, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05BC          = [ 0x3E, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x05BD          = [ 0x3E, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x05BE          = [ 0x3E, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+0x05BF          = [ 0x3E, 0x0A, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05C0          = [ 0x3E, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x05C1          = [ 0x3E, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x05C2          = [ 0x3E, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+0x05C3          = [ 0x3E, 0x0B, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05C4          = [ 0x3E, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x05C5          = [ 0x3E, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x05C6          = [ 0x3E, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+0x05C7          = [ 0x3E, 0x0C, false, true, "FadeBlack", "FadeBlack" ]
+# Impas_House_Cucco_Ladys_home 
+0x05C8          = [ 0x37, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05C9          = [ 0x37, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05CA          = [ 0x37, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05CB          = [ 0x37, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Bottom_of_the_Well 
+0x05CC          = [ 0x08, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x05CD          = [ 0x08, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x05CE          = [ 0x08, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+0x05CF          = [ 0x08, 0x01, false, true, "FadeBlackFast", "FadeBlackFast" ]
+# Ranch_House_&_Silo 
+0x05D0          = [ 0x4C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05D1          = [ 0x4C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05D2          = [ 0x4C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+0x05D3          = [ 0x4C, 0x01, false, true, "FadeBlackFast", "Circle" ]
+# Lon_Lon_Ranch 
+0x05D4          = [ 0x63, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05D5          = [ 0x63, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05D6          = [ 0x63, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05D7          = [ 0x63, 0x0A, false, true, "FadeBlackFast", "FadeBlack" ]
+# Ice_Cavern 
+0x05D8          = [ 0x09, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x05D9          = [ 0x09, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x05DA          = [ 0x09, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+0x05DB          = [ 0x09, 0x01, false, true, "FadeBlack", "FadeBlack" ]
+# Kakariko_Village 
+0x05DC          = [ 0x52, 0x0F, false, true, "FadeWhite", "FadeWhite" ]
+0x05DD          = [ 0x52, 0x0F, false, true, "FadeBlack", "FadeBlack" ]
+0x05DE          = [ 0x52, 0x0F, false, true, "FadeWhite", "FadeWhite" ]
+0x05DF          = [ 0x52, 0x0F, false, true, "FadeBlack", "FadeBlack" ]
+# Lost_Woods 
+0x05E0          = [ 0x5B, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x05E1          = [ 0x5B, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x05E2          = [ 0x5B, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+0x05E3          = [ 0x5B, 0x09, false, false, "FadeBlack", "FadeBlack" ]
+# Ranch_House_&_Silo 
+0x05E4          = [ 0x4C, 0x02, false, true, "FadeBlackFast", "Circle" ]
+0x05E5          = [ 0x4C, 0x02, false, true, "FadeBlackFast", "Circle" ]
+0x05E6          = [ 0x4C, 0x02, false, true, "FadeBlackFast", "Circle" ]
+0x05E7          = [ 0x4C, 0x02, false, true, "FadeBlackFast", "Circle" ]
+# Kokiri_Forest 
+0x05E8          = [ 0x55, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05E9          = [ 0x55, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05EA          = [ 0x55, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+0x05EB          = [ 0x55, 0x0C, false, true, "FadeBlackFast", "FadeBlack" ]
+# Twinrovas_Lair 
+0x05EC          = [ 0x17, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x05ED          = [ 0x17, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x05EE          = [ 0x17, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+0x05EF          = [ 0x17, 0x02, true, true, "FadeBlack", "FadeBlack" ]
+# Castle_Courtyard 
+0x05F0          = [ 0x4A, 0x01, false, false, "FadeWhite", "FadeWhite" ]
+0x05F1          = [ 0x4A, 0x01, false, false, "FadeBlack", "FadeBlack" ]
+0x05F2          = [ 0x4A, 0x01, false, false, "FadeWhite", "FadeWhite" ]
+0x05F3          = [ 0x4A, 0x01, false, false, "FadeBlack", "FadeBlack" ]
+# Temple_of_Time 
+0x05F4          = [ 0x43, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05F5          = [ 0x43, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05F6          = [ 0x43, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+0x05F7          = [ 0x43, 0x07, false, true, "FadeBlack", "FadeBlack" ]
+# Gerudos_Fortress 
+0x05F8          = [ 0x5D, 0x12, false, true, "FadeBlack", "FadeBlack" ]
+0x05F9          = [ 0x5D, 0x12, false, true, "FadeBlack", "FadeBlack" ]
+0x05FA          = [ 0x5D, 0x12, false, true, "FadeBlack", "FadeBlack" ]
+0x05FB          = [ 0x5D, 0x12, false, true, "FadeBlack", "FadeBlack" ]
+# Grottos 
+0x05FC          = [ 0x3E, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+0x05FD          = [ 0x3E, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+0x05FE          = [ 0x3E, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+0x05FF          = [ 0x3E, 0x0D, false, true, "FadeBlack", "FadeBlack" ]
+# Sacred_Forest_Meadow 
+0x0600          = [ 0x56, 0x02, false, true, "FadeGreen", "FadeGreen" ]
+0x0601          = [ 0x56, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+0x0602          = [ 0x56, 0x02, false, true, "FadeGreen", "FadeGreen" ]
+0x0603          = [ 0x56, 0x02, false, true, "FadeBlack", "FadeBlack" ]
+# Lake_Hylia 
+0x0604          = [ 0x57, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x0605          = [ 0x57, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x0606          = [ 0x57, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+0x0607          = [ 0x57, 0x08, false, true, "FadeBlack", "FadeBlack" ]
+# Sacred_Forest_Meadow 
+0x0608          = [ 0x56, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x0609          = [ 0x56, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x060A          = [ 0x56, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+0x060B          = [ 0x56, 0x03, false, true, "FadeWhite", "FadeWhite" ]
+# Lake_Hylia 
+0x060C          = [ 0x57, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x060D          = [ 0x57, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x060E          = [ 0x57, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+0x060F          = [ 0x57, 0x09, false, true, "FadeWhite", "FadeWhite" ]
+# Desert_Colossus 
+0x0610          = [ 0x5C, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0611          = [ 0x5C, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0612          = [ 0x5C, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+0x0613          = [ 0x5C, 0x08, false, true, "FadeWhite", "FadeWhite" ]
+# Dodongos_Cavern 
+0x0614          = [ 0x01, 0xFFFFFFFC, false, false, "Circle", "Wipe" ]
+0x0615          = [ 0x01, 0xFFFFFFFC, true, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0616          = [ 0x01, 0xFFFFFFA0, false, false, "Circle", "Wipe" ]
+0x0617          = [ 0x01, 0xFFFFFFA0, false, true, "FadeWhiteInstant", "Wipe" ]
+# Dodongos_Cavern 
+0x0618          = [ 0x01, 0x13, false, false, "FadeBlackFast", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0619          = [ 0x02, 0x03, true, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x061A          = [ 0x02, 0x04, true, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x061B          = [ 0x01, 0xFFFFFFA0, true, false, "Wipe", "Wipe" ]
+0x061C          = [ 0x01, 0xFFFFFFA0, true, false, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x061D          = [ 0x01, 0x14, false, false, "FadeBlackSlow", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x061E          = [ 0x02, 0x0E, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x061F          = [ 0x02, 0x0F, false, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0620          = [ 0x01, 0xFFFFFFA0, false, true, "Circle", "Wipe" ]
+0x0621          = [ 0x01, 0xFFFFFFA0, false, true, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x0622          = [ 0x01, 0x15, false, false, "WipeFast", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0623          = [ 0x02, 0x14, true, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0624          = [ 0x02, 0x15, true, true, "Circle", "FillBlack" ]
+# Dodongos_Cavern 
+0x0625          = [ 0x01, 0xFFFFFF9F, false, false, "Circle", "Wipe" ]
+0x0626          = [ 0x01, 0xFFFFFF9F, false, true, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0627          = [ 0x02, 0x16, false, false, "FillWhite", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0628          = [ 0x02, 0x21, false, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0629          = [ 0x02, 0x22, true, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x062A          = [ 0x01, 0xFFFFFF9F, true, false, "Circle", "Wipe" ]
+0x062B          = [ 0x01, 0xFFFFFF9F, true, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x062C          = [ 0x02, 0x12, false, false, "FillBrown", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x062D          = [ 0x02, 0x30, true, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x062E          = [ 0x02, 0x32, false, false, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x062F          = [ 0x01, 0xFFFFFF9F, true, true, "Wipe", "Wipe" ]
+0x0630          = [ 0x01, 0xFFFFFF9F, true, true, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x0631          = [ 0x01, 0x17, false, false, "Sandstorm", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0632          = [ 0x02, 0x3D, true, true, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0633          = [ 0x02, 0x3F, false, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0634          = [ 0x01, 0xFFFFFF9F, true, true, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x0635          = [ 0x01, 0xFFFFFFA0, false, false, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x0636          = [ 0x01, 0x19, false, false, "FillBlack", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0637          = [ 0x02, 0x4E, true, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0638          = [ 0x02, 0x50, false, false, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0639          = [ 0x01, 0xFFFFFF9F, false, true, "Circle", "Wipe" ]
+0x063A          = [ 0x01, 0xFFFFFF9F, true, false, "FadeWhiteInstant", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x063B          = [ 0x02, 0x18, false, false, "FadeGreen", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x063C          = [ 0x02, 0x58, true, true, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x063D          = [ 0x02, 0x59, true, false, "Circle", "FillBlack" ]
+# Dodongos_Cavern 
+0x063E          = [ 0x01, 0xFFFFFFA9, false, false, "Circle", "Wipe" ]
+0x063F          = [ 0x01, 0xFFFFFFA9, false, true, "FadeWhiteInstant", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0640          = [ 0x02, 0x18, false, false, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0641          = [ 0x02, 0x5C, true, true, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0642          = [ 0x02, 0x5D, true, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0643          = [ 0x01, 0xFFFFFFA0, true, true, "Circle", "Wipe" ]
+# Dodongos_Cavern 
+0x0644          = [ 0x01, 0xFFFFFFA1, false, false, "FadeWhiteInstant", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0645          = [ 0x00, 0x25, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0646          = [ 0x03, 0x13, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0647          = [ 0x03, 0x14, false, false, "SandstormEnd", "Circle" ]
+# Inside_the_Deku_Tree 
+0x0648          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0649          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x064A          = [ 0x02, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x064B          = [ 0x02, 0x63, false, true, "Circle", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x064C          = [ 0x02, 0x64, false, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x064D          = [ 0x01, 0xFFFFFFA1, false, false, "Circle", "Wipe" ]
+0x064E          = [ 0x01, 0xFFFFFFA1, false, false, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x064F          = [ 0x00, 0x1B, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0650          = [ 0x03, 0x40, true, false, "Circle", "Wipe" ]
+# Forest_Temple 
+0x0651          = [ 0x03, 0x41, true, false, "FadeGreen", "Circle" ]
+# Dodongos_Cavern 
+0x0652          = [ 0x01, 0xFFFFFFA8, false, false, "Circle", "Wipe" ]
+0x0653          = [ 0x01, 0xFFFFFFA8, false, true, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0654          = [ 0x00, 0x28, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0655          = [ 0x02, 0x6A, false, true, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0656          = [ 0x02, 0x6C, false, true, "Circle", "Circle" ]
+# Dodongos_Cavern 
+0x0657          = [ 0x01, 0xFFFFFFA0, true, false, "Circle", "Wipe" ]
+0x0658          = [ 0x01, 0xFFFFFFA0, true, true, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0659          = [ 0x00, 0x1A, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x065A          = [ 0x03, 0x50, false, true, "Circle", "Wipe" ]
+0x065B          = [ 0x03, 0x50, true, true, "Circle", "FillBlack" ]
+# Inside_the_Deku_Tree 
+0x065C          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x065D          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x065E          = [ 0x00, 0x33, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x065F          = [ 0x03, 0x58, true, true, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0660          = [ 0x03, 0x59, false, false, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0661          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0662          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0663          = [ 0x00, 0x34, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0664          = [ 0x03, 0x4E, false, false, "Circle", "Wipe" ]
+0x0665          = [ 0x03, 0x4E, true, false, "FadeWhite", "Circle" ]
+# Dodongos_Cavern 
+0x0666          = [ 0x01, 0xFFFFFFA8, true, false, "Circle", "Wipe" ]
+0x0667          = [ 0x01, 0xFFFFFFA8, true, false, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0668          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0669          = [ 0x03, 0x10, false, false, "Circle", "Wipe" ]
+0x066A          = [ 0x03, 0x10, false, false, "Circle", "Circle" ]
+# Inside_the_Deku_Tree 
+0x066B          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x066C          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x066D          = [ 0x00, 0x1C, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x066E          = [ 0x03, 0x0F, false, true, "Circle", "Wipe" ]
+0x066F          = [ 0x03, 0x0F, false, true, "Circle", "Circle" ]
+# Inside_the_Deku_Tree 
+0x0670          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0671          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0672          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0673          = [ 0x02, 0xFFFFFFEF, true, true, "Circle", "Wipe" ]
+0x0674          = [ 0x02, 0xFFFFFFEF, true, true, "Circle", "Circle" ]
+# Inside_the_Deku_Tree 
+0x0675          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0676          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0677          = [ 0x00, 0x15, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x0678          = [ 0x02, 0xFFFFFFC7, false, true, "Wipe", "Wipe" ]
+0x0679          = [ 0x02, 0xFFFFFFC7, false, true, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x067A          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x067B          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Dodongos_Cavern 
+0x067C          = [ 0x01, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_Jabu_Jabus_Belly 
+0x067D          = [ 0x02, 0xFFFFFFF0, true, false, "Wipe", "Wipe" ]
+0x067E          = [ 0x02, 0xFFFFFFF0, true, true, "Circle", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x067F          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0680          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0681          = [ 0x00, 0x12, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0682          = [ 0x03, 0x11, true, true, "Circle", "Wipe" ]
+0x0683          = [ 0x03, 0x11, true, true, "Circle", "Circle" ]
+# Inside_the_Deku_Tree 
+0x0684          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+0x0685          = [ 0x00, 0x00, false, false, "Wipe", "Wipe" ]
+# Inside_the_Deku_Tree 
+0x0686          = [ 0x00, 0x1D, false, false, "Wipe", "Wipe" ]
+# Forest_Temple 
+0x0687          = [ 0x03, 0x1A, false, true, "Wipe", "Wipe" ]

@@ -1,0 +1,62 @@
+# Blender MTL File: 'Shelter-DogSideQuest.blend'
+# Material Count: 21
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl CANDLE
+map_Kd textures\\Object_pot_v2.png
+
+newmtl Invisibility
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl Letter
+map_Kd textures\\Paper_Letter.png
+
+newmtl StoneStair
+map_Kd textures\\Stone_stairs_2_nomirror.png
+
+newmtl ThickMetalRailling
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl TreeSkin.005
+map_Kd textures\\WornWoodenPillar.png
+
+newmtl TreeSpot.001
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl _155
+map_Kd textures\\00010420.png
+
+newmtl _155.001
+map_Kd textures\\00010131.png
+
+newmtl _155_1_
+map_Kd textures\\stonefloor2.png
+
+newmtl bloodEffect
+map_Kd textures\\ST-0x78188_32x32_IA16.png
+
+newmtl collision
+
+newmtl collision-Stone
+
+newmtl dirt
+map_Kd textures\\CASTLEVANIA2#4A1FD084#2#0#0E7F72F5_ciByRGBA.png
+
+newmtl magic
+map_Kd textures\\00006000_64x128_ia4.png
+
+newmtl material_0004.110
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl metalDoor
+
+newmtl poison
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl rock
+map_Kd textures\\stonesfloor_stones_edge_wall.png
+
+newmtl roof
+map_Kd textures\\H49.png

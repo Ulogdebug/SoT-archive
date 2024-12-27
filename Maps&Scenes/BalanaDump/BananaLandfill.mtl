@@ -1,0 +1,118 @@
+# Blender MTL File: 'BananaLandfill.blend'
+# Material Count: 39
+
+newmtl 00018980_32x32_rgba16
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl 32199110
+map_Kd textures\\RaggedCloth.png
+
+newmtl Arrow
+map_Kd textures\\Arrow.png
+
+newmtl Banana
+map_Kd textures\\Yellow_Artificial_Light.png
+
+newmtl Box
+map_Kd textures\\_581.png
+
+newmtl Chateau_material_44
+map_Kd textures\\Chateau_material_44.png
+
+newmtl Collision
+
+newmtl Crap
+map_Kd textures\\Dirt_Crap.png
+
+newmtl CrapWithMoss
+map_Kd textures\\MossyCrap.png
+
+newmtl Flag
+map_Kd textures\\_525.png
+
+newmtl Flag2
+map_Kd textures\\_446.png
+
+newmtl GoronHead2
+map_Kd textures\\statue_pattern_1.rgba16.png
+
+newmtl Ladder
+map_Kd textures\\RedMetalLadder.png
+
+newmtl Metal
+map_Kd textures\\Silicon Valley#71B2B7A0#0#2_all.png
+
+newmtl Metal2
+map_Kd textures\\Silicon Valley#134AAD09#0#2_all.png
+
+newmtl MetalHole
+map_Kd textures\\_275.png
+
+newmtl MetalWall
+map_Kd textures\\0x124B0.png
+
+newmtl Middle.bmp.001
+map_Kd textures\\Middle.bmp
+
+newmtl Nuke_material_23
+map_Kd textures\\Nuke_material_10.png
+
+newmtl Ragged_Rope
+map_Kd textures\\Ragged_Rope.png
+
+newmtl Raillings
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl Rusty_Metal_Plate2
+map_Kd textures\\Rusty_Metal_Plate2.png
+
+newmtl Sides.bmp.001
+map_Kd textures\\Sides.bmp
+
+newmtl Smoke2
+map_Kd textures\\CloudEffect.png
+
+newmtl Spikes
+map_Kd textures\\00021018_16x64_rgba16.png
+
+newmtl SteelWall
+map_Kd textures\\64227841.png
+
+newmtl Trash
+map_Kd textures\\0x2420.png
+
+newmtl Trash-shallowWater
+map_Kd textures\\0x2420.png
+
+newmtl TrashBin
+map_Kd textures\\0x134F0.png
+
+newmtl WoodPole
+map_Kd textures\\_609.bmp
+
+newmtl _3.001
+map_Kd textures\\_3.png
+
+newmtl _564.001
+map_Kd textures\\_564.png
+
+newmtl cannon
+map_Kd textures\\_570.png
+
+newmtl dodongo
+map_Kd textures\\_566.png
+
+newmtl goron
+map_Kd textures\\_564.png
+
+newmtl gun
+map_Kd textures\\_3.png
+
+newmtl holes
+map_Kd textures\\0x92B0.png
+
+newmtl stonesfloor_stones_edge_wall
+map_Kd textures\\0x178A0.png
+
+newmtl wall
+map_Kd textures\\Nuke_material_58.png

@@ -1,0 +1,73 @@
+# Blender MTL File: 'BossSec-TheXFactory.blend'
+# Material Count: 24
+
+newmtl ArmBone
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl ArmBone.002
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl ArmBone.003
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl ArmBone.007
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl BombPainting
+
+newmtl Bone
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl Chain
+map_Kd textures\\ZELDA MAJORA'S MASK#A9183C11#2#1#937E268B_ciByRGBA.png
+
+newmtl CrapDirt
+map_Kd textures\\0001B750_32x32_rgba16.png
+
+newmtl CrapDirt-Damage
+map_Kd textures\\0001B750_32x32_rgba16.png
+
+newmtl CrapWater.001
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl Dirt.016
+map_Kd textures\\Dark_Dirt_Rubble.PNG
+
+newmtl Grass
+map_Kd textures\\0x30A0.png
+
+newmtl Hook
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl MossyWall
+map_Kd textures\\Stone_Moss4.png
+
+newmtl Pipe
+map_Kd textures\\Worn_Concrete_Wall.png
+
+newmtl Skull
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl SteelPipe
+map_Kd textures\\0x840.png
+
+newmtl TreeSkin.006
+map_Kd textures\\ZELDA MAJORA'S MASK#3672E641#2#1#4CEA3E41_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#3672E641#2#1#4CEA3E41_ciByRGBA.png
+
+newmtl Wall
+map_Kd textures\\RustyMetalEdge.png
+
+newmtl Wall.003
+map_Kd textures\\Stone_Moss_Wall2.png
+
+newmtl WarningLine
+map_Kd textures\\Prodigy_material_102.png
+
+newmtl iron-hole
+map_Kd textures\\ZELDA MAJORA'S MASK#C70E4C2B#2#0#1B72EA64_ciByRGBA.png
+
+newmtl iron-hole.001
+map_Kd textures\\MetalWithWarningLine.png

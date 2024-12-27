@@ -1,0 +1,15 @@
+# DesertCave
+draw_func_index = 0
+[enables]
+	bottles     = false
+	a_button    = false
+	b_button    = false
+	unused      = false
+	warp_song   = false
+	ocarina     = false
+	hookshot    = false
+	trade_item  = false
+	other       = false
+	din_nayru   = false
+	farores     = false
+	sun_song    = false

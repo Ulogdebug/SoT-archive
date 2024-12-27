@@ -1,0 +1,17 @@
+Name = "Switch Camera"
+Category = "BG"
+
+[[Property]]
+	Mask          = 0x003F
+	Name          = "Switch Flag"
+	Target        = "Var"
+
+[[Property]]
+	Mask          = 0x1000
+	Name          = "Discovery Sound"
+	Target        = "Var"
+
+[[Property]]
+	Mask          = 0x00FF
+	Name          = "Time in 1/10th seconds"
+	Target        = "ZRot"

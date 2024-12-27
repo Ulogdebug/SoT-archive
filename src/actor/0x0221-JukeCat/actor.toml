@@ -1,0 +1,6 @@
+Name = "JukeCat"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "ID of the first sequence"
+    Target    = "Var"

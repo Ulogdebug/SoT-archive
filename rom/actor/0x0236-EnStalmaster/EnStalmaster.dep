@@ -1,0 +1,8 @@
+src/actor/0x0236-EnStalmaster/EnStalmaster.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/actor/0x0236-EnStalmaster/object\0x0235-Stalmaster.h
+src/actor/0x0236-EnStalmaster/../0x0247-EnDummyEnemy/EnDummyEnemy.h
+

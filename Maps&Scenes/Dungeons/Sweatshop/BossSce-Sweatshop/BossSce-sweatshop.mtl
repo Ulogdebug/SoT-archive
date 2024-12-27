@@ -1,0 +1,124 @@
+# Blender MTL File: 'BossSce-sweatshop.blend'
+# Material Count: 41
+
+newmtl 00002016
+map_Kd textures\\00010109.png
+
+newmtl 00002162
+map_Kd textures\\00009912.png
+
+newmtl 00003705
+map_Kd textures\\00010417.png
+
+newmtl 00009839
+map_Kd textures\\00009840.png
+
+newmtl 00010070
+map_Kd textures\\00002159.png
+
+newmtl 00010171
+map_Kd textures\\00009894.png
+
+newmtl 00010276
+map_Kd textures\\00010276.png
+
+newmtl 00010453
+map_Kd textures\\00010453.png
+
+newmtl 00010512
+map_Kd textures\\00010512.png
+
+newmtl Bag
+map_Kd textures\\i_ctex21a_2.png
+
+newmtl Bone
+map_Kd textures\\1209CF4E_cout.png
+
+newmtl Chest.002
+map_Kd textures\\0000F590_32x64_rgba16.png
+
+newmtl Chest.003
+map_Kd textures\\0000CD90_32x32_rgba16.png
+
+newmtl DirtyBandage
+map_Kd textures\\Metal_WallTransition.png
+
+newmtl FancyGems.001
+map_Kd textures\\0000E590_32x32_rgba16.png
+
+newmtl Gold
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl Gold.001
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl Gold.002
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl LAVA
+map_Kd textures\\Lava 2.png
+
+newmtl LightningWallGreyscale
+map_Kd textures\\00009736.png
+
+newmtl Prodigy_material_24
+map_Kd textures\\Prodigy_material_24.png
+
+newmtl RedLaser
+map_Kd textures\\RedLaser.png
+
+newmtl RedLight
+map_Kd textures\\Nuke_material_23.png
+
+newmtl RedMetalLadder
+map_Kd textures\\RedMetalLadder.png
+
+newmtl SteelRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl Stone_Stairs01
+map_Kd textures\\StoneStair.png
+
+newmtl SwordSteel
+map_Kd textures\\Metal_Wall_Bottom.png
+
+newmtl Train_material_46.001
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl VendingMachine
+map_Kd textures\\VendingMachine.png
+
+newmtl WEB
+map_Kd textures\\00001044.png
+
+newmtl _2
+map_Kd textures\\SPACEBR.png
+
+newmtl _9
+map_Kd textures\\SWXSGB.png
+
+newmtl collision
+
+newmtl gold
+map_Kd textures\\00007714.png
+
+newmtl grate
+map_Kd textures\\00010127.png
+
+newmtl iron
+map_Kd textures\\IronTex.bmp
+
+newmtl metalRustWall
+map_Kd textures\\00010285.png
+
+newmtl metalWall
+map_Kd textures\\00009882.png
+
+newmtl roof
+map_Kd textures\\00009903.png
+
+newmtl smallGold
+map_Kd textures\\00009257.png
+
+newmtl stonefloor2
+map_Kd textures\\00009889.png

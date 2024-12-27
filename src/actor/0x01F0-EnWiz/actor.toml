@@ -1,0 +1,17 @@
+Name = "Wizzrobe"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "master wizzrobe"      ],
+		[ 1, "fire wizzrobe"       ],
+        [ 2, "ice wizzrobe"       ],
+        [ 3, "electric wizzrobe"       ],
+        [ 4, "normal wizzrobe"       ],
+	]
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Monster Group Spawned (Var 00)"
+    Target    = "Var"

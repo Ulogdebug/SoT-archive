@@ -1,0 +1,10 @@
+Name = "Invisible_Trigger_Switch"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Distance = (X+1)*50"
+    Target    = "Var"

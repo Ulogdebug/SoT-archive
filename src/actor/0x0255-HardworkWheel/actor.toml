@@ -1,0 +1,26 @@
+Name = "HardworkWheel"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gHardworkWheelObj_DlHardworkWheel"
+    Scale       = 0.1
+[[Property]]
+    Mask      = 0x3F00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "not Moving"      ],
+		[ 0x1, "Moving"       ],
+	]
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Spawn Block"
+    Target    = "Var"
+    Dropdown = [
+		[ 0x0, "No Block"      ],
+		[ 0x1, "Block"       ],
+	]

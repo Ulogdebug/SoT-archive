@@ -1,0 +1,6 @@
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/actor/0x0054-Armos/z_en_am.h
+

@@ -1,0 +1,7 @@
+src/lib_user/state/state.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/actor/0x016E-Hylians/z_en_hy.h
+

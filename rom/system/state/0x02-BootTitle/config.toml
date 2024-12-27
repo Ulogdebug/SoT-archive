@@ -1,0 +1,5 @@
+# file
+
+vram_addr = 0x80800000
+init_func = 0x808005E8
+dest_func = 0x80800000

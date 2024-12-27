@@ -1,0 +1,112 @@
+# Blender MTL File: 'GoronShop.blend'
+# Material Count: 37
+
+newmtl 32757962
+map_Kd textures\\32757962.png
+
+newmtl Banana
+map_Kd textures\\Yellow_Artificial_Light.png
+
+newmtl BlackStone
+map_Kd textures\\0x178E0.png
+
+newmtl Blood_Wall2
+map_Kd textures\\Lava 2.png
+
+newmtl Box
+map_Kd textures\\office_material_119.png
+
+newmtl Collision
+
+newmtl Dirt
+map_Kd textures\\_3.bmp
+
+newmtl GoronFlag
+map_Kd textures\\_525.png
+
+newmtl Ladder
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl LavaStone
+map_Kd textures\\_5.png
+
+newmtl Metal.001
+map_Kd textures\\Silicon Valley#71B2B7A0#0#2_all.png
+
+newmtl Metal2
+map_Kd textures\\Silicon Valley#134AAD09#0#2_all.png
+
+newmtl Metal8
+map_Kd textures\\ZELDA MAJORA'S MASK#1ADC7BF6#2#1#57F407DA_ciByRGBA.png
+
+newmtl MetalHole
+map_Kd textures\\_275.png
+
+newmtl MetalPipe
+map_Kd textures\\Silicon Valley#71B2B7A0#0#2_all.png
+
+newmtl MetalPlate2
+map_Kd textures\\10232484.png
+
+newmtl MetalWall
+map_Kd textures\\ZELDA MAJORA'S MASK#6BF98CF2#2#1#B194B41F_ciByRGBA.png
+
+newmtl Middle
+map_Kd textures\\Middle.bmp
+
+newmtl Nail
+map_Kd textures\\ZELDA MAJORA'S MASK#585F02B8#2#1#C05B1C00_ciByRGBA.png
+
+newmtl Railling
+map_Kd textures\\ZELDA MAJORA'S MASK#F53E6B87#2#1#96A2A89F_ciByRGBA.png
+
+newmtl Raillings
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl Raillings-NoBackface
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl RedLight
+map_Kd textures\\oil_rig_material_18.png
+
+newmtl Rock1
+map_Kd textures\\18068436.png
+
+newmtl Rock2
+map_Kd textures\\46158236.png
+
+newmtl RockFloor
+map_Kd textures\\61909693.png
+
+newmtl ShopFlag
+map_Kd textures\\goronShopFlag.png
+
+newmtl Sides
+map_Kd textures\\Sides.bmp
+
+newmtl SteelPlate
+map_Kd textures\\42711464.png
+
+newmtl StoneWall
+map_Kd textures\\_408.bmp
+
+newmtl WARNING
+map_Kd textures\\warnSign.png
+
+newmtl Yellow_Metal
+map_Kd textures\\BrownMetalPlate.png
+
+newmtl _3.001
+map_Kd textures\\_3.png
+
+newmtl _564.001
+map_Kd textures\\_564.png
+
+newmtl cannon
+map_Kd textures\\Estate_material_22.png
+
+newmtl flag2
+map_Kd textures\\cloth_torn_edge.png
+
+newmtl gun
+map_Kd textures\\_3.png

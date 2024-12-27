@@ -1,0 +1,242 @@
+# Spawn Cutscene Table
+#
+# Every entry has to be separated with [[spawn_cutscene_entry]]
+#
+# # scene_id = Decimal or hex index of scene where the cutscene takes place
+# # spawn_id = Spawn point where the cutscene takes place
+# # age = "child" / "adult" / "both"
+# # flag_type = "switch" / "chest" / "event_chk_inf" / "collectible"
+# # flag_id = Decimal or hex index of the flag value
+#
+# Next two variables are meant for accessing the cutscene.
+# Choose either one, not both.
+#
+# # segment = Hardcoded segment for the cutscene
+# # header = Scene header which holds the cutscene. Only gets the cutscene
+#            data.
+
+[[spawn_cutscene_entry]] # HyruleFieldIntro
+	scene_id  = 0x51
+	spawn_id  = 3
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xA0
+	segment   = 0x02013AA0
+ [[spawn_cutscene_entry]] # Get Forest Medal
+ 	scene_id  = 0x09
+ 	spawn_id  = 3
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xA1
+	header    = 0x1
+# [[spawn_cutscene_entry]] # KakarikoVillageIntro
+# 	scene_id  = 0x52
+# 	spawn_id  = 0
+# 	age       = "both"
+# 	flag_type = "event_chk_inf"
+# 	flag_id   = 0xA3
+# 	segment   = 0x0200A540
+ [[spawn_cutscene_entry]] # Unintended Ending
+ 	scene_id  = 0x52
+ 	spawn_id  = 0xE
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xB3
+	header    = 0x1
+ [[spawn_cutscene_entry]] # Good Ending
+ 	scene_id  = 0x36 
+ 	spawn_id  = 3
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xA5
+	header    = 0x1
+ [[spawn_cutscene_entry]] # Back from Abyss
+ 	scene_id  = 0x25
+ 	spawn_id  = 2
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xA6
+	header    = 0x0
+# [[spawn_cutscene_entry]] # TempleOfTimeIntro
+# 	scene_id  = 0x43
+# 	spawn_id  = 0
+# 	age       = "both"
+# 	flag_type = "event_chk_inf"
+# 	flag_id   = 0xA7
+# 	segment   = 0x0200CE00
+ [[spawn_cutscene_entry]] # Sundown Castle Intro
+ 	scene_id  = 0x04
+ 	spawn_id  = 0
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xA8
+	header    = 0x0
+[[spawn_cutscene_entry]] # Border Village Intro
+	scene_id  = 0x65
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB8
+	header    = 0x0
+[[spawn_cutscene_entry]] # The X Factory Intro
+	scene_id  = 0x3
+	spawn_id  = 0
+	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xB2
+	header    = 0x0
+# [[spawn_cutscene_entry]] # HyruleFieldGateEponaJump
+# 	scene_id  = 0x51
+# 	spawn_id  = 15
+# 	age       = "adult"
+# 	flag_type = "event_chk_inf"
+# 	flag_id   = 0x18
+# 	segment   = 0x02010B30
+[[spawn_cutscene_entry]] # HyruleFieldGetOoT
+	scene_id  = 0x51
+	spawn_id  = 16
+	age       = "child"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xA9
+	header    = 0x8
+# [[spawn_cutscene_entry]] # GerudoFortressIntro
+# 	scene_id  = 0x5D
+# 	spawn_id  = 0
+# 	age       = "both"
+# 	flag_type = "event_chk_inf"
+# 	flag_id   = 0xB3
+# 	segment   = 0x02006490
+[[spawn_cutscene_entry]] # Get Spirit Medal
+	scene_id  = 0x67
+	spawn_id  = 5
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB4
+	header   = 0x1
+ [[spawn_cutscene_entry]] # Get Fire medal 
+ 	scene_id  = 0x68
+ 	spawn_id  = 6
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xB5
+	header   = 0x1
+[[spawn_cutscene_entry]] # Moblin Moutain Intro
+	scene_id  = 0x60
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB6
+	header   = 0x0
+[[spawn_cutscene_entry]] # Border Fortress Intro
+	scene_id  = 0x5A
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB7
+	header    = 0x0
+[[spawn_cutscene_entry]] # Border Fortress Intro 2 (from railway hub)
+	scene_id  = 0x5A
+	spawn_id  = 2
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB7
+	header    = 0x0
+[[spawn_cutscene_entry]] # Abyss hint
+	scene_id  = 0x08
+	spawn_id  = 1
+	age       = "adult"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBA
+	header    = 0x0
+[[spawn_cutscene_entry]] # Border Desert Intro
+	scene_id  = 0x6B
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0x5A
+	header    = 0x0
+[[spawn_cutscene_entry]] # Forest Valley Intro
+	scene_id  = 0x09
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBB
+	header   = 0x0
+[[spawn_cutscene_entry]] # Landfill Intro
+	scene_id  = 0x02
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBC
+	header   = 0x0
+[[spawn_cutscene_entry]] # Steel Town Intro
+	scene_id  = 0x52
+	spawn_id  = 1
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBD
+	header   = 0x0
+[[spawn_cutscene_entry]] # Train Intro
+	scene_id  = 0x22
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBE
+	header   = 0x0
+[[spawn_cutscene_entry]] # Trainstation Intro
+	scene_id  = 0x21
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xB1
+	header    = 0x0
+[[spawn_cutscene_entry]] # Wasteland Intro
+	scene_id  = 0x57
+	spawn_id  = 0
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xAD
+	header    = 0x0
+[[spawn_cutscene_entry]] # Wasteland Intro 2
+	scene_id  = 0x57
+	spawn_id  = 1
+	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xAD
+	header    = 0x0
+[[spawn_cutscene_entry]] # Mushroom Swamp
+	scene_id  = 0x3F
+	spawn_id  = 0
+	age       = "adult"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xC0
+	header    = 0x0
+[[spawn_cutscene_entry]] # Lost Woods
+	scene_id  = 0x5B
+	spawn_id  = 0
+	age       = "adult"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xC7
+	header    = 0x0
+ [[spawn_cutscene_entry]] # DesertCaveIntro
+ 	scene_id  = 0x42
+ 	spawn_id  = 0
+ 	age       = "adult"
+ 	flag_type = "switch"
+ 	flag_id   = 0x1
+  	header    = 0x0
+ [[spawn_cutscene_entry]] # Balana Dump Intro
+ 	scene_id  = 0x62
+ 	spawn_id  = 0
+ 	age       = "both"
+	flag_type = "event_chk_inf"
+	flag_id   = 0xBF
+  	header    = 0x0
+  [[spawn_cutscene_entry]] # InnCutscene
+  	scene_id  = 0x37
+  	spawn_id  = 0
+ 	age       = "both"
+ 	flag_type = "event_chk_inf"
+ 	flag_id   = 0xB9
+  	header    = 0x0
+	

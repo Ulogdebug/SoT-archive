@@ -1,0 +1,64 @@
+# Blender MTL File: 'CastleHookshotTowerOBj.blend'
+# Material Count: 5
+exportid 1679127816.660256
+newmtl "Material.001"
+attrib collision.SOUND_STONE
+attrib collision.NOHORSE
+newmtl "Material.002"
+attrib collision.SOUND_STONE_WET
+attrib collision.NOHORSE
+attrib collision.HOOKSHOT
+newtex "metal_fire_1.png"
+map textures\metal_fire_1.png
+newmtl "metal_fire_1"
+vertexshading normal
+texel0 "metal_fire_1.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_XLU | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_IN, G_BL_0, G_BL_CLR_IN, G_BL_1) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_1MA))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, COMBINED, 0, SHADE, 0)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_FOG, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "HookSpotEye.png"
+map textures\HookSpotEye.png
+newmtl "HookSpotEye"
+vertexshading normal
+texel0 "HookSpotEye.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_XLU | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_IN, G_BL_0, G_BL_CLR_IN, G_BL_1) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_1MA))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, COMBINED, 0, SHADE, 0)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_FOG, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "image_0002.png"
+map textures\image_0002.png
+newmtl "WarningLine2"
+vertexshading normal
+texel0 "image_0002.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_XLU | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_IN, G_BL_0, G_BL_CLR_IN, G_BL_1) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_1MA))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, COMBINED, 0, SHADE, 0)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_FOG, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))

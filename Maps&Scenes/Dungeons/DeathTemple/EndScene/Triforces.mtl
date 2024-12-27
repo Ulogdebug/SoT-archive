@@ -1,0 +1,56 @@
+# Blender MTL File: 'Triforces.blend'
+# Material Count: 18
+
+newmtl BrownStone
+map_Kd textures\\SH-0x95E8_64x32_RGBA16.png
+
+newmtl C2
+map_Kd textures\\C8.png
+
+newmtl C44
+map_Kd textures\\GC-0x3C3C0_32x64_CI8.png
+
+newmtl Chain
+map_Kd textures\\ST-0x5B0B8_16x32_RGBA16.png
+
+newmtl CrackStone
+map_Kd textures\\SB-0x7BA8_32x64_RGBA16.png
+
+newmtl CrackStone.002
+map_Kd textures\\0001CCD8_32x32_rgba16.png
+
+newmtl Edge2
+map_Kd textures\\00014A68_32x64_ci8.bmp
+
+newmtl GC-0xF180_32x32_I8
+map_Kd textures\\LightningWallGreyscale.png
+
+newmtl LightningEffect
+map_Kd textures\\GC-0x4580_32x64_I8.png
+
+newmtl LightningWallGreyscale
+map_Kd textures\\GC-0x2CD80_32x64_CI8.png
+
+newmtl MetalBar.001
+map_Kd textures\\C83.png
+
+newmtl Metal_Cube
+map_Kd textures\\C37.png
+
+newmtl Wall
+map_Kd textures\\C31.png
+
+newmtl black
+map_Kd textures\\black.png
+
+newmtl cloud
+map_Kd textures\\ST-0x9DEC0_32x32_RGBA16.png
+
+newmtl effect
+map_Kd textures\\GC-0xAB088_32x128_IA8.png
+
+newmtl pillar
+map_Kd textures\\SWXCKB.png
+
+newmtl stone
+map_Kd textures\\00006138.png

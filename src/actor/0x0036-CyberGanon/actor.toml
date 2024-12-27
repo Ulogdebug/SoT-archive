@@ -1,0 +1,7 @@
+Name = "CyberGanon"
+
+[[Render]]
+    Regex = "...."
+    Scale = 0.01
+    Animation = 6
+    YOffset = 0

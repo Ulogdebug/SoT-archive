@@ -1,0 +1,7 @@
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/actor/0x01AA-Facamera/Facamera.h
+include/object/0x0005-FacameraObj.h
+

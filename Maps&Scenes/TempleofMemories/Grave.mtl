@@ -1,0 +1,73 @@
+# Blender MTL File: 'Grave.blend'
+# Material Count: 24
+
+newmtl Brick_Stone
+map_Kd textures\\stone_floor_curiosity.png
+
+newmtl BrownStone
+map_Kd textures\\SH-0x95E8_64x32_RGBA16.png
+
+newmtl Cloth_Curtain12
+map_Kd textures\\Cloth_Curtain13.png
+
+newmtl Collision
+
+newmtl CrackStone
+map_Kd textures\\SB-0x7BA8_32x64_RGBA16.png
+
+newmtl CrackStone.001
+map_Kd textures\\0001CCD8_32x32_rgba16.png
+
+newmtl Dark_Dirt_Rubble
+map_Kd textures\\Estate_material_28.png
+
+newmtl Dark_Dirt_Rubble_water
+map_Kd textures\\Estate_material_28.png
+
+newmtl Filler
+map_Kd textures\\0001ECD8_32x32_rgba16.png
+
+newmtl Flag
+map_Kd textures\\Cloth_Flag1.png
+
+newmtl LightWindow
+map_Kd textures\\Yellow_Artificial_Light.png
+
+newmtl MetalBar
+map_Kd textures\\stone_wall_decorative_bottom_05.png
+
+newmtl MetalPipe.001
+map_Kd textures\\metal_scratched_color.png
+
+newmtl MetalRailling
+map_Kd textures\\metal_gate_StoneTower_Patterned.png
+
+newmtl Metal_Cube
+map_Kd textures\\BrownMetalPlate.png
+
+newmtl StoneDarkPathway
+map_Kd textures\\stone_wall_decorative_bottom_04.png
+
+newmtl Storm_material_55
+map_Kd textures\\Storm_material_55.png
+
+newmtl Wall
+map_Kd textures\\oil_rig_material_9.png
+
+newmtl Water
+map_Kd textures\\Sewage 1.png
+
+newmtl WornStone
+map_Kd textures\\Stone_Grey_Concrete.png
+
+newmtl door_shutter_08
+map_Kd textures\\door_shutter_08.png
+
+newmtl effect6
+map_Kd textures\\ZELDA MAJORA'S MASK#2E000026#0#2_all.png
+
+newmtl fx_steam02_0
+map_Kd textures\\fx_steam02_0.png
+
+newmtl stone_edge_floor_to_void
+map_Kd textures\\stonesfloor_stones_edge_wall.png

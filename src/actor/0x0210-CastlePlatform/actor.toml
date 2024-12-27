@@ -1,0 +1,27 @@
+Name = "CastlePlatform"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gCastlePlatformObj_DlCastlePlatformObj"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "ZRot"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Spawn WaypointId"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x0F00
+    Name      = "PathID"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0xF000
+    Name      = "Flip"
+    Target    = "Var"
+    Dropdown = [ [ 0, "false"], [ 1, "true" ] ]
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Speed"
+    Target    = "Var"

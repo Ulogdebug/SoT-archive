@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created with SharpOcarina 1.52-->
+<ZScene cloneid="0" xmlns="clr-namespace:SharpOcarina;assembly=SharpOcarina">
+  <Name>BossSce-DeathTemple</Name>
+  <Scale>1</Scale>
+  <Music>0</Music>
+  <NightSFX>19</NightSFX>
+  <Skybox>0</Skybox>
+  <Weather>0</Weather>
+  <SpecialObject>3</SpecialObject>
+  <ElfMessage>0</ElfMessage>
+  <InjectOffset>47185920</InjectOffset>
+  <SceneNumber>24</SceneNumber>
+  <Reverb>4</Reverb>
+  <CameraMovement>0</CameraMovement>
+  <WorldMap>22</WorldMap>
+  <SceneSettings>0</SceneSettings>
+  <OutdoorLight>false</OutdoorLight>
+  <FixedCameraXPos>0</FixedCameraXPos>
+  <FixedCameraYPos>0</FixedCameraYPos>
+  <FixedCameraZPos>0</FixedCameraZPos>
+  <FixedCameraXRot>0</FixedCameraXRot>
+  <FixedCameraYRot>0</FixedCameraYRot>
+  <FixedCameraZRot>0</FixedCameraZRot>
+  <TimeCtrl>0</TimeCtrl>
+  <SkyboxType>0</SkyboxType>
+  <Cloudy>false</Cloudy>
+  <ContinualInject>true</ContinualInject>
+  <NewRoomMode>true</NewRoomMode>
+  <Prerendered>false</Prerendered>
+  <PregeneratedMesh>false</PregeneratedMesh>
+  <JFIFpath></JFIFpath>
+  <CutsceneEntrance>0</CutsceneEntrance>
+  <CutsceneEntranceNum>0</CutsceneEntranceNum>
+  <CutsceneFlag>0</CutsceneFlag>
+  <CutsceneTableRow>-1</CutsceneTableRow>
+  <version>5392</version>
+  <SegmentFunctions>
+    <Capacity>8</Capacity>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>4</Capacity>
+        <ZTextureAnim>
+          <XVelocity1>0</XVelocity1>
+          <XVelocity2>0</XVelocity2>
+          <YVelocity1>-2</YVelocity1>
+          <YVelocity2>0</YVelocity2>
+          <Width1>32</Width1>
+          <Width2>32</Width2>
+          <Height1>32</Height1>
+          <Height2>32</Height2>
+          <Type>1</Type>
+          <FlagReverse>false</FlagReverse>
+          <FlagValue>0</FlagValue>
+          <FlagBitwise>0</FlagBitwise>
+          <FlagType>255</FlagType>
+          <Preview>true</Preview>
+          <Freeze>true</Freeze>
+          <TextureSwapList>
+            <Capacity>0</Capacity>
+          </TextureSwapList>
+          <ColorList>
+            <Capacity>0</Capacity>
+          </ColorList>
+          <CameraEffect>0</CameraEffect>
+        </ZTextureAnim>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+  </SegmentFunctions>
+  <prerenderimages>
+    <Capacity>0</Capacity>
+  </prerenderimages>
+  <inherittextureanims>true</inherittextureanims>
+  <RestrictionFlags>0</RestrictionFlags>
+  <TitleCard></TitleCard>
+  <CollisionFilename>BossSce-DeathTemple.obj</CollisionFilename>
+  <ZObjects>
+    <Capacity>0</Capacity>
+  </ZObjects>
+  <Transitions>
+    <Capacity>4</Capacity>
+    <ZActor>
+      <Number>35</Number>
+      <XPos>-639</XPos>
+      <YPos>1396</YPos>
+      <ZPos>-63</ZPos>
+      <XRot>0</XRot>
+      <YRot>-32768</YRot>
+      <ZRot>0</ZRot>
+      <Variable>64</Variable>
+      <FrontSwitchTo>1</FrontSwitchTo>
+      <FrontCamera>255</FrontCamera>
+      <BackSwitchTo>0</BackSwitchTo>
+      <BackCamera>255</BackCamera>
+      <SpawnRoom>255</SpawnRoom>
+      <IgnoreMMRot>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+      </IgnoreMMRot>
+    </ZActor>
+  </Transitions>
+  <SpawnPoints>
+    <Capacity>4</Capacity>
+    <ZActor>
+      <Number>0</Number>
+      <XPos>-869</XPos>
+      <YPos>2139</YPos>
+      <ZPos>-155</ZPos>
+      <XRot>0</XRot>
+      <YRot>11647</YRot>
+      <ZRot>0</ZRot>
+      <Variable>1792</Variable>
+      <FrontSwitchTo>0</FrontSwitchTo>
+      <FrontCamera>255</FrontCamera>
+      <BackSwitchTo>1</BackSwitchTo>
+      <BackCamera>255</BackCamera>
+      <SpawnRoom>1</SpawnRoom>
+      <IgnoreMMRot>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+      </IgnoreMMRot>
+    </ZActor>
+    <ZActor>
+      <Number>0</Number>
+      <XPos>-328</XPos>
+      <YPos>-10</YPos>
+      <ZPos>-528</ZPos>
+      <XRot>0</XRot>
+      <YRot>4927</YRot>
+      <ZRot>0</ZRot>
+      <Variable>512</Variable>
+      <FrontSwitchTo>0</FrontSwitchTo>
+      <FrontCamera>255</FrontCamera>
+      <BackSwitchTo>1</BackSwitchTo>
+      <BackCamera>255</BackCamera>
+      <SpawnRoom>0</SpawnRoom>
+      <IgnoreMMRot>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+      </IgnoreMMRot>
+    </ZActor>
+  </SpawnPoints>
+  <Environments>
+    <Capacity>8</Capacity>
+    <ZEnvironment>
+      <C1>-12176846</C1>
+      <C2>5875564</C2>
+      <C3>-11337067</C3>
+      <C4>10987264</C4>
+      <C5>-4601854</C5>
+      <FogColor>-15593188</FogColor>
+      <FogDistance>933</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>1</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-12176846</C1>
+      <C2>4831049</C2>
+      <C3>-8636166</C3>
+      <C4>12040119</C4>
+      <C5>-3280639</C5>
+      <FogColor>-15593188</FogColor>
+      <FogDistance>976</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>15</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-11842741</C1>
+      <C2>12011959</C2>
+      <C3>-4566790</C3>
+      <C4>4831049</C4>
+      <C5>-16248</C5>
+      <FogColor>-12237505</FogColor>
+      <FogDistance>992</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>15</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-16777216</C1>
+      <C2>2179941</C2>
+      <C3>-10091125</C3>
+      <C4>12040119</C4>
+      <C5>-12368382</C5>
+      <FogColor>-14347983</FogColor>
+      <FogDistance>959</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>15</FogUnknown>
+    </ZEnvironment>
+  </Environments>
+  <Waterboxes>
+    <Capacity>0</Capacity>
+  </Waterboxes>
+  <PolyTypes>
+    <Capacity>4</Capacity>
+    <ZColPolyType>
+      <Raw>0</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>2</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>10</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>211106232532994</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+  </PolyTypes>
+  <ExitList>
+    <Capacity>0</Capacity>
+  </ExitList>
+  <ExitListV2>
+    <Capacity>0</Capacity>
+  </ExitListV2>
+  <Pathways>
+    <Capacity>0</Capacity>
+  </Pathways>
+  <Cutscene>
+    <Capacity>8</Capacity>
+    <ZCutscene>
+      <Marker>10</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>0</Capacity>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>4</Capacity>
+        <ZCutsceneActor>
+          <Frames>80</Frames>
+          <Animation>5</Animation>
+          <Rotation>
+            <X>0</X>
+            <Y>4927</Y>
+            <Z>0</Z>
+          </Rotation>
+          <Position>
+            <X>-328</X>
+            <Y>-10</Y>
+            <Z>-528</Z>
+          </Position>
+          <Position2>
+            <X>-328</X>
+            <Y>-10</Y>
+            <Z>-528</Z>
+          </Position2>
+        </ZCutsceneActor>
+        <ZCutsceneActor>
+          <Frames>102</Frames>
+          <Animation>5</Animation>
+          <Rotation>
+            <X>0</X>
+            <Y>4927</Y>
+            <Z>0</Z>
+          </Rotation>
+          <Position>
+            <X>-328</X>
+            <Y>-10</Y>
+            <Z>-528</Z>
+          </Position>
+          <Position2>
+            <X>-328</X>
+            <Y>-10</Y>
+            <Z>-528</Z>
+          </Position2>
+        </ZCutsceneActor>
+      </CutsceneActors>
+      <StartFrame>0</StartFrame>
+      <EndFrame>182</EndFrame>
+    </ZCutscene>
+    <ZCutscene>
+      <Marker>1</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>8</Capacity>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>1</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.954819</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>1</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.954819</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>10</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.954819</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>8</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>0</Capacity>
+      </CutsceneActors>
+      <StartFrame>0</StartFrame>
+      <EndFrame>20</EndFrame>
+    </ZCutscene>
+    <ZCutscene>
+      <Marker>1</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>8</Capacity>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>20</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>1</Cameraroll>
+          <Frames>30</Frames>
+          <Angle>60</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>119.099716</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>-1</Cameraroll>
+          <Frames>40</Frames>
+          <Angle>65</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>157.289322</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>22</Frames>
+          <Angle>70</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>157.289322</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>0</Capacity>
+      </CutsceneActors>
+      <StartFrame>20</StartFrame>
+      <EndFrame>132</EndFrame>
+    </ZCutscene>
+    <ZCutscene>
+      <Marker>1</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>8</Capacity>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>10</Frames>
+          <Angle>70</Angle>
+          <Position>
+            <X>-129.611389</X>
+            <Y>52.65941</Y>
+            <Z>-184.394913</Z>
+          </Position>
+          <Position2>
+            <X>154.9548</X>
+            <Y>157.289322</Y>
+            <Z>226.728043</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>10</Frames>
+          <Angle>70</Angle>
+          <Position>
+            <X>-153.485489</X>
+            <Y>90.04391</Y>
+            <Z>-227.577957</Z>
+          </Position>
+          <Position2>
+            <X>101.697105</X>
+            <Y>96.6076</Y>
+            <Z>202.400955</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>10</Frames>
+          <Angle>70</Angle>
+          <Position>
+            <X>-235.143921</X>
+            <Y>87.94371</Y>
+            <Z>-365.1712</Z>
+          </Position>
+          <Position2>
+            <X>16.2767258</X>
+            <Y>94.5074</Y>
+            <Z>67.01819</Z>
+          </Position2>
+        </ZCutscenePosition>
+        <ZCutscenePosition>
+          <Cameraroll>0</Cameraroll>
+          <Frames>20</Frames>
+          <Angle>70</Angle>
+          <Position>
+            <X>-461.8871</X>
+            <Y>81.9497757</Y>
+            <Z>-761.5335</Z>
+          </Position>
+          <Position2>
+            <X>-212.608124</X>
+            <Y>88.51353</Y>
+            <Z>-328.1053</Z>
+          </Position2>
+        </ZCutscenePosition>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>0</Capacity>
+      </CutsceneActors>
+      <StartFrame>132</StartFrame>
+      <EndFrame>182</EndFrame>
+    </ZCutscene>
+    <ZCutscene>
+      <Marker>3</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">255</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>0</Capacity>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>4</Capacity>
+        <ZCutsceneActor>
+          <Frames>1</Frames>
+          <Animation>12</Animation>
+          <Rotation>
+            <X>0</X>
+            <Y>0</Y>
+            <Z>0</Z>
+          </Rotation>
+          <Position>
+            <X>-67</X>
+            <Y>1521</Y>
+            <Z>-1</Z>
+          </Position>
+          <Position2>
+            <X>-67</X>
+            <Y>1541</Y>
+            <Z>-1</Z>
+          </Position2>
+        </ZCutsceneActor>
+      </CutsceneActors>
+      <StartFrame>181</StartFrame>
+      <EndFrame>182</EndFrame>
+    </ZCutscene>
+    <ZCutscene>
+      <Marker>62</Marker>
+      <Data>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+        <unsignedShort xmlns="https://extendedxmlserializer.github.io/system">0</unsignedShort>
+      </Data>
+      <Points>
+        <Capacity>0</Capacity>
+      </Points>
+      <Textboxes>
+        <Capacity>0</Capacity>
+      </Textboxes>
+      <CutsceneActors>
+        <Capacity>4</Capacity>
+        <ZCutsceneActor>
+          <Frames>50</Frames>
+          <Animation>1</Animation>
+          <Rotation>
+            <X>0</X>
+            <Y>0</Y>
+            <Z>0</Z>
+          </Rotation>
+          <Position>
+            <X>-67</X>
+            <Y>1521</Y>
+            <Z>-1</Z>
+          </Position>
+          <Position2>
+            <X>-67</X>
+            <Y>1541</Y>
+            <Z>-1</Z>
+          </Position2>
+        </ZCutsceneActor>
+      </CutsceneActors>
+      <StartFrame>132</StartFrame>
+      <EndFrame>182</EndFrame>
+    </ZCutscene>
+  </Cutscene>
+  <Cameras>
+    <Capacity>4</Capacity>
+    <ZCamera>
+      <XPos>0</XPos>
+      <YPos>0</YPos>
+      <ZPos>0</ZPos>
+      <XRot>0</XRot>
+      <YRot>0</YRot>
+      <ZRot>0</ZRot>
+      <Type>1</Type>
+      <Fov>45</Fov>
+      <Unk1>65535</Unk1>
+      <Unk2>65535</Unk2>
+      <Unk12>0</Unk12>
+      <Unk14>0</Unk14>
+      <Unk16>0</Unk16>
+      <Unk18>0</Unk18>
+      <Unk1A>0</Unk1A>
+      <Unk1C>0</Unk1C>
+      <Unk1E>0</Unk1E>
+      <Unk20>0</Unk20>
+      <Unk22>0</Unk22>
+    </ZCamera>
+  </Cameras>
+  <SceneHeaders>
+    <Capacity>0</Capacity>
+  </SceneHeaders>
+  <AdditionalTextures>
+    <Capacity>0</Capacity>
+  </AdditionalTextures>
+  <TextureAnims>
+    <Capacity>0</Capacity>
+  </TextureAnims>
+  <ActorCutscenes>
+    <Capacity>0</Capacity>
+  </ActorCutscenes>
+  <Rooms>
+    <Capacity>8</Capacity>
+    <ZScene-ZRoom>
+      <ModelFilename>BossSce-DeathTemple.obj</ModelFilename>
+      <StartTime>65535</StartTime>
+      <TimeSpeed>0</TimeSpeed>
+      <DisableSkybox>true</DisableSkybox>
+      <DisableSunMoon>true</DisableSunMoon>
+      <WindWest>15</WindWest>
+      <WindVertical>40</WindVertical>
+      <WindSouth>109</WindSouth>
+      <WindStrength>190</WindStrength>
+      <Restriction>1</Restriction>
+      <IdleAnim>0</IdleAnim>
+      <ShowInvisibleActors>false</ShowInvisibleActors>
+      <DisableWarpSongs>false</DisableWarpSongs>
+      <Echo>0</Echo>
+      <AffectedByPointLight>false</AffectedByPointLight>
+      <AdditionalLights>
+        <Capacity>0</Capacity>
+      </AdditionalLights>
+      <InjectOffset>47185920</InjectOffset>
+      <ZObjects>
+        <Capacity>4</Capacity>
+        <ZScene-ZUShort>
+          <Value>17</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>58</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>72</Value>
+        </ZScene-ZUShort>
+      </ZObjects>
+      <ZActors>
+        <Capacity>4</Capacity>
+        <ZActor>
+          <Number>54</Number>
+          <XPos>-12</XPos>
+          <YPos>0</YPos>
+          <ZPos>-21</ZPos>
+          <XRot>0</XRot>
+          <YRot>-25440</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>480</Number>
+          <XPos>-12</XPos>
+          <YPos>0</YPos>
+          <ZPos>-21</ZPos>
+          <XRot>32</XRot>
+          <YRot>272</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+      </ZActors>
+      <GroupSettings>
+        <TintAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4278190079</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">1107296255</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </TintAlpha>
+        <TileS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </TileS>
+        <TileT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+        </TileT>
+        <PolyType>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </PolyType>
+        <BackfaceCulling>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+        </BackfaceCulling>
+        <Animated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Animated>
+        <Metallic>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Metallic>
+        <EnvColor>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </EnvColor>
+        <Decal>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Decal>
+        <IgnoreFog>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </IgnoreFog>
+        <SmoothRGBAEdges>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </SmoothRGBAEdges>
+        <Pixelated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Pixelated>
+        <Billboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Billboard>
+        <TwoAxisBillboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </TwoAxisBillboard>
+        <MultiTexMaterial>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+        </MultiTexMaterial>
+        <ShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftS>
+        <ShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftT>
+        <BaseShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftS>
+        <BaseShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftT>
+        <MultiTexAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </MultiTexAlpha>
+        <ReverseLight>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ReverseLight>
+        <AnimationBank>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+        </AnimationBank>
+        <LodGroup>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodGroup>
+        <LodDistance>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodDistance>
+        <LOD>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </LOD>
+        <AlphaMask>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </AlphaMask>
+        <RenderLast>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </RenderLast>
+        <VertexNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </VertexNormals>
+        <Custom>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Custom>
+        <CustomDL xmlns:exs="https://extendedxmlserializer.github.io/v2" exs:map="14,4">
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+        </CustomDL>
+        <ScaledNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ScaledNormals>
+        <Vibrant>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Vibrant>
+      </GroupSettings>
+      <OriginalMeshHeaderOffset>0</OriginalMeshHeaderOffset>
+      <ModelShortFilename>BossSce-DeathTemple (Room 0)</ModelShortFilename>
+    </ZScene-ZRoom>
+    <ZScene-ZRoom>
+      <ModelFilename>BossSce-DeathTemple.obj</ModelFilename>
+      <StartTime>65535</StartTime>
+      <TimeSpeed>0</TimeSpeed>
+      <DisableSkybox>true</DisableSkybox>
+      <DisableSunMoon>true</DisableSunMoon>
+      <WindWest>15</WindWest>
+      <WindVertical>40</WindVertical>
+      <WindSouth>109</WindSouth>
+      <WindStrength>190</WindStrength>
+      <Restriction>1</Restriction>
+      <IdleAnim>0</IdleAnim>
+      <ShowInvisibleActors>false</ShowInvisibleActors>
+      <DisableWarpSongs>false</DisableWarpSongs>
+      <Echo>0</Echo>
+      <AffectedByPointLight>false</AffectedByPointLight>
+      <AdditionalLights>
+        <Capacity>0</Capacity>
+      </AdditionalLights>
+      <InjectOffset>47185920</InjectOffset>
+      <ZObjects>
+        <Capacity>4</Capacity>
+        <ZScene-ZUShort>
+          <Value>394</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>548</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>392</Value>
+        </ZScene-ZUShort>
+      </ZObjects>
+      <ZActors>
+        <Capacity>8</Capacity>
+        <ZActor>
+          <Number>8</Number>
+          <XPos>-357</XPos>
+          <YPos>1848.04651</YPos>
+          <ZPos>-97</ZPos>
+          <XRot>0</XRot>
+          <YRot>-3840</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>1</Number>
+          <XPos>-363</XPos>
+          <YPos>1859</YPos>
+          <ZPos>-102</ZPos>
+          <XRot>0</XRot>
+          <YRot>-3360</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>89</Number>
+          <XPos>-531</XPos>
+          <YPos>1845</YPos>
+          <ZPos>-49</ZPos>
+          <XRot>-16320</XRot>
+          <YRot>16320</YRot>
+          <ZRot>0</ZRot>
+          <Variable>40997</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>581</Number>
+          <XPos>-523</XPos>
+          <YPos>1848</YPos>
+          <ZPos>-5</ZPos>
+          <XRot>0</XRot>
+          <YRot>-4320</YRot>
+          <ZRot>0</ZRot>
+          <Variable>2</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>441</Number>
+          <XPos>-1077</XPos>
+          <YPos>1848</YPos>
+          <ZPos>-35</ZPos>
+          <XRot>0</XRot>
+          <YRot>15007</YRot>
+          <ZRot>0</ZRot>
+          <Variable>13</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>283</Number>
+          <XPos>-440</XPos>
+          <YPos>1848</YPos>
+          <ZPos>-86</ZPos>
+          <XRot>0</XRot>
+          <YRot>-15007</YRot>
+          <ZRot>0</ZRot>
+          <Variable>9745</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+      </ZActors>
+      <GroupSettings>
+        <TintAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </TintAlpha>
+        <TileS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </TileS>
+        <TileT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </TileT>
+        <PolyType>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </PolyType>
+        <BackfaceCulling>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+        </BackfaceCulling>
+        <Animated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Animated>
+        <Metallic>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Metallic>
+        <EnvColor>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </EnvColor>
+        <Decal>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Decal>
+        <IgnoreFog>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </IgnoreFog>
+        <SmoothRGBAEdges>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </SmoothRGBAEdges>
+        <Pixelated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Pixelated>
+        <Billboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Billboard>
+        <TwoAxisBillboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </TwoAxisBillboard>
+        <MultiTexMaterial>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+        </MultiTexMaterial>
+        <ShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftS>
+        <ShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftT>
+        <BaseShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftS>
+        <BaseShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftT>
+        <MultiTexAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </MultiTexAlpha>
+        <ReverseLight>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ReverseLight>
+        <AnimationBank>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+        </AnimationBank>
+        <LodGroup>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodGroup>
+        <LodDistance>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodDistance>
+        <LOD>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </LOD>
+        <AlphaMask>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </AlphaMask>
+        <RenderLast>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </RenderLast>
+        <VertexNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </VertexNormals>
+        <Custom>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Custom>
+        <CustomDL xmlns:exs="https://extendedxmlserializer.github.io/v2" exs:map="6,4">
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+        </CustomDL>
+        <ScaledNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ScaledNormals>
+        <Vibrant>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Vibrant>
+      </GroupSettings>
+      <OriginalMeshHeaderOffset>0</OriginalMeshHeaderOffset>
+      <ModelShortFilename>BossSce-DeathTemple (Room 1)</ModelShortFilename>
+    </ZScene-ZRoom>
+  </Rooms>
+</ZScene>

@@ -1,0 +1,120 @@
+# Blender MTL File: 'DesertValley.blend'
+# Material Count: 40
+
+newmtl Brick.001
+map_Kd textures\\0000CCA0_16x64_rgba16.png
+
+newmtl Brick.003
+map_Kd textures\\ZELDA MAJORA'S MASK#6D10B970#0#2_all.png
+
+newmtl Brick.004
+map_Kd textures\\0000DE78_64x32_rgba16.png
+
+newmtl DarkBlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Ext_Dirt02
+map_Kd textures\\Ext_Dirt02.png
+
+newmtl HookShotSymbol
+map_Kd textures\\ZELDA MAJORA'S MASK#C6CE6EFA#0#2_all.png
+
+newmtl HyruleFlag
+map_Kd textures\\HyruleFlag(Rb).png
+
+newmtl Ladder
+map_Kd textures\\_25.png
+
+newmtl Ragged_Rope_Web
+map_Kd textures\\Ragged_Rope_Web.png
+
+newmtl SandStone3
+map_Kd textures\\_751.png
+
+newmtl Spike
+map_Kd textures\\00021018_16x64_rgba16.png
+
+newmtl Stone(Crack)
+map_Kd textures\\ZELDA MAJORA'S MASK#0F821186#4#0_all.png
+
+newmtl Stone(Crack)2
+map_Kd textures\\ZELDA MAJORA'S MASK#5F4D7281#4#0_all.png
+
+newmtl Stone_Smooth08
+map_Kd textures\\Stone_Smooth08.png
+
+newmtl TextOfWall
+map_Kd textures\\_7.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl WoodPole
+map_Kd textures\\wood_pole_29.png
+
+newmtl _2
+map_Kd textures\\_2.png
+
+newmtl _308
+map_Kd textures\\_308.png
+
+newmtl _878
+map_Kd textures\\0001A530_64x32_rgba16.png
+
+newmtl _9
+map_Kd textures\\_698.png
+
+newmtl _auto_1
+map_Kd textures\\_auto_1.png
+
+newmtl _auto_3
+map_Kd textures\\_auto_3.png
+
+newmtl brick
+map_Kd textures\\_1.png
+
+newmtl chain.002
+map_Kd textures\\chain.png
+
+newmtl collision
+
+newmtl collision.001
+
+newmtl ext_sand_3
+map_Kd textures\\ext_sand_3.png
+
+newmtl ext_stone_rough
+map_Kd textures\\ext_stone_roug_2.png
+
+newmtl goldenbaseboard
+map_Kd textures\\stone_wall_decorative_bottom_01.png
+
+newmtl light
+map_Kd textures\\Effect_GodRay03.png
+
+newmtl pillar
+map_Kd textures\\_2.png
+
+newmtl rockwall
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl ruins
+map_Kd textures\\_49.png
+
+newmtl sand
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl sand-noSinking
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl statue
+map_Kd textures\\_18.png
+
+newmtl statue-lowpart
+map_Kd textures\\_17.png
+
+newmtl stone_fence_2
+map_Kd textures\\stone_fence_2.png

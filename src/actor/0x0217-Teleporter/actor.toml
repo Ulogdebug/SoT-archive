@@ -1,0 +1,23 @@
+Name = "Teleporter"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gTeleporterObj_DlTeleporterObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Order"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x3F00
+    Name      = "Switch Flag"
+    Target    = "Var"
+    
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "End Point"
+    Target    = "Var"
+     Dropdown = [
+		[ 0, "No"      ],
+		[ 1, "Yes, removed when spawned"       ],
+	]

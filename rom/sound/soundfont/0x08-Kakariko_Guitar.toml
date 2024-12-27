@@ -1,0 +1,1251 @@
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+	[[inst.entry]]
+		split_hi = "F#5"
+		split_lo = "A1"
+		release_rate = 233
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Guitar_Nylon_Prim"
+			tuning = 1.259921
+		[inst.entry.hi]
+			sample = "Inst_Guitar_Nylon_Hi"
+			tuning = 0.420448
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 239
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Tuba"
+			tuning = 3.174803
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "C#4"
+		release_rate = 232
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+			sample = "Perc_Conga_Mute"
+			tuning = 1.000000
+		[inst.entry.prim]
+			sample = "Perc_Conga_Bass"
+			tuning = 1.227770
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 245
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Guitar_Bass"
+			tuning = 2.381102
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "A5"
+		split_lo = "D4"
+		release_rate = 241
+		env_rate = [
+			2,
+			1,
+			422,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			1,
+			0
+		]
+		[inst.entry.low]
+			sample = "Inst_Guitar_Electric_Low"
+			tuning = 2.381102
+		[inst.entry.prim]
+			sample = "Inst_Guitar_Electric_Prim"
+			tuning = 1.001130
+		[inst.entry.hi]
+			sample = "Inst_Guitar_Electric_Hi"
+			tuning = 0.334087
+	[[inst.entry]]
+		split_hi = "C#5"
+		split_lo = "D#4"
+		release_rate = 235
+		env_rate = [
+			33,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+			sample = "Inst_String_Low"
+			tuning = 4.000000
+		[inst.entry.prim]
+			sample = "Inst_String_Prim"
+			tuning = 1.259921
+		[inst.entry.hi]
+			sample = "Inst_String_Hi"
+			tuning = 0.629961
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 97
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Wind_Cave"
+			tuning = 1.000000
+		[inst.entry.hi]
+[drum]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.222725
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.235969
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.250000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.264866
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.280616
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.297302
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.314980
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.333710
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.353553
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.374577
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.396850
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.420448
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.445449
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.471937
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.500000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.529732
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.561231
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.594604
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.629961
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.667420
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.707107
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.749154
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.793701
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.840897
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.890899
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 0.943875
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 59
+		release_rate = 0
+		sample = "Perc_Tambourine_Rim"
+		tuning = 1.000000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 71
+		release_rate = 0
+		sample = "Perc_Tambourine_Head"
+		tuning = 1.000000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 71
+		release_rate = 0
+		sample = "Perc_Tambourine_Head"
+		tuning = 1.059463
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.000000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.059463
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.122462
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.189207
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.259921
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.334840
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.414214
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.498307
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.587401
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.681793
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.781798
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 1.887749
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.000000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.118926
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.244924
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.378414
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.519842
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.669680
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.828428
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 2.996615
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 3.174803
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 3.363586
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 3.563596
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 3.775498
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 4.000000
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 4.237853
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 4.489849
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 4.756829
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 5.039685
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 5.339360
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 5.656855
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 5.993229
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 6.349606
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 6.727173
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]
+	[[drum.entry]]
+		pan = 75
+		release_rate = 0
+		sample = "Perc_Tambourine_Cymbal"
+		tuning = 7.127192
+		env_rate = [
+			2,
+			298,
+			1,
+			-1
+		]
+		env_level = [
+			32701,
+			12883,
+			1,
+			0
+		]

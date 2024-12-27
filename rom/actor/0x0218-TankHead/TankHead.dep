@@ -1,0 +1,7 @@
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/object/0x020E-TankHeadObj.h
+src/actor/0x0218-TankHead/TankHead.h
+

@@ -1,0 +1,18 @@
+Name = "Vertical Fan"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gVerticalFanObj_DlVerticalFanObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Wind Scale (X * 0.1 + 1) * 114"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Flip (If true then power on when spawned)"
+    Target    = "Var"

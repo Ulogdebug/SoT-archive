@@ -1,0 +1,135 @@
+# Blender MTL File: 'LandfillRush.blend'
+# Material Count: 45
+
+newmtl 30058349
+map_Kd textures\\30058349.png
+
+newmtl BlackCrap
+map_Kd textures\\0x200.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl Box
+map_Kd textures\\ZELDA MAJORA'S MASK#67540270#2#1#F8DD3382_ciByRGBA.png
+
+newmtl Brick
+map_Kd textures\\SUPER MARIO 64#49313621#0#2_all.png
+
+newmtl Cliff
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl Concrete
+map_Kd textures\\Estate_material_30.png
+
+newmtl ConcreteWall
+map_Kd textures\\Nuke_material_72.png
+
+newmtl CrapWater
+map_Kd textures\\Crap.png
+
+newmtl Dirt
+map_Kd textures\\0x17080.png
+
+newmtl DirtyMetal
+map_Kd textures\\36853543.png
+
+newmtl DirtyWhiteCloth.001
+map_Kd textures\\DirtyWhiteCloth.png
+
+newmtl Gold_Pole
+map_Kd textures\\Gold_Pole.png
+
+newmtl Gold_Pole01.001
+map_Kd textures\\Gold_Pole01.png
+
+newmtl Hole
+map_Kd textures\\SUPER MARIO 64#CF717C3C#0#2_all.png
+
+newmtl HookShotSymbol
+map_Kd textures\\ZELDA MAJORA'S MASK#C6CE6EFA#0#2_all.png
+
+newmtl KillingWorms
+map_Kd textures\\Crap.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl MetalHole
+map_Kd textures\\_275.png
+
+newmtl MetalPipes
+map_Kd textures\\Silicon Valley#FDB926F4#0#2_all.png
+
+newmtl MetalPlate
+map_Kd textures\\Silicon Valley#134AAD09#0#2_all.png
+
+newmtl Metal_Plate2
+map_Kd textures\\Metal_Plate2.png
+
+newmtl Pipe
+map_Kd textures\\17987993.png
+
+newmtl PlantEffect
+map_Kd textures\\PlantEffect.png
+
+newmtl Raillings
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl Raillings.001
+map_Kd textures\\ThickMetalRailling.png
+
+newmtl RedEyes
+map_Kd textures\\RedColor_Cube.png
+
+newmtl Rock_Dirt2
+map_Kd textures\\_408.bmp
+
+newmtl RustyMetal
+map_Kd textures\\RustyMetalEdge.png
+
+newmtl RustyMetal2
+map_Kd textures\\Snark_Pit_texture_24.png
+
+newmtl Snark_Pit_texture_24
+map_Kd textures\\Snark_Pit_texture_24.png
+
+newmtl Stair
+map_Kd textures\\THE LEGEND OF DEBUG#1F195DC4#2#1#0E768B2C_ciByRGBA.png
+
+newmtl SteepCrap
+map_Kd textures\\0x200.png
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl X
+map_Kd textures\\Silicon Valley#EB57E208#0#2_all.png
+
+newmtl YellowLight
+map_Kd textures\\Nuke_material_10.png
+
+newmtl YellowLight-Animated
+map_Kd textures\\Nuke_material_10.png
+
+newmtl bear_01.001
+map_Kd textures\\bear_01.png
+
+newmtl bear_01.003
+map_Kd textures\\bear_03.png
+
+newmtl bear_02.001
+map_Kd textures\\bear_02.png
+
+newmtl collision
+
+newmtl collisionCamera
+
+newmtl door_shutter_08
+map_Kd textures\\door_shutter_08.png
+
+newmtl text
+map_Kd textures\\636C5E89_c.png

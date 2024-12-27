@@ -1,0 +1,178 @@
+#medium_type = "ram" / "unk"     / "cart" / "ddrive"
+#sequence_player = "sfx" / "fanfare" / "bgm"  / "demo"
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+	
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 9
+		env_rate = [
+			2, 298, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Scream"
+			tuning = 0.689062
+		[inst.entry.hi]
+		[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 105
+		env_rate = [
+			50, 298, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Drone_Machine"
+			tuning = 1.000000
+		[inst.entry.hi]
+			[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 215
+		env_rate = [
+			2, 145, 31, -1,
+		]
+		env_level = [
+			32700, 29067, 0, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Marimba_Bass"
+			tuning = 0.579431
+		[inst.entry.hi]
+			[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 248
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Perc_Cowbell"
+			tuning = 0.210224
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 98
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Wind_Cave"
+			tuning = 1.000000
+	[inst.entry.hi]
+		[[inst.entry]]
+		split_hi = "F#5"
+		split_lo = "A1"
+		release_rate = 211
+		env_rate = [
+			21, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Choir_Female_Prim"
+			tuning = 0.516214
+		[inst.entry.hi]
+			sample = "Inst_Choir_Female_Hi"
+			tuning = 0.365018
+	
+	[[inst.entry]]
+		split_hi         = "C#4"
+		split_lo         = "C4"
+		release_rate     = 0.000000
+		env_rate         = [ 0.00006, 0.00909, 0.00003 ]
+		env_level        = [ 0.99796, 0.39314, 0.00000 ]
+		[inst.entry.low]
+			sample           = "Perc_Tambourine_Rim"
+			tuning           = 2.118926
+		[inst.entry.prim]
+			sample           = "Perc_Tambourine_Head"
+			tuning           = 2.000000
+		[inst.entry.hi]
+			sample           = "Perc_Tambourine_Cymbal"
+			tuning           = 1.781798
+
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "C5"
+		release_rate = 93
+		env_rate = [
+			2, 298, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+			sample = "Inst_Shine_Dark"
+			tuning = 1.498307
+		[inst.entry.prim]
+			sample = "Inst_Drone_Drip"
+			tuning = 0.250000
+		[inst.entry.hi]
+				[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 10
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Boss_Kotake_Koume_Argue" ##African Singer
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 10
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Boss_Kotake_Koume_Attack" ##BassPad
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 10
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Boss_Kotake_Koume_Cry" ##CavePad
+			tuning = 1.000000
+		[inst.entry.hi]

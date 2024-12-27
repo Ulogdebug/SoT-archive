@@ -1,0 +1,65 @@
+# Blender MTL File: 'Auction.blend'
+# Material Count: 21
+
+newmtl 2
+map_Kd textures\\Train_material_59.png
+
+newmtl 3
+map_Kd textures\\Train_material_57.png
+
+newmtl 4
+map_Kd textures\\Train_material_64.png
+
+newmtl 5
+map_Kd textures\\Train_material_41.png
+
+newmtl CASTLEVANIA2
+map_Kd textures\\CASTLEVANIA2#3114F9DD#2#0#C1F9001E_ciByRGBA.png
+
+newmtl Decoration
+map_Kd textures\\stone_edge_decorative_sheikah_eye.png
+
+newmtl Iron.007
+map_Kd textures\\metal_decor_pattern_01.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl Middle.bmp.001
+map_Kd textures\\Middle.bmp
+
+newmtl Piranesi_material_72
+map_Kd textures\\Piranesi_material_72.png
+
+newmtl RustyMetal
+map_Kd textures\\metal_pole_1.png
+
+newmtl Sides.bmp.001
+map_Kd textures\\Sides.bmp
+
+newmtl Train_material_58
+map_Kd textures\\Train_material_58.png
+
+newmtl bar
+map_Kd textures\\GC-0xDA2D8_32x32_RGBA16.png
+
+newmtl cloth
+map_Kd textures\\CASTLEVANIA2#0E7CC079#2#0#B8774E4E_ciByRGBA.png
+
+newmtl metalplate
+map_Kd textures\\00002041.png
+
+newmtl piano.001
+map_Kd textures\\fx_wood_house#MirrorY#MirrorX.png
+
+newmtl stairs
+map_Kd textures\\CASTLEVANIA2#BAC16E52#2#0#551915D3_ciByRGBA.png
+
+newmtl stonefloor2
+map_Kd textures\\CASTLEVANIA2#8182DA44#2#0#3CB7064B_ciByRGBA.png
+
+newmtl wood
+map_Kd textures\\CASTLEVANIA2#7F4EC577#2#0#F58B3B40_ciByRGBA.png
+
+newmtl wood_pole_20
+map_Kd textures\\wood_side.png

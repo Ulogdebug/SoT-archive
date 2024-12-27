@@ -1,0 +1,257 @@
+# Blender MTL File: 'IntroCutscene.blend'
+# Material Count: 85
+
+newmtl Background
+map_Kd textures\\fx_mountains.png
+
+newmtl Bar.002
+map_Kd textures\\ST-0x2CFE0_32x8_RGBA16.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl Box.001
+map_Kd textures\\ZELDA MAJORA'S MASK#158F6869#2#0#D950C841_ciByRGBA.png
+
+newmtl Brick.008
+map_Kd textures\\SB-0x8BA8_32x32_RGBA16.png
+
+newmtl BrickSmall
+map_Kd textures\\image_0057.png
+
+newmtl BrickWindow
+map_Kd textures\\image_0058.png
+
+newmtl Concrete
+map_Kd textures\\0x1D5E0.png
+
+newmtl Convey
+map_Kd textures\\0x11070.png
+
+newmtl CrapWater
+map_Kd textures\\Crap.png
+
+newmtl Decoration
+map_Kd textures\\stone_wood_wall.png
+
+newmtl DesertBrick
+map_Kd textures\\Brick_Broke.png
+
+newmtl DownDirt
+map_Kd textures\\0x178A0.png
+
+newmtl DownIron
+map_Kd textures\\ZELDA MAJORA'S MASK#2BDAC109#2#1#50CBBE58_ciByRGBA.png
+
+newmtl Engine
+map_Kd textures\\Yellow_Metal_Button.png
+
+newmtl FancyWall.018
+map_Kd textures\\wood_pole_5.png
+
+newmtl FirsTextDirt
+map_Kd textures\\Mud.png
+
+newmtl Goron
+map_Kd textures\\ZELDA MAJORA'S MASK#35959A4E#4#0_all.png
+
+newmtl GoronDraw.001
+map_Kd textures\\ZELDA MAJORA'S MASK#35959A4E#4#0_all.png
+
+newmtl Hole
+map_Kd textures\\metal_circle_wooded_hole.png
+
+newmtl House
+map_Kd textures\\THE LEGEND OF ZELDA#414ED22B#2#1#75C82148_ciByRGBA.png
+
+newmtl House.002
+map_Kd textures\\wood_checkpattern_dark.png
+
+newmtl Iron.005
+map_Kd textures\\ZELDA MAJORA'S MASK#0081A843#2#1#1642F9B6_ciByRGBA.png
+
+newmtl IronBar
+map_Kd textures\\0x27350.png
+
+newmtl IronBlackBrick2
+map_Kd textures\\Train_material_12.png
+
+newmtl IronBrick
+map_Kd textures\\image_0050.png
+
+newmtl IronFrame
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl IronLace
+map_Kd textures\\ZELDA MAJORA'S MASK#1ADC7BF6#2#1#57F407DA_ciByRGBA.png
+
+newmtl IronPipe
+map_Kd textures\\metal_scratched_color.png
+
+newmtl IronPipe2.001
+map_Kd textures\\image_0002.png
+
+newmtl IronWeb
+map_Kd textures\\ZELDA MAJORA'S MASK#A77EFBB2#2#1#632FA7EF_ciByRGBA.png
+
+newmtl Jar
+map_Kd textures\\MagicPot.png
+
+newmtl Ladder
+map_Kd textures\\FT-0x7D638_32x32_RGBA16.png
+
+newmtl Material.008
+map_Kd textures\\000164B8_32x32_rgba16.png
+
+newmtl Material.010
+map_Kd textures\\0x293D0.png
+
+newmtl MoonDraw
+map_Kd textures\\ZELDA MAJORA'S MASK#DEDFFD4F#4#0_all.png
+
+newmtl Plant
+map_Kd textures\\ZELDA MAJORA'S MASK#DC3482B6#3#1_all.png
+
+newmtl Road
+map_Kd textures\\ZELDA MAJORA'S MASK#D417AC7D#2#1#D8B51F1E_ciByRGBA.png
+
+newmtl Rock.008
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl Roof
+map_Kd textures\\THE LEGEND OF ZELDA#13C1C759#2#1#AD75A67F_ciByRGBA.png
+
+newmtl Roof.001
+map_Kd textures\\stone_roof_old.png
+
+newmtl Roof.002
+map_Kd textures\\image_0020.png
+
+newmtl RotIron.001
+map_Kd textures\\Snark_Pit_texture_24.png
+
+newmtl RotIron.002
+map_Kd textures\\0x1C60.png
+
+newmtl RotIron.003
+map_Kd textures\\0xA6F0.png
+
+newmtl RotIron.004
+map_Kd textures\\0x9ED0.png
+
+newmtl RotIronBar
+map_Kd textures\\0x7A70.png
+
+newmtl RottonHole
+map_Kd textures\\image_0014.png
+
+newmtl RustyMetal
+map_Kd textures\\metal_pole_1.png
+
+newmtl RustyMetal2
+map_Kd textures\\RustyMetalEdge.png
+
+newmtl Sand
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl SandStone.001
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl Sign
+map_Kd textures\\Signs.png
+
+newmtl Slogan
+map_Kd textures\\paper_poster_black.png
+
+newmtl Slogan.001
+map_Kd textures\\paper_poster_orange.png
+
+newmtl Slogan.006
+map_Kd textures\\Slogan_1.png
+
+newmtl Slogan3
+map_Kd textures\\paper_poster_nighthotel.png
+
+newmtl Smoke2
+map_Kd textures\\ZELDA MAJORA'S MASK#343884B7#0#2_all.png
+
+newmtl Somke
+map_Kd textures\\61D3F86E_c.png
+
+newmtl Stair
+map_Kd textures\\0000A1A0_128x32_ci4.bmp
+
+newmtl Stairs.002
+map_Kd textures\\ZELDA MAJORA'S MASK#3AEE2168#2#1#6BA956C8_ciByRGBA.png
+
+newmtl Sunglass.001
+map_Kd textures\\ZELDA MAJORA'S MASK#6F0AEDE7#2#1#1FD288C0_ciByRGBA.png
+
+newmtl Sunglass2
+map_Kd textures\\oil_rig_material_14.png
+
+newmtl Tiger
+map_Kd textures\\ZELDA MAJORA'S MASK#1EC7D17C#0#2_all.png
+
+newmtl TigerSkin
+map_Kd textures\\TigerSkin.png
+
+newmtl TrashPaperPieces
+map_Kd textures\\TrashPaperPieces.png
+
+newmtl TrashPaperPieces.001
+map_Kd textures\\PaperPieces.png
+
+newmtl UpperIron
+map_Kd textures\\ZELDA MAJORA'S MASK#6BF98CF2#2#1#B194B41F_ciByRGBA.png
+
+newmtl Wall
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl Water.003
+map_Kd textures\\0x200.png
+
+newmtl Window
+map_Kd textures\\wood_window_old.png
+
+newmtl Window.001
+map_Kd textures\\wood_window_broken.png
+
+newmtl Window.002
+map_Kd textures\\Sunglass.png
+
+newmtl Window.004
+map_Kd textures\\wood_window_broken.png
+
+newmtl Wood.001
+map_Kd textures\\metal_door.png
+
+newmtl Wood.004
+map_Kd textures\\wood_wall_logs.png
+
+newmtl Wood.008
+map_Kd textures\\DarkPlankWood.png
+
+newmtl cloth
+map_Kd textures\\0x124B0.png
+
+newmtl iron-hole
+map_Kd textures\\ZELDA MAJORA'S MASK#9983B45F#2#1#632FA7EF_ciByRGBA.png
+
+newmtl iron-hole.001
+map_Kd textures\\0x820.png
+
+newmtl iron-hole.003
+map_Kd textures\\0x4190.png
+
+newmtl iron-holeShallowWater
+map_Kd textures\\ZELDA MAJORA'S MASK#9983B45F#2#1#632FA7EF_ciByRGBA.png
+
+newmtl red
+map_Kd textures\\Arrow.png
+
+newmtl wood.004
+map_Kd textures\\ZELDA MAJORA'S MASK#FB18DDBE#2#1#EF6D23FB_ciByRGBA.png
+
+newmtl yellowIron
+map_Kd textures\\yellowiron2.png

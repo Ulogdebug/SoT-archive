@@ -1,0 +1,222 @@
+# Blender MTL File: 'Shelter.blend'
+# Material Count: 75
+
+newmtl 00006034
+map_Kd textures\\00006034.png
+
+newmtl 00009690
+map_Kd textures\\00001067.png
+
+newmtl 00009810
+map_Kd textures\\00010131.png
+
+newmtl 00009989
+map_Kd textures\\00006030.png
+
+newmtl 00010378
+map_Kd textures\\00007961.png
+
+newmtl 0x18D40.001
+map_Kd textures\\00010276.png
+
+newmtl 0x28700
+map_Kd textures\\0x13040.png
+
+newmtl 0x34C0
+map_Kd textures\\0x34C0.png
+
+newmtl 0x34C0.001
+map_Kd textures\\0x34C0.png
+
+newmtl 0x3CE0
+map_Kd textures\\0x3CE0.png
+
+newmtl BlueRoof
+map_Kd textures\\HouseRoof.png
+
+newmtl BrickFloor
+map_Kd textures\\stonefloor2.png
+
+newmtl CANDLE
+map_Kd textures\\Object_pot_v2.png
+
+newmtl ClockObj
+map_Kd textures\\CASTLEVANIA2#05BB4722#2#0#A4C72586_ciByRGBA.png
+
+newmtl Cloth_Curtain7
+map_Kd textures\\Cloth_Curtain7.png
+
+newmtl Door
+
+newmtl Grate
+map_Kd textures\\00010124.png
+
+newmtl LighWindow
+map_Kd textures\\stovegrate.png
+
+newmtl MetalPlateDark
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl OBJ_MilkChurn01
+map_Kd textures\\OBJ_MilkChurn01.png
+
+newmtl OldWood
+map_Kd textures\\wood_tree_mm_3.png
+
+newmtl Phone
+map_Kd textures\\iphone_0.png
+
+newmtl Pipe
+map_Kd textures\\00001706.png
+
+newmtl RedWood
+map_Kd textures\\wood_floor_planks_2.png
+
+newmtl Roof
+map_Kd textures\\00011240.png
+
+newmtl Shield
+map_Kd textures\\Bottom.png
+
+newmtl Shield2
+map_Kd textures\\Top.png
+
+newmtl Stair
+map_Kd textures\\Stone_stairs_2_nomirror.png
+
+newmtl Trash
+map_Kd textures\\00009230.png
+
+newmtl Trash2
+map_Kd textures\\00008494.png
+
+newmtl Wood
+map_Kd textures\\wood_tree_mm_4.png
+
+newmtl Woodhead
+map_Kd textures\\wood_tree_stump_inside_2#MirrorX#MirrorY.png
+
+newmtl bloodEffect
+map_Kd textures\\ST-0x78188_32x32_IA16.png
+
+newmtl book
+map_Kd textures\\book.png
+
+newmtl bookcase
+map_Kd textures\\wood_book_shelf.png
+
+newmtl chain
+map_Kd textures\\image_0006.png
+
+newmtl collision-Carpet
+
+newmtl collision-Stone
+
+newmtl collision-Wood
+
+newmtl door
+map_Kd textures\\wood_window_broken.png
+
+newmtl glass
+map_Kd textures\\oven_window.png
+
+newmtl glow_metal_gully.png
+map_Kd textures\\00007267.png
+
+newmtl greenGlass
+map_Kd textures\\Jungle 1.png
+
+newmtl hay
+map_Kd textures\\YellowHay.png
+
+newmtl longWood
+map_Kd textures\\wood_furniture_shelf_wall.png
+
+newmtl magic
+map_Kd textures\\00006000_64x128_ia4.png
+
+newmtl material_0000.002
+map_Kd textures\\wood_tree_mm_3.png
+
+newmtl material_0004.110
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl material_0006.110
+map_Kd textures\\multitex_grayshade.png
+
+newmtl material_0007
+map_Kd textures\\image_0007.png
+
+newmtl material_0011.110
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl material_null
+
+newmtl metal
+map_Kd textures\\Metal_Pole04.png
+
+newmtl metalWall2
+map_Kd textures\\00007929.png
+
+newmtl mop_base
+map_Kd textures\\mop_base.png
+
+newmtl mop_handle
+map_Kd textures\\mop_handle.png
+
+newmtl output-on
+map_Kd textures\\output-onlinepngtools - 2024-08-26T212312.107 - Copy.png
+
+newmtl phone2
+map_Kd textures\\iphone_1.png
+
+newmtl post
+map_Kd textures\\office_material_144.png
+
+newmtl post.001
+map_Kd textures\\Torn_material_110.png
+
+newmtl rag
+map_Kd textures\\airstrip_material_23.png
+
+newmtl rock
+map_Kd textures\\multitex_grayshade.png
+
+newmtl terial
+map_Kd textures\\output-onlinepngtools - 2024-08-26T214040.490.png
+
+newmtl terial.001
+map_Kd textures\\output-onlinepngtools - 2024-08-26T212312.107 - Copy.png
+
+newmtl terial.002
+map_Kd textures\\oven_leg.png
+
+newmtl terial.074
+map_Kd textures\\output-onlinepngtools - 2024-08-26T214248.029.png
+
+newmtl texture3
+map_Kd textures\\texture3.png
+
+newmtl texture4
+map_Kd textures\\texture4.png
+
+newmtl unknown
+map_Kd textures\\output-onlinepngtools - 2024-08-26T213908.331.png
+
+newmtl unknown2
+map_Kd textures\\output-onlinepngtools - 2024-08-26T214000.142.png
+
+newmtl unknown3
+map_Kd textures\\output-onlinepngtools - 2024-08-26T214323.502.png
+
+newmtl unkown3
+map_Kd textures\\output-onlinepngtools - 2024-08-26T212312.107 - Copy.png
+
+newmtl whiteConcrete
+map_Kd textures\\whiteDirt.png
+
+newmtl woven_chest_handle
+map_Kd textures\\woven_chest_handle.png
+
+newmtl woven_chest_handle.001
+map_Kd textures\\woven_chest_handle.png

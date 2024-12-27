@@ -1,0 +1,20 @@
+Name = "SuperFan"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gSuperFanObj_DlCastleSuperFanObj"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Flip"
+    Target    = "Var"
+	Dropdown = [ [ 0, "false"], [ 1, "Set switches" ] ]
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Type"
+    Target    = "Var"
+	Dropdown = [ [ 0, "Normal"], [ 1, "Castle Type" ] ]

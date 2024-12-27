@@ -1,0 +1,92 @@
+# Blender MTL File: 'Field-Border.blend'
+# Material Count: 30
+
+newmtl Bird
+map_Kd textures\\stone_wall_interior_noBorder.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl Board
+map_Kd textures\\wood_tree_stump_inside_2#MirrorX#MirrorY.png
+
+newmtl CASTLEVANIA2
+map_Kd textures\\00009624.png
+
+newmtl Cloth
+map_Kd textures\\Cloth_woodPoles_windmill.png
+
+newmtl Cloth_Rope02
+map_Kd textures\\000165C0_16x32_rgba16.png
+
+newmtl Fence
+map_Kd textures\\wood_fence#ClampY.png
+
+newmtl HOLE
+map_Kd textures\\00016A98_16x32_ia4.png
+
+newmtl HyruleFlag.002
+map_Kd textures\\HyruleFlag(Rb).png
+
+newmtl Poster
+map_Kd textures\\paper_poster_soldiers.png
+
+newmtl Railling
+map_Kd textures\\Stone_Fence01.png
+
+newmtl RustyStone
+map_Kd textures\\Stone_Pole06.png
+
+newmtl SandstoneWall
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl Spike
+map_Kd textures\\00021018_16x64_rgba16.png
+
+newmtl TreeSkin.004
+map_Kd textures\\wood_tree_mm_5.png
+
+newmtl YellowStone
+map_Kd textures\\Stone_Smooth08.png
+
+newmtl cloth_tent
+map_Kd textures\\cloth_tent.png
+
+newmtl cloth_tent.001
+map_Kd textures\\cloth_tent.png
+
+newmtl ext_rock_wall_3d
+map_Kd textures\\stone_wall_brick_uneven_old.png
+
+newmtl ext_rock_wall_3d.001
+map_Kd textures\\ext_rock_wall_3d.png
+
+newmtl ext_sand_2
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl stone_desert
+map_Kd textures\\stone_desert.png
+
+newmtl stone_furniture_smooth
+map_Kd textures\\Brick_Broke.png
+
+newmtl stone_smooth_5
+map_Kd textures\\stone_floor_smooth_8.png
+
+newmtl stone_wall_fire_1
+map_Kd textures\\stone_wall_fire_1.png
+
+newmtl stone_wall_goldpatterned_head
+map_Kd textures\\stone_wall_stoneTower_2_red#MirrorY.png
+
+newmtl sword
+map_Kd textures\\GAUNTLET LEGENDS#900A2861#2#0#3011EEF9_ciByRGBA.png
+
+newmtl wood_bridge_3
+map_Kd textures\\wood_bridge_3#MirrorX.png
+
+newmtl wood_smooth_3
+map_Kd textures\\wood_smooth_3.png
+
+newmtl wood_tree_stump_inside
+map_Kd textures\\wood_tree_stump_inside.png

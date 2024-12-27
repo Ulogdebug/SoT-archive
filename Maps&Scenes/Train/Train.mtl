@@ -1,0 +1,75 @@
+# Blender MTL File: 'Train.blend'
+# Material Count: 25
+
+newmtl Box
+map_Kd textures\\Train_material_15.png
+
+newmtl Collision
+
+newmtl Collision-Acid
+
+newmtl Crate
+map_Kd textures\\Box_With_Cloth.png
+
+newmtl Estate_material_81
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl GreenAcidPoison
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl Grey_Rubble_Rock.PNG
+map_Kd textures\\Dirt.png
+
+newmtl LightWindow
+map_Kd textures\\office_material_71.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl MetalRailling
+map_Kd textures\\MARIOKART64#384A6D52#0#2_all.png
+
+newmtl MetalRailling.001
+map_Kd textures\\MetalRailling.png
+
+newmtl Metal_Box2
+map_Kd textures\\Prodigy_material_24.png
+
+newmtl Nuke_material_116
+map_Kd textures\\Prodigy_material_142.png
+
+newmtl Nuke_material_67
+map_Kd textures\\Nuke_material_77.png
+
+newmtl Nuke_material_75
+map_Kd textures\\office_material_131.png
+
+newmtl Prodigy_material_140
+map_Kd textures\\Prodigy_material_142.png
+
+newmtl Rail
+map_Kd textures\\Nuke_material_93.png
+
+newmtl RedMetalLadder
+map_Kd textures\\RedMetalLadder.png
+
+newmtl RedMetalLadder-NoCollision
+map_Kd textures\\RedMetalLadder.png
+
+newmtl Train_material_36
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Train_material_46
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl VendingMachine
+map_Kd textures\\VendingMachine.png
+
+newmtl Wheel_Wood_Metal
+map_Kd textures\\Train_material_29.png
+
+newmtl YellowWarningLine
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Yellow_Artificial_Light
+map_Kd textures\\Yellow_Artificial_Light.png

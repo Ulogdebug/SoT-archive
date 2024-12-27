@@ -1,0 +1,136 @@
+# Blender MTL File: 'Wasteland.blend'
+# Material Count: 45
+
+newmtl 34091413
+map_Kd textures\\Silicon Valley#EFF0F61F#0#2_all.png
+
+newmtl Brick_Broke
+map_Kd textures\\Storm_material_18.png
+
+newmtl ChestPoster
+map_Kd textures\\paper_poster_soap.png
+
+newmtl Cloth
+map_Kd textures\\cloth_tent.png
+
+newmtl Collision
+
+newmtl Dark_Dirt_Rubbl
+map_Kd textures\\ext_grass_dirty.png
+
+newmtl DesertWall
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl Dry_Dirt2
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl ExposedDirt
+map_Kd textures\\SandStone3.png
+
+newmtl FirstGreenGrass
+map_Kd textures\\ZELDA MAJORA'S MASK#A32B3C6C#0#2_all.png
+
+newmtl ForestBG
+map_Kd textures\\Forest_Tree03.png
+
+newmtl Forest_Tree03
+map_Kd textures\\ZELDA MAJORA'S MASK#2D084C7D#2#1#DAD1233E_ciByRGBA.png
+
+newmtl GrassEffect
+map_Kd textures\\ZELDA MAJORA'S MASK#E7C35CF9#2#1#BE398819_ciByRGBA.png
+
+newmtl GrassWall
+map_Kd textures\\ZELDA MAJORA'S MASK#936625A9#2#1#C1A8A7DE_ciByRGBA.png
+
+newmtl HayLedge
+map_Kd textures\\ZELDA MAJORA'S MASK#3E4F4FB9#2#0#1B72EA64_ciByRGBA.png
+
+newmtl Hay_Roof
+map_Kd textures\\ZELDA MAJORA'S MASK#16228A21#2#0_ci.bmp
+
+newmtl MetalDoor
+map_Kd textures\\Nuke_material_121.png
+
+newmtl PathWay
+map_Kd textures\\DT-0x187E0_32x64_CI8.png
+
+newmtl RaillingDecoration'
+map_Kd textures\\0001D148_32x32_rgba16.png
+
+newmtl Raillings
+map_Kd textures\\00028198_8x64_rgba16.png
+
+newmtl RedWornMetalBarrel
+map_Kd textures\\Storm_material_14.png
+
+newmtl Rock2
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl SPC_flags_carneval
+map_Kd textures\\SPC_flags_carneval.png
+
+newmtl SandStoneWall
+map_Kd textures\\stone_rock_wall.png
+
+newmtl SandStoneWall-shallowwater
+map_Kd textures\\stone_rock_wall.png
+
+newmtl SecGrass
+map_Kd textures\\SecGrass.png
+
+newmtl Storm_material_60
+map_Kd textures\\Piranesi_material_67.png
+
+newmtl Storm_material_7
+map_Kd textures\\Storm_material_3.png
+
+newmtl Torn_material_34
+map_Kd textures\\Torn_material_36.png
+
+newmtl Torn_material_98
+map_Kd textures\\Torn_material_59.png
+
+newmtl Tree
+map_Kd textures\\ZELDA MAJORA'S MASK#0417F23E#2#1#FE393B00_ciByRGBA.png
+
+newmtl TreeHead
+map_Kd textures\\ZELDA MAJORA'S MASK#40F1899E#2#1#9A84C6AB_ciByRGBA.png
+
+newmtl Water_waterflow
+map_Kd textures\\DarkBlueWater.png
+
+newmtl WhiteDirt
+map_Kd textures\\airstrip_material_6.png
+
+newmtl Window
+map_Kd textures\\Cloth_woodPoles_windmill.png
+
+newmtl Wood
+map_Kd textures\\wood_pole_5.png
+
+newmtl Wood2
+map_Kd textures\\wood_roof_planks.png
+
+newmtl WornConcreteWall
+map_Kd textures\\Torn_material_48.png
+
+newmtl YellowLight
+map_Kd textures\\Nuke_material_10.png
+
+newmtl _18
+map_Kd textures\\_578.png
+
+newmtl door_door_02
+map_Kd textures\\door_door_02.png
+
+newmtl fx_mountains
+map_Kd textures\\fx_mountains.png
+
+newmtl metal_lantern_with_handle
+map_Kd textures\\metal_lantern_with_handle.png
+
+newmtl paper_poster_orange
+map_Kd textures\\Torn_material_39.png
+
+newmtl wood_smooth_4
+map_Kd textures\\ZELDA MAJORA'S MASK#E14157DF#2#1#ABC877C0_ciByRGBA.png

@@ -1,0 +1,122 @@
+# Blender MTL File: 'Grotto.blend'
+# Material Count: 40
+
+newmtl Bar
+map_Kd textures\\FT-0xA6DD8_16x64_RGBA16.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl BlowHole
+map_Kd textures\\image_0016.png
+
+newmtl Book.003
+map_Kd textures\\book3.png
+
+newmtl DoorFrame
+map_Kd textures\\0x10050.png
+
+newmtl Floor
+map_Kd textures\\ZELDA MAJORA'S MASK#9BD508EF#2#1#7B6B6D59_ciByRGBA.png
+
+newmtl Grass.001
+map_Kd textures\\0000CA00_64x32_rgba16.png
+
+newmtl Grass2
+map_Kd textures\\DC-0x2E5D8_64x32_RGBA16.png
+
+newmtl IronFloor
+map_Kd textures\\0x5E30.png
+
+newmtl IronRoof
+map_Kd textures\\image_0060.png
+
+newmtl IronSlide
+map_Kd textures\\0x19B0.png
+
+newmtl IronWall2
+map_Kd textures\\0x191F0.png
+
+newmtl IronWall3
+map_Kd textures\\0x23A90.png
+
+newmtl Ladder
+map_Kd textures\\ZELDA MAJORA'S MASK#5BB5D406#0#2_all.png
+
+newmtl Lava
+map_Kd textures\\00023338_32x32_rgba16.png
+
+newmtl Light
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl Light2
+map_Kd textures\\Light_3_2nd_texture.png
+
+newmtl Pillar
+map_Kd textures\\ZELDA MAJORA'S MASK#E06D8A82#2#1#1FD3C84E_ciByRGBA.png
+
+newmtl Rock
+map_Kd textures\\DT-0x587D8_32x64_CI8.png
+
+newmtl Rock.001
+map_Kd textures\\DC-0x6F028_32x64_CI8.png
+
+newmtl Rock.002
+map_Kd textures\\DC-0x6E428_32x32_CI8.png
+
+newmtl Roof
+map_Kd textures\\ZELDA MAJORA'S MASK#813B7D67#2#1#4E5A0434_ciByRGBA.png
+
+newmtl Roof.001
+map_Kd textures\\DC-0x3A150_32x32_CI8.png
+
+newmtl Statue
+map_Kd textures\\0x7E50.png
+
+newmtl Statue2
+map_Kd textures\\image_0015.png
+
+newmtl Stone
+map_Kd textures\\DC-0x9BC80_32x64_CI8.png
+
+newmtl StoneRoof
+map_Kd textures\\DC-0x78D58_32x64_CI8.png
+
+newmtl StoneWall
+map_Kd textures\\DC-0x4BC58_32x64_CI8.png
+
+newmtl StoneWall2
+map_Kd textures\\DC-0x9AC80_32x64_CI8.png
+
+newmtl StoneWall3
+map_Kd textures\\DC-0x4C458_32x64_CI8.png
+
+newmtl Tree
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#D5CF7B06#0#2_all.png
+
+newmtl Vine
+map_Kd textures\\image_0061.png
+
+newmtl Wall
+map_Kd textures\\ZELDA MAJORA'S MASK#A576E9BD#2#1#6562C4CE_ciByRGBA.png
+
+newmtl Wall-Roof
+map_Kd textures\\ZELDA MAJORA'S MASK#26021B62#2#1#6562C4CE_ciByRGBA.png
+
+newmtl Water
+map_Kd textures\\000061A0_32x32_rgba16.png
+
+newmtl WetDirt
+map_Kd textures\\DT-0x1BBE0_32x64_CI8.png
+
+newmtl book
+map_Kd textures\\book.png
+
+newmtl mud
+map_Kd textures\\DC-0x269D8_32x32_CI8.png
+
+newmtl web
+map_Kd textures\\image_0009.png

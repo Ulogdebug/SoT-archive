@@ -1,0 +1,1180 @@
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 214
+		env_rate = [
+			2,
+			146,
+			32,
+			-1
+		]
+		env_level = [
+			32701,
+			29067,
+			1,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Npc_Zelda_Child_Breath"
+			tuning = 0.579431
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 116
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Bamboo"
+			tuning = 1.059463
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "D5"
+		release_rate = 10
+		env_rate = [
+			6,
+			131,
+			523,
+			-1
+		]
+		env_level = [
+			32701,
+			4955,
+			1,
+			0
+		]
+		[inst.entry.low]
+			sample = "Npc_Zelda_Child_Gasp1"
+			tuning = 1.000000
+		[inst.entry.prim]
+			sample = "Npc_Zelda_Child_Gasp1"
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "C#4"
+		release_rate = 232
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+		[inst.entry.low]
+			sample = "Npc_Zelda_Child_Dissapointed"
+			tuning = 1.000000
+		[inst.entry.prim]
+			sample = "Npc_Zelda_Child_Dissapointed"
+			tuning = 1.227770
+		[inst.entry.hi]
+[drum]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.210224
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.222724
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.235969
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.250000
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.264866
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.280616
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.297302
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.314981
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.333710
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.353554
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.374577
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.396850
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.420449
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.445450
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.471938
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.500000
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.529732
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.561231
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.594603
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.629960
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 31
+		release_rate = 232
+		sample = "Perc_Conga_Mute"
+		tuning = 0.667420
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.353553
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.374577
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.396850
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.420448
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.445449
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.471937
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.500000
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.529732
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.561231
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.594604
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.629961
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.667420
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.707107
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.749154
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.793701
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.840897
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.890899
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 0.943875
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 46
+		release_rate = 232
+		sample = "Perc_Conga_Open"
+		tuning = 1.000000
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.300777
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.378125
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.460072
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.546893
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.638876
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.736328
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.839576
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 1.948964
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.064855
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.187638
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.317721
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.455540
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.601554
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.756250
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 2.920146
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 3.093786
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 3.277752
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 3.472658
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 3.679153
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 79
+		release_rate = 232
+		sample = "Perc_Conga_Bass"
+		tuning = 3.897927
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 108
+		release_rate = 232
+		sample = "Perc_Shaker"
+		tuning = 1.000000
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 108
+		release_rate = 232
+		sample = "Perc_Shaker"
+		tuning = 1.059463
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 108
+		release_rate = 232
+		sample = "Perc_Shaker"
+		tuning = 1.122462
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]
+	[[drum.entry]]
+		pan = 108
+		release_rate = 232
+		sample = "Perc_Shaker"
+		tuning = 1.189207
+		env_rate = [
+			2,
+			1,
+			32701,
+			-1
+		]
+		env_level = [
+			32701,
+			32701,
+			29431,
+			0
+		]

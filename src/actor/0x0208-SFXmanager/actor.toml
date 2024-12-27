@@ -1,0 +1,10 @@
+Name = "SFXmanager"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "SFX enum"
+    Target    = "Var"

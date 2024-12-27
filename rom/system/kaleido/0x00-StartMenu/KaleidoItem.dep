@@ -1,0 +1,7 @@
+src/system/kaleido/0x00-StartMenu/KaleidoScope.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/lib_user/state/state.h
+

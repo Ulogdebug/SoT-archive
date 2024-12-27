@@ -1,0 +1,180 @@
+# Blender MTL File: 'LostWoods.blend'
+# Material Count: 60
+
+newmtl Bakcground
+map_Kd textures\\ZELDA MAJORA'S MASK#473F4352#4#1_rgb.png
+
+newmtl Bakcground2.001
+map_Kd textures\\image_0073.png
+
+newmtl Bakcground2.002
+map_Kd textures\\trees.png
+
+newmtl Bar.003
+map_Kd textures\\ZELDA MAJORA'S MASK#19A65159#2#1#B9CCD693_ciByRGBA.png
+
+newmtl BaseBoard
+map_Kd textures\\image_0051.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl Book.003
+map_Kd textures\\book2.png
+
+newmtl BottomDirt
+map_Kd textures\\DT-0x2AC80_32x64_CI8.png
+
+newmtl Bridge
+map_Kd textures\\Wood5.png
+
+newmtl Bridge2
+map_Kd textures\\Material2.png
+
+newmtl BridgeRailling
+map_Kd textures\\ZELDA MAJORA'S MASK#70D7A34B#2#1#B2FBB8B7_ciByRGBA.png
+
+newmtl Brush
+map_Kd textures\\00006390_32x64_rgba16.png
+
+newmtl Brush.001
+map_Kd textures\\image_0077.png
+
+newmtl BrushLedge
+map_Kd textures\\00006390_32x64_rgba16.png
+
+newmtl Carpet
+map_Kd textures\\ZELDA MAJORA'S MASK#4E377955#2#0#D950C841_ciByRGBA.png
+
+newmtl Crap
+map_Kd textures\\Crap.png
+
+newmtl Curtain
+map_Kd textures\\cloth_rope.png
+
+newmtl Curtain2
+map_Kd textures\\ZELDA MAJORA'S MASK#3269FBBD#2#1#05FE0007_ciByRGBA.png
+
+newmtl Curtain3
+map_Kd textures\\ZELDA MAJORA'S MASK#CAF5B739#2#1#F9BBD614_ciByRGBA.png
+
+newmtl Curtain4
+map_Kd textures\\ZELDA MAJORA'S MASK#A7CE22EE#0#2_all.png
+
+newmtl Flower
+map_Kd textures\\0000C838_32x64_rgba16.png
+
+newmtl Grass
+map_Kd textures\\ZELDA MAJORA'S MASK#A32B3C6C#0#2_all.png
+
+newmtl GreatTreeSkin
+map_Kd textures\\ZELDA MAJORA'S MASK#BA01EBB2#0#2_all.png
+
+newmtl GreenTreeSkin
+map_Kd textures\\00037C48_32x32_ci8.bmp
+
+newmtl Iron.004
+map_Kd textures\\ZELDA MAJORA'S MASK#2D8BBC39#2#0#D950C841_ciByRGBA.png
+
+newmtl Iron.005
+map_Kd textures\\ZELDA MAJORA'S MASK#624653E9#2#1#DAA53725_ciByRGBA.png
+
+newmtl Lamp
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Leaves.001
+map_Kd textures\\image_0068.png
+
+newmtl Leaves.002
+map_Kd textures\\ZELDA MAJORA'S MASK#F2C1DF83#0#2_all.png
+
+newmtl Light
+map_Kd textures\\Light_3_2nd_texture.png
+
+newmtl Material.001
+
+newmtl Material.002
+
+newmtl Material.007
+map_Kd textures\\ZELDA MAJORA'S MASK#9CA92C65#2#1#2469DFD6_ciByRGBA.png
+
+newmtl Material.015
+map_Kd textures\\image_0068.png
+
+newmtl Material.031
+map_Kd textures\\0x185D0.png
+
+newmtl Pathway
+map_Kd textures\\DT-0x2A480_32x64_CI8.png
+
+newmtl Plant
+map_Kd textures\\grass_wines_cool#ClampY.png
+
+newmtl Plant.002
+map_Kd textures\\ZELDA MAJORA'S MASK#DEE912CD#2#0#1950C840_ciByRGBA.png
+
+newmtl Pot
+map_Kd textures\\ZELDA MAJORA'S MASK#2496F951#2#1#51386800_ciByRGBA.png
+
+newmtl PotCloth
+map_Kd textures\\ZELDA MAJORA'S MASK#8F4A41A5#2#1#B807E123_ciByRGBA.png
+
+newmtl RedTreeSkin
+map_Kd textures\\TreeSkin-Red.png
+
+newmtl RedTreeSkin.001
+map_Kd textures\\TreeSkin-Blue.png
+
+newmtl RedTreeSkin.002
+map_Kd textures\\TreeSkin-Yellow.png
+
+newmtl RedTreeSkin.003
+map_Kd textures\\00027748_32x32_ci8.bmp
+
+newmtl Rope
+map_Kd textures\\DC-0x29DD8_32x32_RGBA16.png
+
+newmtl RustyIron
+map_Kd textures\\ZELDA MAJORA'S MASK#2D8BBC39#2#0#D950C841_ciByRGBA.png
+
+newmtl TopGrass
+map_Kd textures\\SecGrass.png
+
+newmtl TreeBase
+map_Kd textures\\ZELDA MAJORA'S MASK#9C8BB77B#2#1#D935D2F0_ciByRGBA.png
+
+newmtl TreeSkin.010
+map_Kd textures\\00006D60_32x64_rgba16.png
+
+newmtl Treespot
+map_Kd textures\\0001E148_32x32_ci8.bmp
+
+newmtl Vine
+map_Kd textures\\image_0061.png
+
+newmtl Wall
+map_Kd textures\\ext_rock_wall_grassy_dark.png
+
+newmtl Water.001
+map_Kd textures\\Crap.png
+
+newmtl Wood
+map_Kd textures\\image_0009.png
+
+newmtl Wood.001
+map_Kd textures\\00024348_32x16_ci8.bmp
+
+newmtl Wood2
+map_Kd textures\\image_0015.png
+
+newmtl Wood3
+map_Kd textures\\HOS-0x4720_64x64_CI4.png
+
+newmtl Wood4
+map_Kd textures\\image_0010.png
+
+newmtl WoodBar
+map_Kd textures\\ZELDA MAJORA'S MASK#5A430F8C#0#2_all.png
+
+newmtl book
+map_Kd textures\\book.png

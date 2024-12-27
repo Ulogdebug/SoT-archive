@@ -1,0 +1,17 @@
+src/actor/0x033B-MM_Various_Effects/z_en_clear_tag.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/actor/0x033B-MM_Various_Effects/clear_tag_debris_effect.rgba16.inc
+src/actor/0x033B-MM_Various_Effects/gClearTagDebrisEffectVtx.vtx.inc
+src/actor/0x033B-MM_Various_Effects/clear_tag_fire_effect_flicker.i4.inc
+src/actor/0x033B-MM_Various_Effects/clear_tag_fire_effect_background.i4.inc
+src/actor/0x033B-MM_Various_Effects/gClearTagFireEffectVtx.vtx.inc
+src/actor/0x033B-MM_Various_Effects/clear_tag_flash_effect.i8.inc
+src/actor/0x033B-MM_Various_Effects/gClearTagFlashEffectVtx.vtx.inc
+src/actor/0x033B-MM_Various_Effects/clear_tag_flash_ground_effect.i4.inc
+src/actor/0x033B-MM_Various_Effects/gClearTagFlashEffectGroundVtx.vtx.inc
+src/actor/0x033B-MM_Various_Effects/clear_tag_light_ray_effect.i8.inc
+src/actor/0x033B-MM_Various_Effects/gClearTagLightRayEffectVtx.vtx.inc
+

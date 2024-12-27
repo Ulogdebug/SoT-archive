@@ -1,0 +1,22 @@
+Name = "MetalCrate"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gMetalCrateObj_DlMetalCrateObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x0001
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Normal"      ],
+		[ 1, "Weird looking, spawn small floormaster"       ],
+	]
+[[Property]]
+    Mask      = 0x003F
+    Name      = "Spawned Collectible"
+    Target    = "RotZ"

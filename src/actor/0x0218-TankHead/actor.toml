@@ -1,0 +1,7 @@
+Name = "TankHead"
+
+[[Render]]
+    Regex = "...."
+    Scale = 0.01
+    Animation = 1
+    YOffset = 0

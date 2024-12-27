@@ -1,0 +1,7 @@
+src/actor/0x0213-SuperFan/SuperFan.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/object/0x0209-SuperFanObj.h
+

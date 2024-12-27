@@ -1,0 +1,11 @@
+Name = "Wall_Pull_Switch"
+
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Retract Time"
+    Target    = "Var"

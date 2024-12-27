@@ -1,0 +1,382 @@
+# Blender MTL File: 'CyberGanonObj.blend'
+# Material Count: 21
+exportid 1735335196.473673
+newtex "ganon_red_fabric.ci8.png"
+map textures\ganon_red_fabric.ci8.png
+newmtl "red_fabric"
+vertexshading normal
+texel0 "ganon_red_fabric.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 188, 176, 141, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_body.ci8.png"
+map textures\ganon_body.ci8.png
+newmtl "bodyskin"
+vertexshading normal
+texel0 "ganon_body.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 218, 141, 140, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_leather.ci8.png"
+map textures\ganon_leather.ci8.png
+newmtl "f3dlite_material.005"
+vertexshading normal
+texel0 "ganon_leather.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 206, 111, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "00003705.png"
+map textures\00003705.png
+newmtl "chainmail"
+vertexshading normal
+texel0 "00003705.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_cape_fastening.ci8.png"
+map textures\ganon_cape_fastening.ci8.png
+newmtl "cape_fastenin"
+vertexshading normal
+texel0 "ganon_cape_fastening.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 188, 152, 135, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_fur_tuft.rgba16.png"
+map textures\ganon_fur_tuft.rgba16.png
+newmtl "fur_tuft"
+vertexshading normal
+texel0 "ganon_fur_tuft.rgba16.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 196, 112, 51, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_CULL_BACK | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_hand.ci8.png"
+map textures\ganon_hand.ci8.png
+newmtl "hand"
+vertexshading normal
+texel0 "ganon_hand.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 230, 149, 148, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_eye_open.ci4.png"
+map textures\ganon_eye_open.ci4.png
+pointer 0x08000000
+texturebank textures\eye_bank.png
+newmtl "eye"
+vertexshading color
+texel0 "ganon_eye_open.ci4.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 0, 9, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_LIGHTING, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG)
+gbivar cms0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_leather_tlut.rgba16.png"
+map textures\ganon_leather_tlut.rgba16.png
+newmtl "leather_tlu"
+vertexshading normal
+texel0 "ganon_leather_tlut.rgba16.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_hoof.ci8.png"
+map textures\ganon_hoof.ci8.png
+newmtl "hoof"
+vertexshading normal
+texel0 "ganon_hoof.ci8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 218, 166, 94, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "Rusty_Metal_Wall.png"
+map textures\Rusty_Metal_Wall.png
+newmtl "wire"
+vertexshading normal
+texel0 "Rusty_Metal_Wall.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 165, 163, 194, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "MetalDeco6.png"
+map textures\MetalDeco6.png
+newmtl "metal"
+vertexshading normal
+texel0 "MetalDeco6.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 198, 185, 162, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ZELDA MAJORA'S MASK#7CE4B6D5#0#2_all.png"
+map textures\ZELDA MAJORA'S MASK#7CE4B6D5#0#2_all.png
+newmtl "pipe"
+vertexshading normal
+texel0 "ZELDA MAJORA'S MASK#7CE4B6D5#0#2_all.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 223, 157, 165, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ZELDA MAJORA'S MASK#84543949#0#2_all.png"
+map textures\ZELDA MAJORA'S MASK#84543949#0#2_all.png
+newmtl "metalplate"
+vertexshading normal
+texel0 "ZELDA MAJORA'S MASK#84543949#0#2_all.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 151, 144, 179, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "00009906.png"
+map textures\00009906.png
+newmtl "fan"
+vertexshading normal
+texel0 "00009906.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 202, 135, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_MIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_eye_half.ci4.png"
+map textures\ganon_eye_half.ci4.png
+newmtl "gem"
+vertexshading color
+texel0 "ganon_eye_half.ci4.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 197, 0, 25, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_LIGHTING, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "00010285.png"
+map textures\00010285.png
+newmtl "metal2"
+vertexshading normal
+texel0 "00010285.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 193, 203, 186, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "ganon_title_card.ia8.png"
+map textures\ganon_title_card.ia8.png
+format ia8
+newmtl "TitleCard"
+vertexshading normal
+texel0 "ganon_title_card.ia8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newmtl "metal.001"
+vertexshading normal
+texel0 "MetalDeco6.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 179, 179, 179, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "00001095.png"
+map textures\00001095.png
+newmtl "line"
+vertexshading normal
+texel0 "00001095.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 171, 156, 146, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_CULL_BACK | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR, G_SHADE | G_SHADING_SMOOTH | G_ZBUFFER | G_FOG | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "GC-0x4580_32x64_I8.png"
+map textures\GC-0x4580_32x64_I8.png
+newmtl "Material"
+vertexshading color
+texel0 "GC-0x4580_32x64_I8.png"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_OPA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_FOG, G_BL_A_SHADE, G_BL_CLR_IN, G_BL_1MA) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_A_MEM))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, 0, 0, 0, COMBINED)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 6, 0, 255)
+gbi gsSPGeometryMode(G_LIGHTING_POSITIONAL | G_CULL_FRONT | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_LIGHTING, G_SHADE | G_SHADING_SMOOTH | G_CULL_BACK | G_ZBUFFER | G_FOG)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsSPDisplayList(0x08000000)

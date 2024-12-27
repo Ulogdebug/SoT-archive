@@ -1,0 +1,225 @@
+#ifndef SPAWN_CUTSCENE_TABLE_H
+#define SPAWN_CUTSCENE_TABLE_H
+#define LINK_AGE_BOTH 2
+
+typedef enum {
+    FLAG_SWITCH = 0,
+    FLAG_CHEST,
+    FLAG_EVENTCHKINF,
+    FLAG_COLLECTIBLE,
+} FlagType;
+
+union {
+    struct {
+        u32 header        : 4;
+        u32 type          : 2;
+        u32 age           : 2;
+        u32 flag          : 8;
+        u32 nextIsSegment : 1;
+        u32 spawn         : 7;
+        u32 scene         : 8;
+    };
+    void* segment;
+} sSpawnCutsceneTable[] = {
+    {
+        .nextIsSegment = true,
+        .flag = 0xA0,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x51,
+        .spawn = 3,
+    }, {
+        .segment = (void*)0x02013AA0,
+    }, {
+        .header = 0x1,
+        .flag = 0xA1,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x09,
+        .spawn = 3,
+    }, {
+        .header = 0x1,
+        .flag = 0xB3,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x52,
+        .spawn = 0xE,
+    }, {
+        .header = 0x1,
+        .flag = 0xA5,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x36,
+        .spawn = 3,
+    }, {
+        .header = 0x0,
+        .flag = 0xA6,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x25,
+        .spawn = 2,
+    }, {
+        .header = 0x0,
+        .flag = 0xA8,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x04,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB8,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x65,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB2,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x3,
+        .spawn = 0,
+    }, {
+        .header = 0x8,
+        .flag = 0xA9,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_CHILD,
+        .scene = 0x51,
+        .spawn = 16,
+    }, {
+        .header = 0x1,
+        .flag = 0xB4,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x67,
+        .spawn = 5,
+    }, {
+        .header = 0x1,
+        .flag = 0xB5,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x68,
+        .spawn = 6,
+    }, {
+        .header = 0x0,
+        .flag = 0xB6,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x60,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB7,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x5A,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB7,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x5A,
+        .spawn = 2,
+    }, {
+        .header = 0x0,
+        .flag = 0xBA,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_ADULT,
+        .scene = 0x08,
+        .spawn = 1,
+    }, {
+        .header = 0x0,
+        .flag = 0x5A,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x6B,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xBB,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x09,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xBC,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x02,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xBD,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x52,
+        .spawn = 1,
+    }, {
+        .header = 0x0,
+        .flag = 0xBE,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x22,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB1,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x21,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xAD,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x57,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xAD,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x57,
+        .spawn = 1,
+    }, {
+        .header = 0x0,
+        .flag = 0xC0,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_ADULT,
+        .scene = 0x3F,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xC7,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_ADULT,
+        .scene = 0x5B,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0x1,
+        .type = FLAG_SWITCH,
+        .age = LINK_AGE_ADULT,
+        .scene = 0x42,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xBF,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x62,
+        .spawn = 0,
+    }, {
+        .header = 0x0,
+        .flag = 0xB9,
+        .type = FLAG_EVENTCHKINF,
+        .age = LINK_AGE_BOTH,
+        .scene = 0x37,
+        .spawn = 0,
+    }, 
+};
+
+#endif

@@ -1,0 +1,7 @@
+src/lib_user/asm_macros.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/oot/boot_screen/scam_final-1.c
+

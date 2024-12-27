@@ -1,0 +1,146 @@
+# Blender MTL File: 'KokiriForest.blend'
+# Material Count: 48
+
+newmtl Bar.003
+map_Kd textures\\ZELDA MAJORA'S MASK#19A65159#2#1#B9CCD693_ciByRGBA.png
+
+newmtl Black
+map_Kd textures\\black.png
+
+newmtl Brick
+map_Kd textures\\0xBB00.png
+
+newmtl Cloth_Hay01
+map_Kd textures\\Cloth_Hay01#MirrorX#MirrorY.png
+
+newmtl Curtain4
+map_Kd textures\\ZELDA MAJORA'S MASK#A7CE22EE#0#2_all.png
+
+newmtl Dirt_Rock_Wall9
+map_Kd textures\\0x5980.png
+
+newmtl Effect_Soul02
+map_Kd textures\\fx_tribal_5.png
+
+newmtl Forest_Tree03
+map_Kd textures\\Forest_Tree03.png
+
+newmtl Frame
+map_Kd textures\\metal_pole_5.png
+
+newmtl Grass-Dirt
+map_Kd textures\\ext_rock_wall_grassy_dark.png
+
+newmtl GreenGrass2
+map_Kd textures\\FirstGrass.png
+
+newmtl GreenStonePillar
+map_Kd textures\\stone_wall_grass_pattern#MirrorX.png
+
+newmtl HurtCrap
+map_Kd textures\\0x4120.png
+
+newmtl Inscription.001
+map_Kd textures\\636C5E89_c.png
+
+newmtl Invisibility
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl Iron.001
+map_Kd textures\\obj_hookshotTarget.png
+
+newmtl Lamp
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Leave_Brush
+map_Kd textures\\00006390_32x64_rgba16.png
+
+newmtl Leave_Brush.001
+map_Kd textures\\00006390_32x64_rgba16.png
+
+newmtl MetalRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl MossyStone
+map_Kd textures\\stone_wall_mossy_3.png
+
+newmtl Pot
+map_Kd textures\\obj_kitchen_teakettle.png
+
+newmtl PotCloth
+map_Kd textures\\ZELDA MAJORA'S MASK#8F4A41A5#2#1#B807E123_ciByRGBA.png
+
+newmtl Rock
+map_Kd textures\\stone_floor_stones_2.png
+
+newmtl Rope
+map_Kd textures\\DC-0x29DD8_32x32_RGBA16.png
+
+newmtl Sticks
+map_Kd textures\\0x0.png
+
+newmtl Stone_Pillar
+map_Kd textures\\stone_pole_9.png
+
+newmtl TreeInside
+map_Kd textures\\0x840.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSkin.010
+map_Kd textures\\wood_tree_mm_6.png
+
+newmtl TreeSpot.001
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl Vine
+map_Kd textures\\0x0.png
+
+newmtl Vine2.001
+map_Kd textures\\grass_moss.png
+
+newmtl Water
+map_Kd textures\\Water2.png
+
+newmtl Water2
+map_Kd textures\\Water_waterflow.png
+
+newmtl Water3
+map_Kd textures\\Water2.png
+
+newmtl Water_waterflow
+map_Kd textures\\Effect_WaterFall03.png
+
+newmtl WoodenCraftBox
+map_Kd textures\\Nuke_material_17.png
+
+newmtl WoodenRailling
+map_Kd textures\\0001D148_32x32_rgba16.png
+
+newmtl Yello_Dirt
+map_Kd textures\\0x8220.png
+
+newmtl Yello_Dirt2
+map_Kd textures\\0x8220.png
+
+newmtl door_door_02
+map_Kd textures\\door_door_02.png
+
+newmtl metal_decor_mesoft
+map_Kd textures\\Metal_Pole05.png
+
+newmtl stone_head
+map_Kd textures\\stone_head#MirrorX.png
+
+newmtl stone_slate_4
+map_Kd textures\\stone_slate_4.png
+
+newmtl tree
+map_Kd textures\\0x7C60.png
+
+newmtl wood_head
+map_Kd textures\\wood_head.png

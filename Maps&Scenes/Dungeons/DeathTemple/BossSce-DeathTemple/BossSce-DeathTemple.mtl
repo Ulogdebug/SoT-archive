@@ -1,0 +1,45 @@
+# Blender MTL File: 'BossSce-DeathTemple.blend'
+# Material Count: 15
+
+newmtl C13
+map_Kd textures\\C22.png
+
+newmtl C44
+map_Kd textures\\SDFLTAB.png
+
+newmtl CrackStone
+map_Kd textures\\C10.png
+
+newmtl CrackStone.001
+map_Kd textures\\SB-0x7BA8_32x64_RGBA16.png
+
+newmtl Filler
+map_Kd textures\\CASF50.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl MetalBar.001
+map_Kd textures\\C83.png
+
+newmtl SDFLTB
+map_Kd textures\\SPACECA.png
+
+newmtl SDFLTB.001
+map_Kd textures\\SPACEB.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl collision
+
+newmtl collision.001
+
+newmtl lightpillar
+map_Kd textures\\GC-0x4580_32x64_I8.png
+
+newmtl pillar2
+map_Kd textures\\C38.png

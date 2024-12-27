@@ -1,0 +1,37 @@
+[project]
+    baserom = "original.z64"
+    buildrom = "build"
+    vanilla = ".vanilla"
+    check_update = true
+    project64 = ""
+    basewad = ""
+    dolphin = ""
+    yaz_header = true
+    suffix = [
+        "-release", "-dev",
+    ]
+[gcc]
+    gcc_flags = ""
+    main_flags = """
+        -c -G0 -Os -march=vr4300 -mabi=32 -mips3 \
+        -mno-explicit-relocs -mno-check-zero-division -mno-memcpy \
+        -fno-common -fno-reorder-blocks -fno-optimize-sibling-calls \
+        -Wall -Wno-builtin-declaration-mismatch -Wno-strict-aliasing -Wno-missing-braces \
+        -Wno-unused-variable -Wno-unused-function -Wno-maybe-uninitialized \ 
+        -Wno-int-conversion -Wno-implicit-function-declaration \
+        -Wno-unused-but-set-variable -Wno-return-type -Wno-unused-value \
+        -Wno-incompatible-pointer-types -Wno-overflow -Wno-parentheses \
+        -Wno-array-bounds -Wno-bool-compare -Wno-comment \
+        -Wno-misleading-indentation \
+        -Isrc/lib_user -Iinclude/z64hdr/include -Iinclude/z64hdr/oot_mq_debug -Iinclude/\
+    """
+    actor_flags = ""
+    code_flags = "-mno-gpopt -fomit-frame-pointer"
+    kaleido_flags = ""
+    state_flags = ""
+[ld]
+    base_flags = "-Linclude/z64hdr/oot_mq_debug/ -Linclude/z64hdr/common/ -Linclude/"
+    code_flags = "-T z64hdr.ld -T z_lib_user.ld -T z_object_user.ld --emit-relocs"
+    scene_flags = "-T z64hdr_actor.ld --emit-relocs"
+    ulib_flags = "-T ulib_linker.ld -T z_object_user.ld --emit-relocs"
+

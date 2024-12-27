@@ -1,0 +1,122 @@
+# Blender MTL File: 'Field-Forest.blend'
+# Material Count: 40
+
+newmtl 0x185D0
+map_Kd textures\\0x185D0.png
+
+newmtl CleanWater
+map_Kd textures\\Water.png
+
+newmtl Concrete
+map_Kd textures\\stone_wall_interior_house_worn.png
+
+newmtl FancyGrass
+map_Kd textures\\ext_grass_dirty.png
+
+newmtl Fence
+map_Kd textures\\Stone_Fence01.png
+
+newmtl Forest_Tree03
+map_Kd textures\\Forest_Tree03.png
+
+newmtl Frame
+map_Kd textures\\metal_pole_5.png
+
+newmtl Grass-Dirt
+map_Kd textures\\ext_rock_wall_grassy_dark.png
+
+newmtl Invisibility
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl MossyStone
+map_Kd textures\\stone_wall_mossy_3.png
+
+newmtl MushroomHa2
+map_Kd textures\\obj_candle_4.png
+
+newmtl MushroomHa3
+map_Kd textures\\fx_lava_ci8.png
+
+newmtl MushroomHa4
+map_Kd textures\\fx_lava_03_fall.png
+
+newmtl MushroomHa5
+map_Kd textures\\wood_wall_house_4#MirrorY.png
+
+newmtl MushroomHat
+map_Kd textures\\fx_stardust_02.png
+
+newmtl MushroomStalk
+map_Kd textures\\Stone_Pole03.png
+
+newmtl SlideGrass
+map_Kd textures\\DT-0x69408_32x64_CI8.png
+
+newmtl StoneBridge
+map_Kd textures\\stone_wall_eerie#MirrorX#MirrorY.png
+
+newmtl StoneBridgeLedge
+map_Kd textures\\stone_wall_decorative_bottom_02.png
+
+newmtl StoneBridgeLedge2
+map_Kd textures\\stone_slate_3.png
+
+newmtl TallGrass-Dirt
+map_Kd textures\\ext_rock_wall_dark.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSkin.010
+map_Kd textures\\wood_tree_mm_6.png
+
+newmtl TreeSpot.001
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl Vine
+map_Kd textures\\image_0061.png
+
+newmtl Vine2
+map_Kd textures\\grass_moss.png
+
+newmtl Warning
+map_Kd textures\\image_0044.png
+
+newmtl ext_grass_2
+map_Kd textures\\ext_grass_2.png
+
+newmtl ext_grass_dark
+map_Kd textures\\ext_grass_dark.png
+
+newmtl fx_water_floor
+map_Kd textures\\Crap.png
+
+newmtl grass_wines_cool
+map_Kd textures\\grass_wines_cool#ClampY.png
+
+newmtl metal_decor_mesoft
+map_Kd textures\\Metal_Pole05.png
+
+newmtl metal_floor_pinned_squa
+map_Kd textures\\wood_barrel_2_top_metal.png
+
+newmtl metal_gully
+map_Kd textures\\metal_cage_rusty.png
+
+newmtl stone_grassy_path
+map_Kd textures\\DT-0x187E0_32x64_CI8.png
+
+newmtl stone_pole_8
+map_Kd textures\\stone_wall_grass_pattern#MirrorX.png
+
+newmtl stone_wall_kindametal
+map_Kd textures\\metal_pole_5.png
+
+newmtl stone_wall_mossy_greenery
+map_Kd textures\\stone_wall_mossy_greenery.png
+
+newmtl wood_pole_16_metals
+map_Kd textures\\metal_curvy.png

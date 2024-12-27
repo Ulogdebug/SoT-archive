@@ -1,0 +1,15 @@
+Name = "New Transition Plane"
+Category = "DOOR"
+
+[[Property]]
+    Mask = 0x001F
+    Name = "Width (x10)"
+    Target = "Var"
+[[Property]]
+    Mask = 0x01E0
+    Name = "Radius (x10)"
+    Target = "Var"
+[[Property]]
+    Mask = 0x0200
+    Name = "Draw"
+    Target = "Var"

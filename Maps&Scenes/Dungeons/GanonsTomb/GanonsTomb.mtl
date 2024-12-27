@@ -1,0 +1,167 @@
+# Blender MTL File: 'GanonsTomb.blend'
+# Material Count: 57
+
+newmtl BrokenWall
+map_Kd textures\\CASTLEVANIA2#E51F4C70#2#0#402B515D_ciByRGBA.png
+
+newmtl Cliff
+
+newmtl Collision-Camera
+
+newmtl DarkBlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl DarkFloor
+map_Kd textures\\stone_block_4#MirrorX.png
+
+newmtl Dirt
+map_Kd textures\\CASTLEVANIA2#4A1FD084#2#0#0E7F72F5_ciByRGBA.png
+
+newmtl FanHole
+map_Kd textures\\00009908.png
+
+newmtl HookShotSymbol
+map_Kd textures\\ZELDA MAJORA'S MASK#C6CE6EFA#0#2_all.png
+
+newmtl KillingPoision
+map_Kd textures\\00006548.png
+
+newmtl LegDecoration
+map_Kd textures\\00010779.png
+
+newmtl MetalLadder
+map_Kd textures\\CASTLEVANIA2#2AB1211F#2#0#FB0BA543_ciByRGBA.png
+
+newmtl Roofdecoration
+map_Kd textures\\RoofDecoration.png
+
+newmtl Ruin2
+map_Kd textures\\CASTLEVANIA2#737B9BDC#2#0#D9EDBBD7_ciByRGBA.png
+
+newmtl Stairs01
+map_Kd textures\\00007663.png
+
+newmtl StoneCollision
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl WhiteMetalWall
+map_Kd textures\\CASTLEVANIA2#5C3C2B63#2#0#DFDBE281_ciByRGBA.png
+
+newmtl Xwall
+map_Kd textures\\CASTLEVANIA2#FB395DCA#2#0#1F6788FE_ciByRGBA.png
+
+newmtl arch
+map_Kd textures\\archHole.png
+
+newmtl bloodyMetalWall
+map_Kd textures\\CASTLEVANIA2#44D0D665#2#0#6C61C9E4_ciByRGBA.png
+
+newmtl brickwall
+map_Kd textures\\brickWall.png
+
+newmtl castlewall
+map_Kd textures\\00001934.png
+
+newmtl cleanWall
+map_Kd textures\\wornBrickWall2.png
+
+newmtl cleanWall2
+map_Kd textures\\CASTLEVANIA2#81243B66#2#0#106D0555_ciByRGBA.png
+
+newmtl climbableWall
+map_Kd textures\\climbableWall.png
+
+newmtl collisionNoProjectile
+
+newmtl concrete
+map_Kd textures\\00008021.png
+
+newmtl decoration
+map_Kd textures\\00010756.png
+
+newmtl decoration.001
+map_Kd textures\\00009007.png
+
+newmtl decoration2
+map_Kd textures\\00010766.png
+
+newmtl door
+
+newmtl flag
+map_Kd textures\\ST-0xF9A58_64x32_CI8.png
+
+newmtl floor
+map_Kd textures\\CASTLEVANIA2#C5C81142#2#0#3E58E905_ciByRGBA.png
+
+newmtl ganonBaseboard
+map_Kd textures\\GC-0x20380_64x32_CI8.png
+
+newmtl golden
+map_Kd textures\\stone_wall_decorative_bottom_08.png
+
+newmtl goldenDecoration
+map_Kd textures\\stone_wall_decorative_bottom_01.png
+
+newmtl hole
+map_Kd textures\\00010124.png
+
+newmtl metalWall
+map_Kd textures\\00009872.png
+
+newmtl metalplate
+map_Kd textures\\CASTLEVANIA2#AEFC791D#2#0#9527DF09_ciByRGBA.png
+
+newmtl path
+map_Kd textures\\00006124.png
+
+newmtl poison
+map_Kd textures\\00006548.png
+
+newmtl raillings
+map_Kd textures\\wornMetalRaillings.png
+
+newmtl ray
+map_Kd textures\\ST-0x18920_8x128_IA16.png
+
+newmtl rockwall
+map_Kd textures\\stone_rock_wall_2.png
+
+newmtl roof
+map_Kd textures\\BrownBrick.png
+
+newmtl ruins
+map_Kd textures\\CASTLEVANIA2#2368A133#2#0#0A06D585_ciByRGBA.png
+
+newmtl specialBrick
+map_Kd textures\\CASTLEVANIA2#6597D75B#2#0#31271FA2_ciByRGBA.png
+
+newmtl stoneWall
+map_Kd textures\\00001928.png
+
+newmtl torch
+map_Kd textures\\GC-0xCD948_32x32_RGBA16.png
+
+newmtl untouchable
+
+newmtl void
+map_Kd textures\\black.png
+
+newmtl wire
+map_Kd textures\\14109251.png
+
+newmtl wornWall
+map_Kd textures\\00006143.png
+
+newmtl wornWall2
+map_Kd textures\\CASTLEVANIA2#46B8B1E6#2#0#557E3031_ciByRGBA.png
+
+newmtl wornWall3
+map_Kd textures\\CASTLEVANIA2#8CC82E76#2#0#57286620_ciByRGBA.png
+
+newmtl wornWall4
+map_Kd textures\\CASTLEVANIA2#9A95D822#2#0#60CC8D04_ciByRGBA.png

@@ -1,0 +1,29 @@
+# Blender MTL File: 'MiniGame_HorsebackArchery.blend'
+# Material Count: 9
+
+newmtl None
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl ext_rock_wall_dir
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl raillings
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl sand
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl treeskin
+map_Kd textures\\00008E78_32x128_ci4.bmp
+
+newmtl treskin
+map_Kd textures\\stone_wall_brick_toTheOrange.png
+
+newmtl wood
+map_Kd textures\\wood_head.png
+
+newmtl wood2
+map_Kd textures\\Wood_Log01_Top.png
+
+newmtl wood_pole_shade_sides
+map_Kd textures\\wood_pole_shade_sides.png

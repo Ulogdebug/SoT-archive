@@ -1,0 +1,6 @@
+Name = "Facamera"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gFacameraObj_DlFacamera"
+    Scale       = 0.01

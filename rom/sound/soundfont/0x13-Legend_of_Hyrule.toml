@@ -1,0 +1,83 @@
+#medium_type = "ram" / "unk"     / "cart" / "ddrive"
+#sequence_player = "sfx" / "fanfare" / "bgm"  / "demo"
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 9
+		env_rate = [
+			2, 298, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Scream"
+			tuning = 0.689062
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 235
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Synth_String"
+			tuning = 1.000000
+		[inst.entry.hi]		
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 105
+		env_rate = [
+			50, 298, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Drone_Machine"
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "G4"
+		release_rate = 108
+		env_rate = [
+			2, 1, 421, -1,
+		]
+		env_level = [
+			32700, 32700, 0, 0,
+		]
+		[inst.entry.low]
+			sample = "Perc_Gong"
+			tuning = 2.996615
+		[inst.entry.prim]
+			sample = "Perc_Bell_Chimes"
+			tuning = 0.500565
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 227
+		env_rate = [
+			2, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Harpsichord"
+			tuning = 1.334840
+		[inst.entry.hi]
+

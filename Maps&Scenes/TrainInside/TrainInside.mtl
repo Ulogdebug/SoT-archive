@@ -1,0 +1,123 @@
+# Blender MTL File: 'TrainInside.blend'
+# Material Count: 41
+
+newmtl 63246431
+map_Kd textures\\Prodigy_material_159.png
+
+newmtl Acid_Green_Water.PNG
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl Bar.003
+map_Kd textures\\ZELDA MAJORA'S MASK#19A65159#2#1#B9CCD693_ciByRGBA.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl Chain.001
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Chain.002
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl Collision
+
+newmtl HookableWeb
+map_Kd textures\\ST-0x93080_32x32_RGBA16.png
+
+newmtl Laser
+map_Kd textures\\Decor_Edge.png
+
+newmtl LightWindow
+map_Kd textures\\office_material_71.png
+
+newmtl Material
+
+newmtl Metal
+map_Kd textures\\58375326.png
+
+newmtl MetalRailling
+map_Kd textures\\RedMetalLadder.png
+
+newmtl MetalWithWarningLine.001
+map_Kd textures\\Laser Catwalk 1.png
+
+newmtl MetalWithWarningLine.002
+map_Kd textures\\Prodigy_material_102.png
+
+newmtl MetalWithWarningLine.003
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Metal_Converyor
+map_Kd textures\\Metal_Converyor.png
+
+newmtl Nuke_material_116
+map_Kd textures\\Prodigy_material_142.png
+
+newmtl Nuke_material_67
+map_Kd textures\\Nuke_material_77.png
+
+newmtl Nuke_material_special
+map_Kd textures\\Prodigy_material_142.png
+
+newmtl Paper_Letter
+map_Kd textures\\PaperAndPenEffect.png
+
+newmtl Prodigy_material_24
+map_Kd textures\\Prodigy_material_24.png
+
+newmtl RedLight
+map_Kd textures\\Nuke_material_23.png
+
+newmtl RedLight-noCollision
+map_Kd textures\\Nuke_material_23.png
+
+newmtl RedLight.001
+map_Kd textures\\Estate_material_14.png
+
+newmtl Rope
+map_Kd textures\\DC-0x29DD8_32x32_RGBA16.png
+
+newmtl Rusty_Metal_Wall
+map_Kd textures\\0x4CA0.png
+
+newmtl SteelRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl Train
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl Train_material_46
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl Train_material_46.001
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl VendingMachine
+map_Kd textures\\VendingMachine.png
+
+newmtl Wires
+map_Kd textures\\Wire.png
+
+newmtl WoodenCraftBox
+map_Kd textures\\Box_With_Cloth.png
+
+newmtl XFactor_01
+map_Kd textures\\autopsy_01.png
+
+newmtl XFactor_02
+map_Kd textures\\autopsy_02.png
+
+newmtl XFactor_03
+map_Kd textures\\autopsy_03.png
+
+newmtl XFactor_04
+map_Kd textures\\autopsy_04.png
+
+newmtl office_material_71
+map_Kd textures\\office_material_71.png
+
+newmtl oil_rig_material_25
+map_Kd textures\\Snark_Pit_texture_20.png
+
+newmtl warnSign
+map_Kd textures\\warnSign.png

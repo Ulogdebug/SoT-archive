@@ -1,0 +1,78 @@
+# Blender MTL File: 'HouseInField_Pugsly.blend'
+# Material Count: 26
+
+newmtl Bark
+map_Kd textures\\FT-0x649B0_32x32_RGBA16.png
+
+newmtl BottomTrim
+map_Kd textures\\wood_side_2.png
+
+newmtl CandleMetal
+map_Kd textures\\gold.png
+
+newmtl Carpet2
+map_Kd textures\\cloth_market.png
+
+newmtl Collision
+
+newmtl Floorboard
+map_Kd textures\\OldWoodFloorboards.png
+
+newmtl Grill
+map_Kd textures\\metal_cage_rusty.png
+
+newmtl Hay_Solid
+map_Kd textures\\00017668_32x32_rgba16.png
+
+newmtl Hay_Transp
+map_Kd textures\\0000ED08_32x64_rgba16.png
+
+newmtl LonLongMilk
+map_Kd textures\\LonLonMetalMilkContainer.png
+
+newmtl Pot
+map_Kd textures\\object_pot_v2_2.png
+
+newmtl PotClothHead
+map_Kd textures\\Object_pot_v2.png
+
+newmtl Rag
+map_Kd textures\\Rags.png
+
+newmtl SlateTiles
+map_Kd textures\\Cobblestone.png
+
+newmtl TableCloth_m
+map_Kd textures\\00020060_8x128_rgba16.png
+
+newmtl TableWood
+map_Kd textures\\00004C10_32x16_rgba16.png
+
+newmtl Window
+map_Kd textures\\00021060_32x64_rgba16.png
+
+newmtl WoodPlanks2
+map_Kd textures\\00005C10_64x32_rgba16.png
+
+newmtl WoodWall
+map_Kd textures\\wood_pole_13.png
+
+newmtl book
+map_Kd textures\\book.png
+
+newmtl clayBricks
+map_Kd textures\\ClayBricks.png
+
+newmtl collision-Wood
+
+newmtl crate
+map_Kd textures\\wood_crate_og_Side.png
+
+newmtl curtains
+map_Kd textures\\Cloth_Curtain7.png
+
+newmtl soup
+map_Kd textures\\fx_lava_03_fall.png
+
+newmtl wine
+map_Kd textures\\wine.png

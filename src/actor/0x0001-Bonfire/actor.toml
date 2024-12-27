@@ -1,0 +1,10 @@
+Name = "Bonefire"
+
+[[Property]]
+    Mask      = 0xFFFF
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Refill Milk"      ],
+		[ 0xFFFF, "No milk refilling"       ],
+	]

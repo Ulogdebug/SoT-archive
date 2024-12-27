@@ -1,0 +1,21 @@
+Name = "Super Metal Gate"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gSuperMetalGateObj_DlSuperMetalGateMediumObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Huge Gate"      ],
+		[ 1, "Large Gate"       ],
+		[ 2, "Large Rusty Gate" ],
+        [ 3, "Medium Gate" ],
+        [ 4, "Small Gate" ],
+	]

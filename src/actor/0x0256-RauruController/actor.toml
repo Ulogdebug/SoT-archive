@@ -1,0 +1,11 @@
+Name = "Cutscene Switch Flag Trigger"
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Type"
+    Target    = "XRot"
+    Dropdown = [ [ 0x0, "Switch"],[ 0x1, "Chest"], [ 0x2, "Collectible"],[ 0x3, "Global"],[ 0x4, "Custom"]]
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Flag Assigned"
+    Target    = "Var"

@@ -1,0 +1,32 @@
+Name = "Timing Platforms"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gTimingPlatformObj_DlTimingPlatformDemonObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Model Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Stone Square Platform"      ],
+		[ 1, "Demon Square Platform"       ],
+		[ 2, "Demon Platform(No Timer)" ],
+	]
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Invisible"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Disable"      ],
+		[ 1, "Enable,require Lens of Truth to see"       ],
+
+	]    
+[[Property]]
+	Mask          = 0x00FF
+	Name          = "Duration time(Second)"
+	Target        = "XRot"

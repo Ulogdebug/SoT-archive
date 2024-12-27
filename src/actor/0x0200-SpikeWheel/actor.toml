@@ -1,0 +1,7 @@
+Name = "Spike Wheel"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gSpikeWheelObj_DlSpikeWheelObj"
+    Scale       = 0.03
+

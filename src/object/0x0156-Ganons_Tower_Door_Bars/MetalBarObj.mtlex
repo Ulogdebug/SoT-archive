@@ -1,0 +1,45 @@
+# Blender MTL File: 'MetalBarObj.blend'
+# Material Count: 3
+exportid 1713602885.250951
+newtex "bar_metal.rgba16.png.001"
+map textures\bar_metal.rgba16.png
+newmtl "mtl_06000000"
+vertexshading normal
+texel0 "bar_metal.rgba16.png.001"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_XLU | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_IN, G_BL_0, G_BL_CLR_IN, G_BL_1) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_1MA))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, COMBINED, 0, SHADE, 0)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_CULL_FRONT | G_CULL_BACK | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_FOG, G_SHADE | G_SHADING_SMOOTH | G_ZBUFFER | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newtex "bar_flame.rgba16.png.001"
+map textures\bar_flame.rgba16.png
+newmtl "mtl_06000800"
+vertexshading normal
+texel0 "bar_flame.rgba16.png.001"
+gbi gsSPTexture(qu016(0.999985), qu016(0.999985), 0, G_TX_RENDERTILE, G_ON)
+gbi gsDPPipeSync()
+gbi gsSPSetOtherModeLo(G_MDSFT_RENDERMODE, G_MDSIZ_RENDERMODE, AA_EN | Z_CMP | Z_UPD | IM_RD | CVG_DST_CLAMP | ZMODE_XLU | CVG_X_ALPHA | ALPHA_CVG_SEL | GBL_c1(G_BL_CLR_IN, G_BL_0, G_BL_CLR_IN, G_BL_1) | GBL_c2(G_BL_CLR_IN, G_BL_A_IN, G_BL_CLR_MEM, G_BL_1MA))
+gbi gsSPSetOtherModeHi(G_MDSFT_TEXTFILT, G_MDSIZ_TEXTFILT, G_TF_BILERP)
+gbi gsDPSetCombineLERP(TEXEL0, 0, PRIMITIVE, 0, TEXEL0, 0, PRIMITIVE, 0, COMBINED, 0, SHADE, 0, COMBINED, 0, SHADE, 0)
+gbi gsDPSetPrimColor(0, qu08(0), 255, 255, 255, 255)
+gbi gsSPGeometryMode(G_CULL_FRONT | G_CULL_BACK | G_TEXTURE_GEN | G_TEXTURE_GEN_LINEAR | G_FOG, G_SHADE | G_SHADING_SMOOTH | G_ZBUFFER | G_LIGHTING)
+gbivar cms0 "G_TX_WRAP | G_TX_NOMIRROR"
+gbivar cmt0 "G_TX_CLAMP | G_TX_NOMIRROR"
+gbivar shifts0 0
+gbivar shiftt0 0
+gbi _loadtexels
+gbi gsDPSetTileSize(G_TX_RENDERTILE, 0, 0, qu102(_texel0width-1), qu102(_texel0height-1))
+newmtl "Material.002"
+attrib collision.IGNORE_CAMERA
+attrib collision.IGNORE_AMMO
+attrib collision.SOUND_STONE
+attrib collision.WALL_BARRIER
+attrib collision.NOHORSE

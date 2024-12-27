@@ -1,0 +1,8 @@
+src/actor/0x001A-SuperMetalGate/SuperMetalGate.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/object/0x0010-SuperMetalGateObj.h
+src/lib_user/state/state.h
+

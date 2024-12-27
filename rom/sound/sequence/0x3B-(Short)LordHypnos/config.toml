@@ -1,0 +1,8 @@
+bank_id         = [ 0x34 ]
+medium_type     = "cart"
+sequence_player = "bgm"
+sequence_flags  = [ "restore", "no_ambience" ]
+[seq64]
+	master_volume   = 84
+	flstudio        = false
+	loop            = true

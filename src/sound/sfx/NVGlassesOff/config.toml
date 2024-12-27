@@ -1,0 +1,4 @@
+normalize = false
+inherit_vanilla = true
+half_precision = false
+

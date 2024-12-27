@@ -1,0 +1,287 @@
+# Blender MTL File: 'ForestValley.blend'
+# Material Count: 95
+
+newmtl Acid
+map_Kd textures\\ZELDA MAJORA'S MASK#88E0F090#0#2_all.png
+
+newmtl ArmBone.005
+map_Kd textures\\0001DCD8_32x32_rgba16.png
+
+newmtl ArmBone.006
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl ArmBone.007
+map_Kd textures\\00002AE0_32x16_rgba16.png
+
+newmtl Background
+map_Kd textures\\0000E218_32x32_rgba16.png
+
+newmtl Background.001
+map_Kd textures\\image_0066.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl BlackColor.005
+map_Kd textures\\black.png
+
+newmtl Blue
+map_Kd textures\\Blue.png
+
+newmtl Brick.005
+map_Kd textures\\ST-0xEB3D0_64x32_CI8.png
+
+newmtl Bridge.004
+map_Kd textures\\wood_bridge_1#ClampX.png
+
+newmtl Brush
+map_Kd textures\\00006390_32x64_rgba16.png
+
+newmtl Brush2
+map_Kd textures\\0000AB90_32x32_rgba16.png
+
+newmtl Cloth
+map_Kd textures\\cloth_sheeting_side_creased.png
+
+newmtl Cloth2
+map_Kd textures\\cloth_sheet.png
+
+newmtl Convey
+map_Kd textures\\THE LEGEND OF ZELDA#5932AFA9#2#1#277927F2_ciByRGBA.png
+
+newmtl CrapForAcid
+map_Kd textures\\0001B750_32x32_rgba16.png
+
+newmtl CrapWater
+map_Kd textures\\Crap.png
+
+newmtl Dirt.004
+map_Kd textures\\ZELDA MAJORA'S MASK#5925A807#2#1#427AF35C_ciByRGBA.png
+
+newmtl DirtMossy
+map_Kd textures\\ext_gravel_mossy.png
+
+newmtl Door
+map_Kd textures\\ZELDA MAJORA'S MASK#07CC6FE6#0#2_all.png
+
+newmtl DryDirt
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl DryDirt2
+map_Kd textures\\DT-0x1CBE0_32x64_CI8.png
+
+newmtl DryDirt3
+map_Kd textures\\DT-0x2A480_32x64_CI8.png
+
+newmtl FactoryBrick
+map_Kd textures\\Piranesi_material_15.png
+
+newmtl FactoryWall
+map_Kd textures\\redWall.png
+
+newmtl FactoryWall2
+map_Kd textures\\Metal_Wall01.png
+
+newmtl Fence
+map_Kd textures\\Stone_Fence01.png
+
+newmtl Fence.002
+map_Kd textures\\stone_fence_2.png
+
+newmtl Forest_Tree03
+map_Kd textures\\Forest_Tree03.png
+
+newmtl GearIcon
+map_Kd textures\\metalBlock3.png
+
+newmtl Grass
+map_Kd textures\\FirstGrass.png
+
+newmtl Grass-Dirt
+map_Kd textures\\ext_rock_wall_grassy.png
+
+newmtl Grass-Dirt2
+map_Kd textures\\ext_rock_wall_dark.png
+
+newmtl Green
+map_Kd textures\\Green.png
+
+newmtl GreenBox
+map_Kd textures\\Nuke_material_68.png
+
+newmtl GreenMetal
+map_Kd textures\\metal_pole_5.png
+
+newmtl GreenTreeSkin
+map_Kd textures\\wood_tree_mm_2.png
+
+newmtl GreenWater
+map_Kd textures\\fx_water_floor.png
+
+newmtl GreyIronRailling
+map_Kd textures\\ZELDA MAJORA'S MASK#D134DBB9#2#1#432F8F46_ciByRGBA.png
+
+newmtl GreyRock
+map_Kd textures\\stone_rock_wall_2.png
+
+newmtl Iron.039
+map_Kd textures\\ZELDA MAJORA'S MASK#F6123695#2#1#EB7D08A3_ciByRGBA.png
+
+newmtl IronDoor
+map_Kd textures\\IronDoor.png
+
+newmtl IronRivet
+map_Kd textures\\Metal_Pole04.png
+
+newmtl IronTube
+map_Kd textures\\ST-0x2C3E0_32x16_RGBA16.png
+
+newmtl IronWeb
+map_Kd textures\\ST-0x93080_32x32_RGBA16.png
+
+newmtl IronWeb2
+map_Kd textures\\ST-0x8CC28_32x64_RGBA16.png
+
+newmtl Lace
+map_Kd textures\\image_0044.png
+
+newmtl Lace.001
+map_Kd textures\\yellowblackLace.png
+
+newmtl Lace2
+map_Kd textures\\orangeblackLace.png
+
+newmtl Light2
+map_Kd textures\\7003A16E_c.png
+
+newmtl MetalBoard
+map_Kd textures\\wood_barrel_2_top_metal.png
+
+newmtl MoonEye
+map_Kd textures\\MoonEye.png
+
+newmtl Moss
+map_Kd textures\\stone_wall_mossy_greenery.png
+
+newmtl MossBrick
+map_Kd textures\\WornBrickWall.png
+
+newmtl MossWall
+map_Kd textures\\stone_wall_mossy_3.png
+
+newmtl Mountain
+map_Kd textures\\ext_rock.png
+
+newmtl Plane
+map_Kd textures\\ZELDA MAJORA'S MASK#F6123695#2#1#EB7D08A3_ciByRGBA.png
+
+newmtl Railling.006
+map_Kd textures\\ZELDA MAJORA'S MASK#D134DBB9#2#1#432F8F46_ciByRGBA.png
+
+newmtl Red
+map_Kd textures\\Red.png
+
+newmtl Rock
+map_Kd textures\\stone_rock_floor_1.png
+
+newmtl RockwithShadow
+map_Kd textures\\RockWithShadow.png
+
+newmtl RotBar
+map_Kd textures\\ZELDA MAJORA'S MASK#19A65159#2#1#B9CCD693_ciByRGBA.png
+
+newmtl RotIron
+map_Kd textures\\ZELDA MAJORA'S MASK#2D8BBC39#2#0#D950C841_ciByRGBA.png
+
+newmtl RustyChain
+map_Kd textures\\ZELDA MAJORA'S MASK#A9183C11#2#1#937E268B_ciByRGBA.png
+
+newmtl RustyDoor
+map_Kd textures\\metal_pole_1.png
+
+newmtl SecGrass
+map_Kd textures\\FirstGrass.png
+
+newmtl SmallVine
+map_Kd textures\\00021F48_32x64_rgba16.png
+
+newmtl Spine
+map_Kd textures\\00017398_32x32_rgba16.png
+
+newmtl Stairs.002
+map_Kd textures\\stone_stairs_3.png
+
+newmtl SteelPlate2
+map_Kd textures\\oil_rig_material_26.png
+
+newmtl TallGrass
+map_Kd textures\\ext_grass.png
+
+newmtl TallROCK.002
+map_Kd textures\\00009D98_64x64_i8.png
+
+newmtl TreeSkin
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl TreeSpo2
+map_Kd textures\\wood_tree_mm_4.png
+
+newmtl TreeSpot
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl TreeSpot3
+map_Kd textures\\ZELDA MAJORA'S MASK#3672E641#2#1#4CEA3E41_ciByRGBA.png
+
+newmtl UVcolor
+map_Kd textures\\UVcolor.png
+
+newmtl Vine
+map_Kd textures\\grass_wines_cool#ClampY.png
+
+newmtl Vine2
+map_Kd textures\\FT-0x84D48_32x64_RGBA16.png
+
+newmtl Wall.014
+map_Kd textures\\ZELDA MAJORA'S MASK#258CBE72#0#2_all.png
+
+newmtl Web
+map_Kd textures\\fx_web_hanking_2.png
+
+newmtl WetDirt
+map_Kd textures\\DT-0x1BBE0_32x64_CI8.png
+
+newmtl Yellow
+map_Kd textures\\Yellow.png
+
+newmtl effect
+map_Kd textures\\FT-0x1E888_32x64_RGBA16.png
+
+newmtl grass_moss
+map_Kd textures\\00031D78_64x32_rgba16.png
+
+newmtl ladder
+map_Kd textures\\Wood_Ladder01.png
+
+newmtl metal_curvy
+map_Kd textures\\Spike Wall or Trap 1.png
+
+newmtl metal_curvy.001
+map_Kd textures\\metal_curvy.png
+
+newmtl object_rock
+map_Kd textures\\Stone_Pole06.png
+
+newmtl stone_head
+map_Kd textures\\stone_head#MirrorX.png
+
+newmtl stone_wall_brick_3
+map_Kd textures\\stone_wall_brick_3.png
+
+newmtl wire-blue
+map_Kd textures\\GC-0x4580_32x64_I8.png
+
+newmtl wire-green
+map_Kd textures\\GC-0x4580_32x64_I8.png
+
+newmtl wire-red
+map_Kd textures\\GC-0x4580_32x64_I8.png

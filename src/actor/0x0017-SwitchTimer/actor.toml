@@ -1,0 +1,18 @@
+Name = "SwitchTimer"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Reverse"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Off, will unset switch when it gets truned on"      ],
+		[ 1, "On, will set switch when it gets truned off"       ],
+	]  
+[[Property]]
+	Mask          = 0x00FF
+	Name          = "Duration(Sec) of turning on/off switch"
+	Target        = "XRot"

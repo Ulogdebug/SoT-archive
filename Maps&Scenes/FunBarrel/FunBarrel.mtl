@@ -1,0 +1,135 @@
+# Blender MTL File: 'FunBarrel.blend'
+# Material Count: 45
+
+newmtl 747_material_43
+map_Kd textures\\Piranesi_material_70.png
+
+newmtl 747_material_83
+map_Kd textures\\747_material_83.png
+
+newmtl C500
+map_Kd textures\\C500.png
+
+newmtl Collision
+
+newmtl Counter
+map_Kd textures\\Storm_material_23.png
+
+newmtl Footsteps
+map_Kd textures\\cloth_stairs_1.png
+
+newmtl Glass
+map_Kd textures\\window_glass.png
+
+newmtl Gold
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl Gold.001
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl MetalCounter.001
+map_Kd textures\\Piranesi_material_106.png
+
+newmtl Piranesi_material_55
+map_Kd textures\\CASTLEVANIA2#7F4EC577#2#0#F58B3B40_ciByRGBA.png
+
+newmtl RedCarpet2
+map_Kd textures\\Cloth_Carpet_Mansion.png
+
+newmtl Rinbow
+map_Kd textures\\Silicon Valley#EFF0F61F#0#2_all.png
+
+newmtl SPC_flags_carneval
+map_Kd textures\\SPC_flags_carneval.png
+
+newmtl StoneBaseBoard2
+map_Kd textures\\Gold_Pole01.png
+
+newmtl Torn_material_39
+map_Kd textures\\Torn_material_39.png
+
+newmtl Torn_material_59
+map_Kd textures\\Torn_material_59.png
+
+newmtl Wine
+map_Kd textures\\wine.png
+
+newmtl Wood.001
+map_Kd textures\\wood_pole_22.png
+
+newmtl YellowWarningLine
+map_Kd textures\\YellowWarningLine.png
+
+newmtl _4
+map_Kd textures\\_4.png
+
+newmtl _47
+map_Kd textures\\Lights.png
+
+newmtl _6
+map_Kd textures\\_6.png
+
+newmtl bar
+map_Kd textures\\MetalVentSmall.png
+
+newmtl baseboard
+map_Kd textures\\Storm_material_23.png
+
+newmtl brokenwoodenwall
+map_Kd textures\\CASTLEVANIA2#42879C1F#2#0#358B3B3F_ciByRGBA.png
+
+newmtl cloth_tent
+map_Kd textures\\Cloth_Shop01.png
+
+newmtl collision
+
+newmtl door
+map_Kd textures\\door_door_03.png
+
+newmtl fishing
+map_Kd textures\\00008838_32x64_rgba16.png
+
+newmtl fishingpoleIcon
+map_Kd textures\\fishingpoleIcon.png
+
+newmtl floor
+map_Kd textures\\Piranesi_material_72.png
+
+newmtl floor2
+map_Kd textures\\Piranesi_material_71.png
+
+newmtl greenCarpet
+map_Kd textures\\Cloth_Carpet_Old2#MirrorX#MirrorY.png
+
+newmtl metal
+map_Kd textures\\Piranesi_material_75.png
+
+newmtl metalPipe
+map_Kd textures\\Piranesi_material_70.png
+
+newmtl metalfloor
+map_Kd textures\\CASTLEVANIA2#66A166E0#2#0#7AEBADE0_ciByRGBA.png
+
+newmtl metalplate
+map_Kd textures\\CASTLEVANIA2#3114F9DD#2#0#C1F9001E_ciByRGBA.png
+
+newmtl piano.004
+map_Kd textures\\fx_wood_house#MirrorY#MirrorX.png
+
+newmtl rainbow
+map_Kd textures\\SUPER MARIO 64#BD4BA854#0#2_all.png
+
+newmtl shooting
+map_Kd textures\\THE LEGEND OF ZELDA#81084BA1#0#2_all.png
+
+newmtl stonestairs
+map_Kd textures\\CASTLEVANIA2#BAC16E52#2#0#551915D3_ciByRGBA.png
+
+newmtl sun
+map_Kd textures\\tempImgEd02EC.bmp
+
+newmtl wood_pole_20
+map_Kd textures\\wood_side.png
+
+newmtl woodroof
+map_Kd textures\\CASTLEVANIA2#B5D43580#2#0#A4B91B7C_ciByRGBA.png

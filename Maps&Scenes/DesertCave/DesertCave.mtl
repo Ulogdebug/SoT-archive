@@ -1,0 +1,53 @@
+# Blender MTL File: 'DesertCave.blend'
+# Material Count: 17
+
+newmtl ArcBone
+map_Kd textures\\000238F8_32x16_rgba16.png
+
+newmtl Cliff
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl RockWall3
+map_Kd textures\\00042DA0_64x64_i8.png
+
+newmtl Skull
+map_Kd textures\\0001AC50_32x32_rgba16.png
+
+newmtl Skull.001
+map_Kd textures\\0001AC50_32x32_rgba16.png
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl _28
+map_Kd textures\\_28.png
+
+newmtl _546
+map_Kd textures\\_546.png
+
+newmtl craft
+map_Kd textures\\Torn_material_123.png
+
+newmtl crate2
+map_Kd textures\\Torn_material_50.png
+
+newmtl elixir3
+map_Kd textures\\_9.png
+
+newmtl floor
+map_Kd textures\\CASTLEVANIA2#5470DB66#2#0#F5919842_ciByRGBA.png
+
+newmtl fx_web_hanging
+map_Kd textures\\fx_web_hanging.png
+
+newmtl fx_web_hanking_2
+map_Kd textures\\fx_web_hanking_2.png
+
+newmtl light
+map_Kd textures\\ZeldaMisc (26).png
+
+newmtl weapon
+map_Kd textures\\_7.png

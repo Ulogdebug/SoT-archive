@@ -1,0 +1,89 @@
+# Blender MTL File: 'Town-Field.blend'
+# Material Count: 29
+
+newmtl Background.001
+map_Kd textures\\StoneWall.png
+
+newmtl BirdNest
+map_Kd textures\\ZELDA MAJORA'S MASK#16228A21#2#0#D950C841_ciByRGBA.png
+
+newmtl Black
+map_Kd textures\\black.png
+
+newmtl Brick.019
+map_Kd textures\\GC-0x1F780_32x64_CI8.png
+
+newmtl Bridge.002
+map_Kd textures\\wood_bridge_3#MirrorX.png
+
+newmtl Decoration
+map_Kd textures\\ZELDA MAJORA'S MASK#3E4F4FB9#2#0#1B72EA64_ciByRGBA.png
+
+newmtl Decoration3
+map_Kd textures\\ZELDA MAJORA'S MASK#9181508E#0#2_all.png
+
+newmtl Grass
+map_Kd textures\\airstrip_material_6.png
+
+newmtl Grass-Dirt
+map_Kd textures\\stone_rock_wall.png
+
+newmtl Hole
+map_Kd textures\\ZELDA MAJORA'S MASK#D5CA139E#0#2_all.png
+
+newmtl Hole.001
+map_Kd textures\\Yello_Dirt.png
+
+newmtl Leaves
+map_Kd textures\\ZELDA MAJORA'S MASK#DEE912CD#2#0#1950C840_ciByRGBA.png
+
+newmtl Pathway2
+map_Kd textures\\ext_rock_wall.png
+
+newmtl Pathway2.001
+map_Kd textures\\0x11F20.png
+
+newmtl Pathway3
+map_Kd textures\\00028A78_32x32_rgba16.png
+
+newmtl Pillar
+map_Kd textures\\wood_floor_planks_no_seams.png
+
+newmtl SandStone.003
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl Somke
+map_Kd textures\\61D3F86E_c.png
+
+newmtl Stalk
+map_Kd textures\\00019530_32x32_rgba16.png
+
+newmtl Steel
+map_Kd textures\\image_0026.png
+
+newmtl Steel.001
+map_Kd textures\\image_0001.png
+
+newmtl Steel.003
+map_Kd textures\\0x2550.png
+
+newmtl Steel.004
+map_Kd textures\\image_0013.png
+
+newmtl TreeSkin
+map_Kd textures\\wood_barrlel.png
+
+newmtl Water
+map_Kd textures\\0x200.png
+
+newmtl Web
+map_Kd textures\\metal_cage_rusty.png
+
+newmtl WetDirt
+map_Kd textures\\Stone_Smooth02.png
+
+newmtl WoodBridge
+map_Kd textures\\wood_checkpattern_yellow.png
+
+newmtl pavement
+map_Kd textures\\ZELDA MAJORA'S MASK#D417AC7D#2#1#D8B51F1E_ciByRGBA.png

@@ -1,0 +1,55 @@
+# Blender MTL File: 'KokiriShop.blend'
+# Material Count: 18
+
+newmtl 00009120_32x64_rgba16
+map_Kd textures\\00021060_32x64_rgba16.png
+
+newmtl Collision
+
+newmtl Dark_Dirt_Rubble
+map_Kd textures\\image_0060.png
+
+newmtl Flower
+map_Kd textures\\0000C838_32x64_rgba16.png
+
+newmtl Grass_Plant
+map_Kd textures\\GrassEffect.png
+
+newmtl Light_PlankWood3
+map_Kd textures\\image_0009.png
+
+newmtl Pot
+map_Kd textures\\0001CFF8_16x64_rgba16.png
+
+newmtl Pot.001
+map_Kd textures\\obj_kitchen_teakettle.png
+
+newmtl PotCloth
+map_Kd textures\\ZELDA MAJORA'S MASK#8F4A41A5#2#1#B807E123_ciByRGBA.png
+
+newmtl RaillingDecoration'
+map_Kd textures\\FancyLeafEffect2.png
+
+newmtl StickEffect
+map_Kd textures\\PlantEffect.png
+
+newmtl Tree_Dark_Worn
+map_Kd textures\\ZELDA MAJORA'S MASK#0417F23E#2#1#FE393B00_ciByRGBA.png
+
+newmtl Tree_Wood
+map_Kd textures\\ZELDA MAJORA'S MASK#9C8BB77B#2#1#D935D2F0_ciByRGBA.png
+
+newmtl Treeskin
+map_Kd textures\\Tree_Wood.png
+
+newmtl Wood_Planks12
+map_Kd textures\\Wood_Planks12.png
+
+newmtl WoodenWeb
+map_Kd textures\\WoodenWeb.png
+
+newmtl WornPlankWood.001
+map_Kd textures\\image_0048.png
+
+newmtl wood_tree_stump_inside_2
+map_Kd textures\\wood_tree_stump_inside_2#MirrorX#MirrorY.png

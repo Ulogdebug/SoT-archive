@@ -1,0 +1,6 @@
+src/actor/0x01F0-EnWiz/z_en_wiz.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+

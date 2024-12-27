@@ -1,0 +1,64 @@
+# Blender MTL File: 'Toilet.blend'
+# Material Count: 21
+
+newmtl 0x1880
+map_Kd textures\\0x1880.png
+
+newmtl 0x2860
+map_Kd textures\\BlueClothHead.png
+
+newmtl 0x3720
+map_Kd textures\\0x3720.png
+
+newmtl BlueSkyWithCloud
+map_Kd textures\\0x6D60.png
+
+newmtl Brick_Broke
+map_Kd textures\\0x840.png
+
+newmtl CrapWater
+map_Kd textures\\Water_Ice.png
+
+newmtl Gold_Pole
+map_Kd textures\\Gold_Pole01.png
+
+newmtl Gold_Pole.001
+map_Kd textures\\Train_material_93.png
+
+newmtl IronWall.027
+map_Kd textures\\ZELDA MAJORA'S MASK#7933D732#0#2_all.png
+
+newmtl MetalBarWithNail
+map_Kd textures\\0x7DA0.png
+
+newmtl Metal_Brown_Wall.PNG
+map_Kd textures\\RaggedCloth.png
+
+newmtl Rainbow
+map_Kd textures\\fx_flame_mask_greenblue.png
+
+newmtl RedCarpet
+map_Kd textures\\DirtyWhiteCloth.png
+
+newmtl Sand_Yellow
+map_Kd textures\\RedCarpet.png
+
+newmtl Sky
+map_Kd textures\\nightSky.png
+
+newmtl Tissue
+map_Kd textures\\LessDirtyWhiteCloth.png
+
+newmtl Transparent
+
+newmtl f3dlite_material.017
+map_Kd textures\\TriForces.png
+
+newmtl ironWeb
+map_Kd textures\\GC-0x3E968_32x64_RGBA16.png
+
+newmtl thinker
+map_Kd textures\\thinker.png
+
+newmtl thinker2
+map_Kd textures\\thinker2.png

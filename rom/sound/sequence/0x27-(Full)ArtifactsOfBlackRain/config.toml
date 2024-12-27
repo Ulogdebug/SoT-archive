@@ -1,0 +1,8 @@
+bank_id         = [ 0x20 ]
+medium_type     = "cart"
+sequence_player = "bgm"
+sequence_flags  = [ " " ]
+[seq64]
+	master_volume   = 97
+	flstudio        = false
+	loop            = true

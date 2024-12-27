@@ -1,0 +1,6 @@
+Name = "JumpTogglePlatform"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gJumpTogglePlatformObj_DlJumpTogglePlatformObj"
+    Scale       = 0.01

@@ -1,0 +1,15 @@
+Name = "UpwardGate"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gUpwardGateObj_DlUpwardGateObj"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Flip"
+    Target    = "Var"
+    Dropdown = [ [ 0, "false"], [ 1, "true" ] ]

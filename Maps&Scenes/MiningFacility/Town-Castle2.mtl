@@ -1,0 +1,110 @@
+# Blender MTL File: 'Town-Castle2.blend'
+# Material Count: 36
+
+newmtl Box.003
+map_Kd textures\\image_0024.png
+
+newmtl Brick
+map_Kd textures\\DC-0x3E8D8_32x32_CI8.png
+
+newmtl Cliff
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl Crystal
+map_Kd textures\\ZELDA MAJORA'S MASK#C6720F16#0#2_all.png
+
+newmtl Crystal2
+map_Kd textures\\ZELDA MAJORA'S MASK#9F4EB9CF#4#0_all.png
+
+newmtl Dirt
+map_Kd textures\\DC-0x7DD58_32x32_CI8.png
+
+newmtl Filler
+map_Kd textures\\DC-0x39150_64x32_CI8.png
+
+newmtl Grass
+map_Kd textures\\DC-0x2E5D8_64x32_RGBA16.png
+
+newmtl Grass2
+map_Kd textures\\DT-0x34370_32x64_RGBA16.png
+
+newmtl IronBar
+map_Kd textures\\image_0009.png
+
+newmtl IronBar.001
+map_Kd textures\\image_0009.png
+
+newmtl Light
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl Material
+map_Kd textures\\DC-0x4BC58_32x64_CI8.png
+
+newmtl Material.002
+map_Kd textures\\DC-0x4C458_32x64_CI8.png
+
+newmtl Material.004
+map_Kd textures\\ZELDA MAJORA'S MASK#EE49D75C#2#1#62201120_ciByRGBA.png
+
+newmtl Material.005
+map_Kd textures\\ZELDA MAJORA'S MASK#A77EFBB2#2#1#632FA7EF_ciByRGBA.png
+
+newmtl Material.006
+map_Kd textures\\DT-0x1BBE0_32x64_CI8.png
+
+newmtl Pipe.001
+map_Kd textures\\image_0017.png
+
+newmtl RedIron
+map_Kd textures\\image_0029.png
+
+newmtl RedIron.003
+map_Kd textures\\image_0029.png
+
+newmtl RedIron.004
+map_Kd textures\\image_0003.png
+
+newmtl RedIron.005
+map_Kd textures\\image_0023.png
+
+newmtl Rock
+map_Kd textures\\DC-0x6F028_32x64_CI8.png
+
+newmtl Rock.001
+map_Kd textures\\DC-0x2ADD8_32x64_CI8.png
+
+newmtl Rock2
+map_Kd textures\\DC-0x67E78_32x64_CI8.png
+
+newmtl Stone(Crack).001
+map_Kd textures\\DC-0x8C838_32x32_CI8.png
+
+newmtl Stone(Crack).002
+map_Kd textures\\DC-0x7B958_32x32_CI8.png
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#BA01EBB2#0#2_all.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl Web
+map_Kd textures\\image_0018.png
+
+newmtl Wheel.001
+map_Kd textures\\image_0015.png
+
+newmtl YellowIron
+map_Kd textures\\image_0044.png
+
+newmtl YellowIron.001
+map_Kd textures\\image_0044.png
+
+newmtl YellowIron2
+map_Kd textures\\image_0046.png
+
+newmtl YellowIron3
+map_Kd textures\\image_0045.png
+
+newmtl material_10
+map_Kd textures\\image_0043.png

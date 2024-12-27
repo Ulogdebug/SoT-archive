@@ -1,0 +1,22 @@
+# Blender v3.0.0 Objex File: 'SandstormObj.blend'
+# www.blender.org
+# io_export_objex2 v2.0.0
+version 2.0
+exportid 1708714614.199033
+softinfo animation_framerate 24
+mtllib SandstormObj.mtlex
+g "SandstormObj"
+v 0.962560 0.000000 0.962560
+v -0.962560 0.000000 -0.962560
+v 0.962560 0.000000 -0.962560
+v 0.000000 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.500000 0.500000
+vt 0.000000 1.000000
+vn 0.0000 1.0000 0.0000
+usemtl "sandstrom1"
+s off
+f 1/1/1 3/2/1 4/3/1
+usemtl "sandstorm2"
+f 3/2/1 2/4/1 4/3/1

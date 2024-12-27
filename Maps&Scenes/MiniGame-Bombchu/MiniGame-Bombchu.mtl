@@ -1,0 +1,76 @@
+# Blender MTL File: 'MiniGame-Bombchu.blend'
+# Material Count: 25
+
+newmtl 747_material_43
+map_Kd textures\\Piranesi_material_70.png
+
+newmtl 747_material_6
+map_Kd textures\\airstrip_material_23.png
+
+newmtl Arrow
+map_Kd textures\\Arrow.png
+
+newmtl BlackAndWhiteBrikc
+map_Kd textures\\Storm_material_38.png
+
+newmtl ClassicWall
+map_Kd textures\\Storm_material_23.png
+
+newmtl Cloth_Flag1
+map_Kd textures\\obj_hook.png
+
+newmtl Door_Metal
+map_Kd textures\\door_door_05.png
+
+newmtl Glass
+map_Kd textures\\window_glass.png
+
+newmtl Gold
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl Havana_material_5
+map_Kd textures\\747_material_81.png
+
+newmtl MetalWithWarningLine
+map_Kd textures\\Prodigy_material_32.png
+
+newmtl Piranesi_material_55
+map_Kd textures\\Piranesi_material_55.png
+
+newmtl Redplate
+map_Kd textures\\airstrip_material_57.png
+
+newmtl Rinbow
+map_Kd textures\\Silicon Valley#EFF0F61F#0#2_all.png
+
+newmtl Storm_material_0
+map_Kd textures\\bombchuCraft.png
+
+newmtl Storm_material_28
+map_Kd textures\\wood_stairs_2.png
+
+newmtl Storm_material_43
+map_Kd textures\\0000CFA0_32x32_rgba16.png
+
+newmtl Torn_material_5
+map_Kd textures\\Storm_material_29.png
+
+newmtl Wood
+map_Kd textures\\wood_pole_22.png
+
+newmtl airstrip_material_57.002
+map_Kd textures\\747_material_19.png
+
+newmtl cloth_tent
+map_Kd textures\\cloth_tent.png
+
+newmtl collision
+
+newmtl rustyMetalPlate
+map_Kd textures\\rustyMetalPlate2.png
+
+newmtl stone_pillar_decal
+map_Kd textures\\fx_wood_house_multitexture_special.png
+
+newmtl wood_tree_stump_inside
+map_Kd textures\\wood_tree_stump_inside#MirrorX#MirrorY.png

@@ -1,0 +1,6 @@
+Name = "Oil Barrel"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gOilBarrelObj_DlOilBarrelObj"
+    Scale       = 0.01

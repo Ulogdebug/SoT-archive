@@ -1,0 +1,7 @@
+segment = 6
+scale = 1000.0
+[playas]
+    header = "/src/system/kaleido/0x01-Player/playas_adult.h"
+    patch = "/patch/playas_adult.cfg"
+    bank = "bank.zobj"
+    script = "adult-link-oot-mq-debug.mnf"

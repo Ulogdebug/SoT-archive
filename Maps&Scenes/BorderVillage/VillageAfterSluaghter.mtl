@@ -1,0 +1,221 @@
+# Blender MTL File: 'VillageAfterSluaghter.blend'
+# Material Count: 73
+
+newmtl ArmBone
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl ArmBone.003
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl ArmBone2
+map_Kd textures\\00002AE0_32x16_rgba16.png
+
+newmtl ArmBone3
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl BlackBrick
+map_Kd textures\\stone_bricks_5.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl BlackWhiteLace
+map_Kd textures\\000022A0_16x16_i4.png
+
+newmtl Book.002
+map_Kd textures\\ZELDA MAJORA'S MASK#0A3BBC57#2#1#1547C8FB_ciByRGBA.png
+
+newmtl Book.003
+map_Kd textures\\book3.png
+
+newmtl Box
+map_Kd textures\\ZELDA MAJORA'S MASK#158F6869#2#0#D950C841_ciByRGBA.png
+
+newmtl Box.002
+map_Kd textures\\ZELDA MAJORA'S MASK#8C6BF7B6#2#1#53156DF7_ciByRGBA.png
+
+newmtl Brick
+map_Kd textures\\stone_bricks_mossy.png
+
+newmtl Brick.003
+map_Kd textures\\Stone_Bricks08.png
+
+newmtl Brick.007
+map_Kd textures\\ST-0xA49F8_32x32_CI8.png
+
+newmtl Brick.008
+map_Kd textures\\SB-0x8BA8_32x32_RGBA16.png
+
+newmtl Carp
+map_Kd textures\\0001B750_32x32_rgba16.png
+
+newmtl Chain.001
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Cloth
+map_Kd textures\\cloth_sheet.png
+
+newmtl Cloth2
+map_Kd textures\\cloth_sheeting_side_creased.png
+
+newmtl CrapWater
+map_Kd textures\\Crap.png
+
+newmtl Fence.003
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl Fench
+map_Kd textures\\00026A78_32x64_rgba16.png
+
+newmtl GreenRailling
+map_Kd textures\\ZELDA MAJORA'S MASK#243872AB#0#2_all.png
+
+newmtl Hook
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl HyruleFlag.001
+map_Kd textures\\HyruleFlag(Rb).png
+
+newmtl Iron.003
+map_Kd textures\\ZELDA MAJORA'S MASK#8EDEDBA9#2#1#B2354BFD_ciByRGBA.png
+
+newmtl IronStake
+map_Kd textures\\GC-0xDA2D8_32x32_RGBA16.png
+
+newmtl IronWeb
+map_Kd textures\\metal_gate_Fine.png
+
+newmtl Ladder.001
+map_Kd textures\\wood_ladder#ClampX.png
+
+newmtl Lamp
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Light3
+map_Kd textures\\FT-0x74978_32x32_IA16.png
+
+newmtl Material.022
+map_Kd textures\\ST-0x2C7E0_32x32_RGBA16.png
+
+newmtl MossyWall
+map_Kd textures\\stone_wall_brick_mossy.png
+
+newmtl PlankWood
+map_Kd textures\\Wood_Planks05#MirrorX.png
+
+newmtl Rock
+map_Kd textures\\ext_rock_mahMoss.png
+
+newmtl Rock.003
+map_Kd textures\\stone_floor_smooth_7.png
+
+newmtl Rope
+map_Kd textures\\000165C0_16x32_rgba16.png
+
+newmtl RopeWeb
+map_Kd textures\\Cloth_Rope01.png
+
+newmtl RustyCageBar
+map_Kd textures\\metal_scratched_color.png
+
+newmtl RustyDoor
+map_Kd textures\\metal_scratched_color.png
+
+newmtl RustyMetalBar
+map_Kd textures\\metal_iron_bar.png
+
+newmtl RustySteel
+map_Kd textures\\metal_pole_1.png
+
+newmtl Sand.001
+map_Kd textures\\Yello_Dirt.png
+
+newmtl SandStone
+map_Kd textures\\ext_stone_roug_2.png
+
+newmtl SandStone.004
+map_Kd textures\\stone_wall_edge_bricks.png
+
+newmtl SandStone.006
+map_Kd textures\\stone_floor_tower_checkers_var_03.png
+
+newmtl SandStone.007
+map_Kd textures\\00018CE0_32x32_rgba16.png
+
+newmtl SandStone.009
+map_Kd textures\\Stone_Smooth08.png
+
+newmtl SewerWall
+map_Kd textures\\Stone_Bricks07.png
+
+newmtl Sign
+map_Kd textures\\Signs.png
+
+newmtl Skulls.001
+map_Kd textures\\ST-0x9E6C0_32x32_RGBA16.png
+
+newmtl Stair
+map_Kd textures\\stone_stairs_mossy.png
+
+newmtl Stair.001
+map_Kd textures\\ST-0xFA658_64x32_RGBA16.png
+
+newmtl StickPile
+map_Kd textures\\ZELDA MAJORA'S MASK#A977C46C#0#2_all.png
+
+newmtl StickPiles2
+map_Kd textures\\HOS-0x8F20_32x64_RGBA16.png
+
+newmtl Stone
+map_Kd textures\\stone_wall_old.png
+
+newmtl Stone.001
+map_Kd textures\\4B2B76B_c.png
+
+newmtl StoneGrey
+map_Kd textures\\Stone_Smooth05.png
+
+newmtl TreeSpot
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl TreeSpot.001
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl TreeSpot.002
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl Treeskin
+map_Kd textures\\wood_tree_mm_5.png
+
+newmtl Well
+map_Kd textures\\stone_bricks_2.png
+
+newmtl WellWood
+map_Kd textures\\wood_floor_planks_2.png
+
+newmtl Wine
+map_Kd textures\\wine.png
+
+newmtl Wood
+map_Kd textures\\0002AE38_32x32_rgba16.png
+
+newmtl WoodPole
+map_Kd textures\\wood_pole_29.png
+
+newmtl WoodenLadder
+map_Kd textures\\Wood_Ladder01.png
+
+newmtl WornTreeskin
+map_Kd textures\\wood_tree_mm_2.png
+
+newmtl YellowSand
+map_Kd textures\\Rock_Dirt2.png
+
+newmtl book
+map_Kd textures\\book.png
+
+newmtl grp.png
+map_Kd textures\\wine.png
+
+newmtl window
+map_Kd textures\\wood_window_broken.png

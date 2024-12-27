@@ -1,0 +1,23 @@
+Name = "ChangeableWater"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gChangableWater_DlWaterObj"
+    Scale       = 1.0
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0xF000
+    Name      = "Depth of Water"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x0F00
+    Name      = "Oder of WaterBox"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Reverse"
+    Target    = "ZRot"
+	Dropdown = [ [ 0, "False"], [ 1, "True" ] ]

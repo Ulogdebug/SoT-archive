@@ -1,0 +1,132 @@
+# Blender MTL File: 'TrainCheckpoint.blend'
+# Material Count: 44
+
+newmtl 1order
+map_Kd textures\\Train_material_58.png
+
+newmtl 3order
+map_Kd textures\\Train_material_57.png
+
+newmtl Arrow
+map_Kd textures\\Arrow.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl Box
+map_Kd textures\\Train_material_15.png
+
+newmtl Collision
+
+newmtl Concrete
+map_Kd textures\\Storm_material_45.png
+
+newmtl Dark_Wood
+map_Kd textures\\Piranesi_material_24.png
+
+newmtl Dirt2
+map_Kd textures\\Havana_material_29.png
+
+newmtl End
+map_Kd textures\\office_material_157.png
+
+newmtl FactoryWornSteelPlate
+map_Kd textures\\Snark_Pit_texture_32.png
+
+newmtl FloorBrick
+map_Kd textures\\Torn_material_127.png
+
+newmtl FloorWithWarningLine
+map_Kd textures\\Torn_material_80.png
+
+newmtl LineTrain1
+map_Kd textures\\airstrip_material_64.png
+
+newmtl LineTrain3
+map_Kd textures\\Storm_material_31.png
+
+newmtl MetalDoor
+map_Kd textures\\Nuke_material_121.png
+
+newmtl MetalDoor.001
+map_Kd textures\\Nuke_material_121.png
+
+newmtl MetalRailling
+map_Kd textures\\BOMBERMAN64U#0DB1652C#2#1#744C554C_ciByRGBA.png
+
+newmtl MetalRailling.001
+map_Kd textures\\MetalRailling.png
+
+newmtl MetalWall
+map_Kd textures\\Storm_material_39.png
+
+newmtl Metal_Panel_Indicator
+map_Kd textures\\Prodigy_material_158.png
+
+newmtl Metal_Panel_Plate2
+map_Kd textures\\Prodigy_material_156.png
+
+newmtl None
+
+newmtl Piranesi_material_81
+map_Kd textures\\Piranesi_material_81.png
+
+newmtl Plate
+map_Kd textures\\42733733.png
+
+newmtl Prodigy_material_157.001
+map_Kd textures\\Prodigy_material_157.png
+
+newmtl Prodigy_material_85
+map_Kd textures\\Prodigy_material_160.png
+
+newmtl Ruins
+map_Kd textures\\Torn_material_48.png
+
+newmtl Storm_material_35
+map_Kd textures\\Torn_material_106.png
+
+newmtl TopTrain1
+map_Kd textures\\airstrip_material_57.png
+
+newmtl TopTrain3
+map_Kd textures\\Piranesi_material_120.png
+
+newmtl Torn_material_10
+map_Kd textures\\Torn_material_71.png
+
+newmtl TrainLight
+map_Kd textures\\office_material_71.png
+
+newmtl TrainLight3
+map_Kd textures\\Storm_material_55.png
+
+newmtl TrainSkin1
+map_Kd textures\\Torn_material_25.png
+
+newmtl TrainSkin3
+map_Kd textures\\Piranesi_material_123.png
+
+newmtl Train_material_46
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl WarningLine2
+map_Kd textures\\orangeblackLace.png
+
+newmtl Wheel_Wood_Metal
+map_Kd textures\\Train_material_29.png
+
+newmtl YellowLight
+map_Kd textures\\Nuke_material_10.png
+
+newmtl YellowLight.001
+map_Kd textures\\Nuke_material_10.png
+
+newmtl YellowWarningLine
+map_Kd textures\\YellowWarningLine.png
+
+newmtl office_material_57
+map_Kd textures\\office_material_57.png
+
+newmtl oil_rig_material_44
+map_Kd textures\\oil_rig_material_12.png

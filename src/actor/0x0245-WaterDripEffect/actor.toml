@@ -1,0 +1,15 @@
+Name = "Water_Drip_Effect"
+
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 1, "Falling Flame Rocks"      ],
+		[ 2, "Dripping Water"       ],
+        [ 3, "Ripples for Gyrog"       ],
+        [ 4, "Large funnel for Gyrog"       ],
+        [ 5, "Secondary funnel for Gyrog"       ],
+        [ 6, "Shockwave for Gyrog"       ],
+	]

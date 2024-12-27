@@ -1,0 +1,214 @@
+# Blender MTL File: 'Town-Landfill.blend'
+# Material Count: 71
+
+newmtl 17234060
+map_Kd textures\\17234060.png
+
+newmtl 36581520
+map_Kd textures\\36581520.png
+
+newmtl 59406944
+map_Kd textures\\36853543.png
+
+newmtl Arrow
+map_Kd textures\\Arrow.png
+
+newmtl BlackDirt
+map_Kd textures\\0x180C0.png
+
+newmtl BlueSkyWithCloud
+map_Kd textures\\CloudEffect.png
+
+newmtl Bomb
+map_Kd textures\\Boomb.png
+
+newmtl Bone
+map_Kd textures\\1209CF4E_cout.png
+
+newmtl CanBottom
+map_Kd textures\\Metal_CanBottom.png
+
+newmtl Chain
+map_Kd textures\\ZELDA MAJORA'S MASK#A9183C11#2#1#937E268B_ciByRGBA.png
+
+newmtl Chateau_material_44
+map_Kd textures\\Chateau_material_44.png
+
+newmtl Cloth_Blue.PNG
+map_Kd textures\\27674213.png
+
+newmtl Crap
+map_Kd textures\\14249239.png
+
+newmtl CrapWITHgrass
+map_Kd textures\\0x1060.png
+
+newmtl CrapWater
+map_Kd textures\\Crap.png
+
+newmtl Dirt
+map_Kd textures\\Dark_Dirt_Rubble.PNG
+
+newmtl Eye
+map_Kd textures\\0x21D0.png
+
+newmtl Glass
+map_Kd textures\\Dark Metallic 1.png
+
+newmtl Glass2
+map_Kd textures\\window_glass.png
+
+newmtl GoronDance
+map_Kd textures\\0002FFC8_32x64_rgba16.png
+
+newmtl GoronHead
+map_Kd textures\\_585.png
+
+newmtl GoronHead2
+map_Kd textures\\statue_pattern_1.rgba16.png
+
+newmtl GoronWhiteSymbol
+map_Kd textures\\ZELDA MAJORA'S MASK#35959A4E#4#0_all.png
+
+newmtl Grass
+map_Kd textures\\DC-0x2E5D8_64x32_RGBA16.png
+
+newmtl GreenSteel
+map_Kd textures\\Nuke_material_88.png
+
+newmtl Invisibility
+
+newmtl KillingCrap
+map_Kd textures\\14249239.png
+
+newmtl Lights
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl MessyMetalWall
+map_Kd textures\\0x10660.png
+
+newmtl MessyMetalWall2
+map_Kd textures\\0x4940.png
+
+newmtl Metal
+map_Kd textures\\30058349.png
+
+newmtl MetalDoor
+map_Kd textures\\DarkWoodenDoor.png
+
+newmtl MetalDoor.001
+map_Kd textures\\DarkWoodenDoor.png
+
+newmtl MetalPlate2
+map_Kd textures\\42711464.png
+
+newmtl MetalRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl Metal_CanHead
+map_Kd textures\\Metal_CanHead.png
+
+newmtl Metal_WallTransition
+map_Kd textures\\Metal_WallTransition.png
+
+newmtl NormalTrashWall
+map_Kd textures\\0x13040.png
+
+newmtl Nuke_material_23
+map_Kd textures\\Nuke_material_10.png
+
+newmtl One
+map_Kd textures\\MarioParty3#35957BE1#2#0_ci.bmp
+
+newmtl Railling
+map_Kd textures\\MetalRailling.png
+
+newmtl RedRustySteel
+map_Kd textures\\Snark_Pit_texture_24.png
+
+newmtl Red_Handle
+map_Kd textures\\Metal_Red_Light.PNG
+
+newmtl RockWall
+map_Kd textures\\18068436.png
+
+newmtl RustyMetal
+map_Kd textures\\Snark_Pit_texture_24.png
+
+newmtl RustyMetalWall
+map_Kd textures\\55233331.png
+
+newmtl RustySteelPlate
+map_Kd textures\\Snark_Pit_texture_22.png
+
+newmtl SteepDirt
+map_Kd textures\\Dirt.png
+
+newmtl StoneWall
+map_Kd textures\\0x106C0.png
+
+newmtl StoneWall2
+map_Kd textures\\0x11F20.png
+
+newmtl TrashWall2
+map_Kd textures\\0x9A20.png
+
+newmtl TrashWall3
+map_Kd textures\\0x19560.png
+
+newmtl TrashWallRock
+map_Kd textures\\0xBF50.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSpot
+map_Kd textures\\wood_head.png
+
+newmtl Tree_Dark_Worn
+map_Kd textures\\Tree_Dark_Worn.png
+
+newmtl Vine
+map_Kd textures\\0x0.png
+
+newmtl WarningLine2
+map_Kd textures\\image_0002.png
+
+newmtl WasteBin
+map_Kd textures\\Train_material_36.png
+
+newmtl WasteBinSide
+map_Kd textures\\Train_material_34.png
+
+newmtl Wheel
+map_Kd textures\\17987993.png
+
+newmtl Wood_Box_Craft
+map_Kd textures\\Train_material_81.png
+
+newmtl Wood_Nail
+map_Kd textures\\Wood_Carved04.png
+
+newmtl YellowTrees
+map_Kd textures\\0x13FC0.png
+
+newmtl black
+map_Kd textures\\black.png
+
+newmtl cloth_sheet
+map_Kd textures\\Cloth_Curtain7.png
+
+newmtl image_0009
+map_Kd textures\\Rock_Wall_Dark.png
+
+newmtl image_0044
+map_Kd textures\\image_0044.png
+
+newmtl slogan
+map_Kd textures\\LemonTea.png
+
+newmtl slogan2
+map_Kd textures\\LemonTeaSide.png
+
+newmtl stone_wall_decorative_bottom_05
+map_Kd textures\\stone_wall_decorative_bottom_05.png

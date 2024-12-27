@@ -1,0 +1,11 @@
+src/lib_user/asm_macros.h
+src/system/kaleido/0x01-Player/Player.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/system/kaleido/0x01-Player/playas_child.h
+src/system/kaleido/0x01-Player/playas_adult.h
+include/hackplayer/hackplayer.h
+src/lib_user/state/state.h
+

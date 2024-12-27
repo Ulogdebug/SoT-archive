@@ -1,0 +1,118 @@
+# Blender MTL File: 'GoronArtGallery.blend'
+# Material Count: 39
+
+newmtl 00010326
+map_Kd textures\\00008139.png
+
+newmtl Bandage
+map_Kd textures\\Bondage.png
+
+newmtl Bar
+map_Kd textures\\ST-0x2CFE0_32x8_RGBA16.png
+
+newmtl Bars
+map_Kd textures\\GreenMetalWeb.png
+
+newmtl Box
+map_Kd textures\\Storm_material_0.png
+
+newmtl Chain
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Chainmail
+map_Kd textures\\ChainMail.png
+
+newmtl Crap.png.001
+map_Kd textures\\Crap.png
+
+newmtl Floor
+map_Kd textures\\stonefloor2.png
+
+newmtl Grate
+map_Kd textures\\ZELDA MAJORA'S MASK#F740A706#4#1_all.png
+
+newmtl Grate2
+map_Kd textures\\ZELDA MAJORA'S MASK#C70E4C2B#2#0#1B72EA64_ciByRGBA.png
+
+newmtl IronShine
+map_Kd textures\\ZELDA MAJORA'S MASK#8EDEDBA9#2#1#B2354BFD_ciByRGBA.png
+
+newmtl Ladder
+map_Kd textures\\wood_ladder_2#ClampX.png
+
+newmtl Ladder.001
+map_Kd textures\\FT-0x7D638_32x32_RGBA16.png
+
+newmtl Lantern
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Leather
+map_Kd textures\\06006300.png
+
+newmtl LowerWall1
+map_Kd textures\\00008494.png
+
+newmtl Material.001
+map_Kd textures\\000164B8_32x32_rgba16.png
+
+newmtl Material.002
+
+newmtl Metal
+map_Kd textures\\metal_curvy.png
+
+newmtl Pipe
+map_Kd textures\\0xC20.png
+
+newmtl RoundSheild
+map_Kd textures\\Metal_circle_logo.png
+
+newmtl ScrapMetalWall
+map_Kd textures\\metal_scratched_color.png
+
+newmtl Steel
+map_Kd textures\\Metal_Pole02.png
+
+newmtl Storm_material_14
+map_Kd textures\\Storm_material_14.png
+
+newmtl Wall.001
+map_Kd textures\\00010131.png
+
+newmtl Water
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Web2
+map_Kd textures\\FT-0x85EC0_32x32_IA16.png
+
+newmtl Wood
+map_Kd textures\\WoodStairs.png
+
+newmtl WoodCutFacePlaceholder
+map_Kd textures\\0x170E0.png
+
+newmtl cave
+map_Kd textures\\13136003.png
+
+newmtl flag
+map_Kd textures\\ZELDA MAJORA'S MASK#C30FED34#0#2_all.png
+
+newmtl lambert21
+map_Kd textures\\HyruleFlag (Ry).png
+
+newmtl lambert4
+map_Kd textures\\Effect_Steam03.png
+
+newmtl lambert8
+map_Kd textures\\ZELDA MAJORA'S MASK#2D8BBC39#2#0#D950C841_ciByRGBA.png
+
+newmtl ray
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl roof
+map_Kd textures\\0x22B00.png
+
+newmtl steam
+map_Kd textures\\Steam.png
+
+newmtl web
+map_Kd textures\\ZELDA MAJORA'S MASK#8B9FC80F#3#1_all.png

@@ -1,0 +1,100 @@
+# Blender MTL File: 'MiniGame-DeathContest.blend'
+# Material Count: 33
+
+newmtl 747_material_71
+map_Kd textures\\RedConcreteWornWall.png
+
+newmtl 747_material_83
+map_Kd textures\\747_material_83.png
+
+newmtl ArmBone
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl ArmBone.002
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl ArmBone.007
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl Bone
+map_Kd textures\\00002EE0_32x16_rgba16.png
+
+newmtl Chest
+map_Kd textures\\0000CD90_32x32_rgba16.png
+
+newmtl Chest.001
+map_Kd textures\\0000F590_32x64_rgba16.png
+
+newmtl Collision
+
+newmtl Dry_Dirt2
+map_Kd textures\\Dry_Dirt2.png
+
+newmtl Face1
+map_Kd textures\\_425.png
+
+newmtl Face2
+map_Kd textures\\_167.png
+
+newmtl Face3
+map_Kd textures\\_133.png
+
+newmtl FancyGems
+map_Kd textures\\0000E590_32x32_rgba16.png
+
+newmtl Gold
+map_Kd textures\\0000D590_32x32_rgba16.png
+
+newmtl MetalCounter
+map_Kd textures\\Piranesi_material_106.png
+
+newmtl Metal_Pole06
+map_Kd textures\\Metal_Pole06.png
+
+newmtl Raillings
+map_Kd textures\\00021018_16x64_rgba16.png
+
+newmtl Roof
+map_Kd textures\\Torn_material_127.png
+
+newmtl RustyMetalEdge
+map_Kd textures\\Piranesi_material_124.png
+
+newmtl Skull
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl ThickMetalRailling
+map_Kd textures\\ST-0x93080_32x32_RGBA16.png
+
+newmtl Torn_material_126
+map_Kd textures\\Torn_material_126.png
+
+newmtl Torn_material_80
+map_Kd textures\\Torn_material_80.png
+
+newmtl Train_material_46.001
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl VendingMachine
+map_Kd textures\\VendingMachine.png
+
+newmtl Wine
+map_Kd textures\\wine.png
+
+newmtl door_door_F6CF38
+map_Kd textures\\door_door_F6CF38.png
+
+newmtl ice
+map_Kd textures\\stone_wall_mossy_3.png
+
+newmtl obj_maks_boss
+map_Kd textures\\obj_maks_boss.png
+
+newmtl paper_poster_black
+map_Kd textures\\paper_poster_black.png
+
+newmtl rainbow
+map_Kd textures\\SUPER MARIO 64#BD4BA854#0#2_all.png
+
+newmtl wood_pillar_metal_02
+map_Kd textures\\Torn_material_6.png

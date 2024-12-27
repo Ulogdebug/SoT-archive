@@ -1,0 +1,200 @@
+# Blender MTL File: 'MoblinMine.blend'
+# Material Count: 66
+
+newmtl Bar.001
+map_Kd textures\\FT-0x5B0C8_32x8_RGBA16.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl BlackFloor
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl BlowHole
+map_Kd textures\\image_0014.png
+
+newmtl BlowHole.001
+map_Kd textures\\image_0016.png
+
+newmtl Box
+map_Kd textures\\image_0025.png
+
+newmtl Brick2
+map_Kd textures\\image_0057.png
+
+newmtl Cliff
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl CliffStone
+map_Kd textures\\DC-0x2ADD8_32x64_CI8.png
+
+newmtl CliffStone2
+map_Kd textures\\DC-0x6F028_32x64_CI8.png
+
+newmtl CliffStone3
+map_Kd textures\\DC-0x6F828_32x64_CI8.png
+
+newmtl Crystal
+map_Kd textures\\ZELDA MAJORA'S MASK#C6720F16#0#2_all.png
+
+newmtl Crystal2
+map_Kd textures\\Effect_Ice01.png
+
+newmtl Decoration
+map_Kd textures\\0x7230.png
+
+newmtl Dir2
+map_Kd textures\\DC-0x2DDD8_32x64_CI8.png
+
+newmtl Dirt
+map_Kd textures\\DC-0x3A150_32x32_CI8.png
+
+newmtl Dirt.002
+map_Kd textures\\0001FCD8_64x64_i4.png
+
+newmtl Engine2
+map_Kd textures\\image_0030.png
+
+newmtl Grass
+map_Kd textures\\DT-0x34370_32x64_RGBA16.png
+
+newmtl Grass2
+map_Kd textures\\DC-0x2E5D8_64x32_RGBA16.png
+
+newmtl Hole
+map_Kd textures\\image_0004.png
+
+newmtl Hole2
+map_Kd textures\\ZELDA MAJORA'S MASK#9983B45F#2#1#632FA7EF_ciByRGBA.png
+
+newmtl Hole3
+map_Kd textures\\image_0010.png
+
+newmtl Inscription.001
+map_Kd textures\\636C5E89_c.png
+
+newmtl Inscription.002
+map_Kd textures\\00016258_128x32_i4.png
+
+newmtl Iron
+map_Kd textures\\0x25B10.png
+
+newmtl IronWall
+map_Kd textures\\00006029.png
+
+newmtl IronWithRed
+map_Kd textures\\image_0013.png
+
+newmtl Lace
+map_Kd textures\\image_0002.png
+
+newmtl Lava
+map_Kd textures\\00023338_32x32_rgba16.png
+
+newmtl LavaDirt
+map_Kd textures\\DC-0x4CC58_32x64_CI8.png
+
+newmtl LavaDirt2
+map_Kd textures\\DC-0x4E858_32x64_CI8.png
+
+newmtl LavaRock
+map_Kd textures\\DC-0x99C80_32x64_RGBA16.png
+
+newmtl LavaRock.001
+map_Kd textures\\DC-0x7BD58_32x64_CI8.png
+
+newmtl Light
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl Material.002
+map_Kd textures\\image_0059.png
+
+newmtl Material.017
+map_Kd textures\\image_0012.png
+
+newmtl Pipe
+map_Kd textures\\image_0017.png
+
+newmtl Railling
+map_Kd textures\\ZELDA MAJORA'S MASK#243872AB#0#2_all.png
+
+newmtl Red
+map_Kd textures\\Red.png
+
+newmtl RocKWall
+map_Kd textures\\DC-0x4C458_32x64_CI8.png
+
+newmtl RockWithLace
+map_Kd textures\\DC-0x4E058_64x32_CI8.png
+
+newmtl Roof
+map_Kd textures\\0x5E30.png
+
+newmtl RopeRailling
+map_Kd textures\\000126B8_32x32_rgba16.png
+
+newmtl RopeWeb
+map_Kd textures\\ZELDA MAJORA'S MASK#5F1D71C1#0#2_all.png
+
+newmtl RotWeb
+map_Kd textures\\BOW-0x1BEB0_32x32_RGBA16.png
+
+newmtl Rotton
+map_Kd textures\\0x3970.png
+
+newmtl Slide
+map_Kd textures\\image_0003.png
+
+newmtl Slide2
+map_Kd textures\\0x19B0.png
+
+newmtl SlideDirt
+map_Kd textures\\DT-0x1BBE0_32x64_CI8.png
+
+newmtl Steel
+map_Kd textures\\image_0027.png
+
+newmtl SteelBrick
+map_Kd textures\\image_0050.png
+
+newmtl SteelWithPipe
+map_Kd textures\\SteelWithTube.png
+
+newmtl Stone
+map_Kd textures\\ext_rock_wall_dir.png
+
+newmtl Stone.001
+map_Kd textures\\DT-0x587D8_32x64_CI8.png
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl TreeSpot.001
+map_Kd textures\\000087C8_32x32_rgba16.png
+
+newmtl Wall
+map_Kd textures\\DC-0x9AC80_32x64_CI8.png
+
+newmtl Web
+map_Kd textures\\image_0018.png
+
+newmtl Web.001
+map_Kd textures\\ZELDA MAJORA'S MASK#A77EFBB2#2#1#632FA7EF_ciByRGBA.png
+
+newmtl WetDirt
+map_Kd textures\\DT-0x61400_32x64_CI8.png
+
+newmtl Wood.005
+map_Kd textures\\ZELDA MAJORA'S MASK#997F9920#2#1#A060A760_ciByRGBA.png
+
+newmtl mtl_06000708_TEXGEN_NOCULL.003
+map_Kd textures\\RGBA16_0600C7B0.png
+
+newmtl ruinDirt
+map_Kd textures\\DT-0xDA68_32x32_CI8.png
+
+newmtl slogan.003
+map_Kd textures\\LemonTea.png

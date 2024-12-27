@@ -1,0 +1,7 @@
+src/actor/0x0200-SpikeWheel/SpikeWheel.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/object/0x0196-SpikeWheelObj.h
+

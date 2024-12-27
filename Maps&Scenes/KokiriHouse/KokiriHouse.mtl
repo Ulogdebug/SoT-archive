@@ -1,0 +1,88 @@
+# Blender MTL File: 'KokiriHouse.blend'
+# Material Count: 29
+
+newmtl 0x840
+map_Kd textures\\Tree_Wood.png
+
+newmtl BlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Books_Case
+map_Kd textures\\Books_Case.png
+
+newmtl Cloth_Hay01
+map_Kd textures\\Cloth_Hay01#MirrorX#MirrorY.png
+
+newmtl Cloth_HayRoof01_Side
+map_Kd textures\\MossyCloth.png
+
+newmtl Collision
+
+newmtl Lamp.001
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Leaves.001
+map_Kd textures\\image_0068.png
+
+newmtl Light
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl Pot
+map_Kd textures\\obj_kitchen_teakettle.png
+
+newmtl PotCloth
+map_Kd textures\\ZELDA MAJORA'S MASK#8F4A41A5#2#1#B807E123_ciByRGBA.png
+
+newmtl Rope.001
+map_Kd textures\\DC-0x29DD8_32x32_RGBA16.png
+
+newmtl TheyWillReturn_01
+map_Kd textures\\TheyWillReturn_01.png
+
+newmtl TheyWillReturn_02
+map_Kd textures\\TheyWillReturn_02.png
+
+newmtl TheyWillReturn_02.001
+map_Kd textures\\TheyWillReturn_03.png
+
+newmtl TheyWillReturn_02.002
+map_Kd textures\\TheyWillReturn_04.png
+
+newmtl TheyWillReturn_02.003
+map_Kd textures\\TheyWillReturn_06.png
+
+newmtl TheyWillReturn_02.004
+map_Kd textures\\TheyWillReturn_07.png
+
+newmtl TheyWillReturn_02.005
+map_Kd textures\\TheyWillReturn_08.png
+
+newmtl TheyWillReturn_02.006
+map_Kd textures\\TheyWillReturn_09.png
+
+newmtl TheyWillReturn_05
+map_Kd textures\\TheyWillReturn_05.png
+
+newmtl Vine
+map_Kd textures\\Vine.png
+
+newmtl Wood_Head_Pell
+map_Kd textures\\wood_tree_stump_inside_2#MirrorX#MirrorY.png
+
+newmtl fx_tribal_5
+map_Kd textures\\fx_tribal_5.png
+
+newmtl tree
+map_Kd textures\\0x7C60.png
+
+newmtl tree.001
+map_Kd textures\\0x7C60.png
+
+newmtl wood_head
+map_Kd textures\\Wood_Head_Pell.png
+
+newmtl wood_pillar_metal_02
+map_Kd textures\\wood_pole_twosideShaded_2.png
+
+newmtl wood_planks_08
+map_Kd textures\\Wood_Planks12.png

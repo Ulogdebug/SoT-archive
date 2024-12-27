@@ -1,0 +1,8 @@
+src/actor/0x0260-EnPlane/EnPlane.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+src/lib_user/uLib_vector.h
+src/lib_user/uLib_math.h
+

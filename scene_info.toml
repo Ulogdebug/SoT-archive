@@ -1,0 +1,586 @@
+[[scene]]
+	index = 0x00
+	vrom = [
+		0x019F49A0, 0x01A2C370,
+	]
+	title_vrom = [
+		0x03295D90, 0x03296B10,
+	]
+[[scene]]
+	index = 0x01
+	vrom = [
+		0x01A6AA70, 0x01A95850,
+	]
+	title_vrom = [
+		0x03296B10, 0x03297890,
+	]
+[[scene]]
+	index = 0x02
+	vrom = [
+		0x01B3BD10, 0x01B84490,
+	]
+	title_vrom = [
+		0x03297890, 0x03298610,
+	]
+[[scene]]
+	index = 0x03
+	vrom = [
+		0x01CBD090, 0x01D2AFA0,
+	]
+	title_vrom = [
+		0x03298610, 0x03299390,
+	]
+[[scene]]
+	index = 0x04
+	vrom = [
+		0x01E74330, 0x01EE63B0,
+	]
+	title_vrom = [
+		0x03299390, 0x0329A110,
+	]
+[[scene]]
+	index = 0x05
+	vrom = [
+		0x01F3BD00, 0x01F6D4C0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x06
+	vrom = [
+		0x01FFB420, 0x0203CBA0,
+	]
+	title_vrom = [
+		0x0329A110, 0x0329AE90,
+	]
+[[scene]]
+	index = 0x07
+	vrom = [
+		0x02121100, 0x02177680,
+	]
+	title_vrom = [
+		0x0329AE90, 0x0329BC10,
+	]
+[[scene]]
+	index = 0x08
+	vrom = [
+		0x022785A0, 0x022EE360,
+	]
+	title_vrom = [
+		0x0329BC10, 0x0329C990,
+	]
+[[scene]]
+	index = 0x09
+	vrom = [
+		0x02348CA0, 0x02395CF0,
+	]
+	title_vrom = [
+		0x0329C990, 0x0329D710,
+	]
+[[scene]]
+	index = 0x0A
+	vrom = [
+		0x023C65F0, 0x023DF630,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x0B
+	vrom = [
+		0x024499A0, 0x02487570,
+	]
+	title_vrom = [
+		0x0329D710, 0x0329E490,
+	]
+[[scene]]
+	index = 0x0C
+	vrom = [
+		0x024C2C50, 0x025079A0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x0E
+	vrom = [
+		0x025253F0, 0x02544320,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x10
+	vrom = [
+		0x0257DD10, 0x025A35E0,
+	]
+	title_vrom = [
+		0x0329E490, 0x0329F210,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x14
+	vrom = [
+		0x025B3270, 0x025BF580,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x15
+	vrom = [
+		0x025CB600, 0x025D5480,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x18
+	vrom = [
+		0x025DCD60, 0x025E5320,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x1B
+	vrom = [
+		0x025F5390, 0x0261CB60,
+	]
+	title_vrom = [
+		0x0329F210, 0x0329FF90,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x1E
+	vrom = [
+		0x0263ABE0, 0x02648620,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x1F
+	vrom = [
+		0x02662AD0, 0x026812D0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x21
+	vrom = [
+		0x026B4240, 0x026E3AD0,
+	]
+	title_vrom = [
+		0x0329FF90, 0x032A0D10,
+	]
+[[scene]]
+	index = 0x22
+	vrom = [
+		0x02725C10, 0x02739C30,
+	]
+	title_vrom = [
+		0x032A0D10, 0x032A1A90,
+	]
+[[scene]]
+	index = 0x23
+	vrom = [
+		0x02754E60, 0x02770F60,
+	]
+	title_vrom = [
+		0x032A1A90, 0x032A2810,
+	]
+[[scene]]
+[[scene]]
+	index = 0x25
+	vrom = [
+		0x02792450, 0x027B3A10,
+	]
+	title_vrom = [
+		0x032A2810, 0x032A3590,
+	]
+[[scene]]
+[[scene]]
+	index = 0x27
+	vrom = [
+		0x027C65A0, 0x027D9460,
+	]
+	title_vrom = [
+		0x032A3590, 0x032A4310,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x2A
+	vrom = [
+		0x027F7180, 0x028110C0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x2C
+	vrom = [
+		0x0283B460, 0x02862430,
+	]
+	title_vrom = [
+		0x032A4310, 0x032A5090,
+	]
+[[scene]]
+	index = 0x2D
+	vrom = [
+		0x02876EA0, 0x02883AF0,
+	]
+	title_vrom = [
+		0x032A5090, 0x032A5E10,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x30
+	vrom = [
+		0x028A01C0, 0x028BD3F0,
+	]
+	title_vrom = [
+		0x032A5E10, 0x032A6B90,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x35
+	vrom = [
+		0x028FC0D0, 0x0292EEF0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x36
+	vrom = [
+		0x0295D060, 0x0297A210,
+	]
+	title_vrom = [
+		0x032A6B90, 0x032A7910,
+	]
+[[scene]]
+	index = 0x37
+	vrom = [
+		0x029B9160, 0x029F7AA0,
+	]
+	title_vrom = [
+		0x032A7910, 0x032A8690,
+	]
+[[scene]]
+	index = 0x38
+	vrom = [
+		0x029FA070, 0x029FCB10,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x39
+	vrom = [
+		0x02A26EB0, 0x02A3FC50,
+	]
+	title_vrom = [
+		0x032A8690, 0x032A9410,
+	]
+[[scene]]
+	index = 0x3A
+	vrom = [
+		0x02A56B50, 0x02A78D70,
+	]
+	title_vrom = [
+		0x032A9410, 0x032AA190,
+	]
+[[scene]]
+	index = 0x3B
+	vrom = [
+		0x02A93F00, 0x02AA85E0,
+	]
+	title_vrom = [
+		0x032AA190, 0x032AAF10,
+	]
+[[scene]]
+	index = 0x3C
+	vrom = [
+		0x02ABB730, 0x02ACDD10,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x3E
+	vrom = [
+		0x02ADF810, 0x02AFBE30,
+	]
+	title_vrom = [
+		0x032AAF10, 0x032ABC90,
+	]
+[[scene]]
+	index = 0x3F
+	vrom = [
+		0x02B1D740, 0x02B41250,
+	]
+	title_vrom = [
+		0x032ABC90, 0x032ACA10,
+	]
+[[scene]]
+[[scene]]
+	index = 0x41
+	vrom = [
+		0x02B65C90, 0x02B86E00,
+	]
+	title_vrom = [
+		0x032ACA10, 0x032AD790,
+	]
+[[scene]]
+	index = 0x42
+	vrom = [
+		0x02B92EB0, 0x02BA11C0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x46
+	vrom = [
+		0x02BAFAB0, 0x02BBD680,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x47
+	vrom = [
+		0x02BD0A70, 0x02BD7EB0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x48
+	vrom = [
+		0x02C0ED80, 0x02C3C5E0,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x49
+	vrom = [
+		0x02C4D6D0, 0x02C66520,
+	]
+	title_vrom = [
+		0x032AD790, 0x032AE510,
+	]
+[[scene]]
+[[scene]]
+	index = 0x4B
+	vrom = [
+		0x02C71F20, 0x02C83980,
+	]
+	title_vrom = [
+		0x032AE510, 0x032AF290,
+	]
+[[scene]]
+	index = 0x4C
+	vrom = [
+		0x02C956D0, 0x02CA6FA0,
+	]
+	title_vrom = [
+		0x032AF290, 0x032B0010,
+	]
+[[scene]]
+[[scene]]
+	index = 0x4E
+	vrom = [
+		0x02CC3810, 0x02CDAF80,
+	]
+	title_vrom = [
+		0x032B0010, 0x032B0D90,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x52
+	vrom = [
+		0x02D39900, 0x02D89910,
+	]
+	title_vrom = [
+		0x032B0D90, 0x032B1B10,
+	]
+[[scene]]
+	index = 0x53
+	vrom = [
+		0x02DBB2B0, 0x02DD6A80,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+	index = 0x55
+	vrom = [
+		0x02E14AA0, 0x02E43CC0,
+	]
+	title_vrom = [
+		0x032B1B10, 0x032B2890,
+	]
+[[scene]]
+[[scene]]
+	index = 0x57
+	vrom = [
+		0x02E5B9F0, 0x02E7C850,
+	]
+	title_vrom = [
+		0x032B2890, 0x032B3610,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x5A
+	vrom = [
+		0x02EC2360, 0x02EEDD70,
+	]
+	title_vrom = [
+		0x032B3610, 0x032B4390,
+	]
+[[scene]]
+	index = 0x5B
+	vrom = [
+		0x02F1DB30, 0x02F45260,
+	]
+	title_vrom = [
+		0x032B4390, 0x032B5110,
+	]
+[[scene]]
+[[scene]]
+	index = 0x5D
+	vrom = [
+		0x02F4AAB0, 0x02F52310,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+[[scene]]
+[[scene]]
+	index = 0x60
+	vrom = [
+		0x02F89210, 0x02FB5EE0,
+	]
+	title_vrom = [
+		0x032B5110, 0x032B5E90,
+	]
+[[scene]]
+	index = 0x61
+	vrom = [
+		0x02FC8A40, 0x02FDCC70,
+	]
+	title_vrom = [
+		0x032B5E90, 0x032B6C10,
+	]
+[[scene]]
+	index = 0x62
+	vrom = [
+		0x03009A10, 0x03025750,
+	]
+	title_vrom = [
+		0x032B6C10, 0x032B7990,
+	]
+[[scene]]
+[[scene]]
+	index = 0x64
+	vrom = [
+		0x0302C820, 0x03034550,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x65
+	vrom = [
+		0x03078120, 0x030B33C0,
+	]
+	title_vrom = [
+		0x032B7990, 0x032B8710,
+	]
+[[scene]]
+	index = 0x66
+	vrom = [
+		0x030B54A0, 0x030B6E70,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x67
+	vrom = [
+		0x030D8770, 0x030EC0B0,
+	]
+	title_vrom = [
+		0x032B8710, 0x032B9490,
+	]
+[[scene]]
+	index = 0x68
+	vrom = [
+		0x03139C70, 0x03171C60,
+	]
+	title_vrom = [
+		0x032B9490, 0x032BA210,
+	]
+[[scene]]
+	index = 0x69
+	vrom = [
+		0x031B9320, 0x031C7140,
+	]
+	title_vrom = [
+		0x00000000, 0x00000000,
+	]
+[[scene]]
+	index = 0x6A
+	vrom = [
+		0x03210340, 0x032362B0,
+	]
+	title_vrom = [
+		0x032BA210, 0x032BAF90,
+	]
+[[scene]]
+	index = 0x6B
+	vrom = [
+		0x03253BC0, 0x03273460,
+	]
+	title_vrom = [
+		0x032BAF90, 0x032BBD10,
+	]
+[[scene]]
+	index = 0x6C
+	vrom = [
+		0x03282AF0, 0x03295D90,
+	]
+	title_vrom = [
+		0x032BBD10, 0x032BCA90,
+	]
+

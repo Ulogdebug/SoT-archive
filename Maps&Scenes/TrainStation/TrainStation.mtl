@@ -1,0 +1,225 @@
+# Blender MTL File: 'TrainStation.blend'
+# Material Count: 75
+
+newmtl 1order
+map_Kd textures\\Train_material_58.png
+
+newmtl 2order
+map_Kd textures\\Train_material_59.png
+
+newmtl 3order
+map_Kd textures\\Train_material_57.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl Box
+map_Kd textures\\Train_material_15.png
+
+newmtl Box.001
+map_Kd textures\\Train_material_15.png
+
+newmtl Collision
+
+newmtl Concrete
+map_Kd textures\\Storm_material_45.png
+
+newmtl Concrete2
+map_Kd textures\\Torn_material_56.png
+
+newmtl Dark_Wood
+map_Kd textures\\Piranesi_material_24.png
+
+newmtl Dirt2
+map_Kd textures\\Havana_material_29.png
+
+newmtl DirtWithGrass
+map_Kd textures\\CASTLEVANIA2#4A1FD084#2#0#0E7F72F5_ciByRGBA.png
+
+newmtl End
+map_Kd textures\\office_material_157.png
+
+newmtl FactoryWornSteelPlate
+map_Kd textures\\Snark_Pit_texture_32.png
+
+newmtl FloorBrick
+map_Kd textures\\Torn_material_53.png
+
+newmtl FloorWithWarningLine
+map_Kd textures\\Torn_material_80.png
+
+newmtl ForestBackground
+map_Kd textures\\Forest_Tree03.png
+
+newmtl Grass5
+map_Kd textures\\ZELDA MAJORA'S MASK#A32B3C6C#0#2_all.png
+
+newmtl GreenAcidPoison.001
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl HookShotSymbol
+map_Kd textures\\ZELDA MAJORA'S MASK#C6CE6EFA#0#2_all.png
+
+newmtl LineTrain1
+map_Kd textures\\airstrip_material_64.png
+
+newmtl LineTrain3
+map_Kd textures\\Storm_material_31.png
+
+newmtl MetalDoor
+map_Kd textures\\Nuke_material_121.png
+
+newmtl MetalRailling
+map_Kd textures\\BOMBERMAN64U#0DB1652C#2#1#744C554C_ciByRGBA.png
+
+newmtl MetalRailling.001
+map_Kd textures\\MetalRailling.png
+
+newmtl MetalWall
+map_Kd textures\\Storm_material_39.png
+
+newmtl Metal_Panel_Indicator
+map_Kd textures\\Prodigy_material_158.png
+
+newmtl Metal_Panel_Plate2
+map_Kd textures\\Prodigy_material_156.png
+
+newmtl None
+
+newmtl Nuke_material_116
+map_Kd textures\\Prodigy_material_142.png
+
+newmtl Nuke_material_67.001
+map_Kd textures\\Nuke_material_77.png
+
+newmtl Nuke_material_67.002
+map_Kd textures\\Nuke_material_77.png
+
+newmtl Nuke_material_67.004
+map_Kd textures\\Nuke_material_77.png
+
+newmtl Nuke_material_93.png.001
+map_Kd textures\\Storm_material_56.png
+
+newmtl Pillar
+map_Kd textures\\oil_rig_material_5.png
+
+newmtl Piranesi_material_124
+map_Kd textures\\Storm_material_56.png
+
+newmtl Piranesi_material_135
+map_Kd textures\\grass_grasstopping.png
+
+newmtl Piranesi_material_67
+map_Kd textures\\Piranesi_material_12.png
+
+newmtl Piranesi_material_81
+map_Kd textures\\Piranesi_material_81.png
+
+newmtl Plate
+map_Kd textures\\42733733.png
+
+newmtl Prodigy_material_157.001
+map_Kd textures\\Prodigy_material_157.png
+
+newmtl Prodigy_material_85
+map_Kd textures\\Prodigy_material_160.png
+
+newmtl RedLight
+map_Kd textures\\RedArtificialLight.png
+
+newmtl RedMetalRailling
+map_Kd textures\\RedMetalLadder.png
+
+newmtl Rock_Dirt2
+map_Kd textures\\0x4120.png
+
+newmtl Ruins
+map_Kd textures\\Torn_material_48.png
+
+newmtl SecGrass
+map_Kd textures\\SecGrass.png
+
+newmtl Storm_material_35
+map_Kd textures\\CASTLEVANIA2#423AFA37#2#0#E5D2324C_ciByRGBA.png
+
+newmtl ThickMetalRailling
+map_Kd textures\\ZELDA MAJORA'S MASK#0B744FCC#2#1#C64C374B_ciByRGBA.png
+
+newmtl TopTrain1
+map_Kd textures\\airstrip_material_57.png
+
+newmtl TopTrain3
+map_Kd textures\\Piranesi_material_120.png
+
+newmtl TrainLight
+map_Kd textures\\office_material_71.png
+
+newmtl TrainLight3
+map_Kd textures\\Storm_material_55.png
+
+newmtl TrainSkin1
+map_Kd textures\\Torn_material_25.png
+
+newmtl TrainSkin3
+map_Kd textures\\Piranesi_material_123.png
+
+newmtl Train_material_36
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Train_material_36.001
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Train_material_36.003
+map_Kd textures\\MetalWithWarningLine.png
+
+newmtl Train_material_46
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl Train_material_46.001
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl Train_material_46.003
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl TreeSkin
+map_Kd textures\\00006D60_32x64_rgba16.png
+
+newmtl Tree_Wall
+map_Kd textures\\ZELDA MAJORA'S MASK#936625A9#2#1#C1A8A7DE_ciByRGBA.png
+
+newmtl Treespot
+map_Kd textures\\0001E148_32x32_ci8.bmp
+
+newmtl Treespot2
+map_Kd textures\\00039048_16x32_ci8.bmp
+
+newmtl WarningLine2
+map_Kd textures\\orangeblackLace.png
+
+newmtl Wheel_Wood_Metal
+map_Kd textures\\Train_material_29.png
+
+newmtl Wheel_Wood_Metal.001
+map_Kd textures\\Train_material_29.png
+
+newmtl Wheel_Wood_Metal.003
+map_Kd textures\\Train_material_29.png
+
+newmtl WoodenLadder
+map_Kd textures\\FT-0x8FC68_32x32_RGBA16.png
+
+newmtl WornWall
+map_Kd textures\\Havana_material_12.png
+
+newmtl YellowLight
+map_Kd textures\\Nuke_material_10.png
+
+newmtl YellowWarningLine
+map_Kd textures\\YellowWarningLine.png
+
+newmtl office_material_57
+map_Kd textures\\office_material_57.png
+
+newmtl oil_rig_material_44
+map_Kd textures\\oil_rig_material_12.png

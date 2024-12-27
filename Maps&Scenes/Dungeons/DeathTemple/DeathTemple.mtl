@@ -1,0 +1,248 @@
+# Blender MTL File: 'DeathTemple.blend'
+# Material Count: 83
+
+newmtl 00008833
+map_Kd textures\\00008222.png
+
+newmtl 00011679
+map_Kd textures\\00011465.png
+
+newmtl Baseboard
+map_Kd textures\\office_material_81.png
+
+newmtl BlackTileBrick
+map_Kd textures\\office_material_124.png
+
+newmtl Blood
+map_Kd textures\\Skybox 1.png
+
+newmtl Bone
+map_Kd textures\\H28.png
+
+newmtl Bone-Animated
+map_Kd textures\\H28.png
+
+newmtl CastleWall5
+map_Kd textures\\CastleWall5.png
+
+newmtl Cliff
+
+newmtl Collision
+
+newmtl ConcreteWall
+map_Kd textures\\00001074.png
+
+newmtl CorruptedMeat
+map_Kd textures\\00008095.png
+
+newmtl DarkBlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl DarkBlueWater-Animated
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Door
+
+newmtl Edge2
+map_Kd textures\\00014A68_32x64_ci8.bmp
+
+newmtl GhostFace
+map_Kd textures\\ZELDA MAJORA'S MASK#50C9250F#2#1#ABD4CBA0_ciByRGBA.png
+
+newmtl GlassEffect
+map_Kd textures\\Steam on Water.png
+
+newmtl GlassEffect-Opa
+map_Kd textures\\FT-0x5B6B8_64x128_I4.png
+
+newmtl Grass
+map_Kd textures\\bushEffect2.png
+
+newmtl GreyCastleWall
+map_Kd textures\\stone_wall_brick_worn.png
+
+newmtl KillingLaser
+map_Kd textures\\Decor_Edge.png
+
+newmtl LavaPit
+map_Kd textures\\00009679.png
+
+newmtl LavaPitDark
+map_Kd textures\\00008677.png
+
+newmtl LightSymbol
+map_Kd textures\\GC-0xDAAD8_64x64_CI4.png
+
+newmtl LightningEffect
+map_Kd textures\\GC-0x4580_32x64_I8.png
+
+newmtl LightningEffect2
+map_Kd textures\\LightningWallGreyscale.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl MetalPath
+map_Kd textures\\00008879.png
+
+newmtl MetalRustyPlate
+map_Kd textures\\00008986.png
+
+newmtl Metal_Converyor
+map_Kd textures\\Metal_Converyor.png
+
+newmtl MoonEye
+map_Kd textures\\MoonEye.png
+
+newmtl PATH
+map_Kd textures\\00009005.png
+
+newmtl Pillar2
+map_Kd textures\\00008977.png
+
+newmtl Pipe
+map_Kd textures\\00011226.png
+
+newmtl Pipe2
+map_Kd textures\\00008978.png
+
+newmtl RaillingWall
+map_Kd textures\\C97.png
+
+newmtl RedLaser
+map_Kd textures\\RedLaser.png
+
+newmtl RedLight
+map_Kd textures\\Nuke_material_23.png
+
+newmtl Rock2
+map_Kd textures\\C17.png
+
+newmtl SickWall
+map_Kd textures\\00008491.png
+
+newmtl Stairs
+map_Kd textures\\Stone_Stairs02#MirrorX.png
+
+newmtl StoneBlock
+map_Kd textures\\stone_block_2#MirrorX.png
+
+newmtl StoneTilePatten
+map_Kd textures\\Stone_Tile09#MirrorX#MirrorY.png
+
+newmtl StoneWallWithBlood
+map_Kd textures\\HELLAO.png
+
+newmtl Stone_Tile08
+map_Kd textures\\Stone_Tile03.png
+
+newmtl TreeSkin.002
+map_Kd textures\\ZELDA MAJORA'S MASK#7EA81C8C#2#1#D3364871_ciByRGBA.png
+
+newmtl TreeSpot
+map_Kd textures\\ZELDA MAJORA'S MASK#9256E09A#2#1#2644D58C_ciByRGBA.png
+
+newmtl black
+map_Kd textures\\black.png
+
+newmtl blood
+map_Kd textures\\blood.png
+
+newmtl bloodEffect
+map_Kd textures\\ST-0x78188_32x32_IA16.png
+
+newmtl castleDecoration
+map_Kd textures\\00008443.png
+
+newmtl chain
+map_Kd textures\\00001815.png
+
+newmtl edge
+map_Kd textures\\Stone_Pole10.png
+
+newmtl fireSymbol
+map_Kd textures\\GC-0xB9D90_64x64_CI4.png
+
+newmtl fleshWall
+map_Kd textures\\00008490.png
+
+newmtl forestSymbol
+map_Kd textures\\GC-0x403C0_64x64_CI4.png
+
+newmtl fx_tribal_2
+map_Kd textures\\fx_tribal_3.png
+
+newmtl hair
+map_Kd textures\\DT-0x34370_32x64_RGBA16.png
+
+newmtl lava
+map_Kd textures\\Lava 2.png
+
+newmtl lavaEdge
+map_Kd textures\\00010578.png
+
+newmtl meat
+map_Kd textures\\00002176.png
+
+newmtl meatWall
+map_Kd textures\\H32.png
+
+newmtl metalWall
+map_Kd textures\\00008031.png
+
+newmtl metalplate2
+map_Kd textures\\00009903.png
+
+newmtl normalDirt
+map_Kd textures\\00011389.png
+
+newmtl normalDirt-Grass
+map_Kd textures\\00011389.png
+
+newmtl pillar
+map_Kd textures\\CTRAK1.png
+
+newmtl plate
+map_Kd textures\\00001075.png
+
+newmtl raillings
+map_Kd textures\\00008488.png
+
+newmtl redmeat2
+map_Kd textures\\00008498.png
+
+newmtl redmeat2-noCollision
+map_Kd textures\\00008498.png
+
+newmtl rock
+map_Kd textures\\C16.png
+
+newmtl ruins
+map_Kd textures\\CASTLEVANIA2#2368A133#2#0#0A06D585_ciByRGBA.png
+
+newmtl shadowSymbol
+map_Kd textures\\GC-0x42BC0_64x64_CI4.png
+
+newmtl skin
+map_Kd textures\\00009508.png
+
+newmtl skulls
+map_Kd textures\\ST-0x9E6C0_32x32_RGBA16.png
+
+newmtl stone_wall_brick_vc
+map_Kd textures\\stone_wall_kabe_mid#MirrorX.png
+
+newmtl stone_wall_kabe_mid
+map_Kd textures\\stone_wall_kabe_side#ClampX.png
+
+newmtl trees
+map_Kd textures\\0000EA18_64x64_i4.png
+
+newmtl veins
+map_Kd textures\\DC-0x41410_32x64_RGBA16.png
+
+newmtl veins-NoCollision
+map_Kd textures\\DC-0x41410_32x64_RGBA16.png
+
+newmtl wornStonePillarEffect
+map_Kd textures\\wornStonePillarEffect.png

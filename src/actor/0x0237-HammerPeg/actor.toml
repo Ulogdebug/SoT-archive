@@ -1,0 +1,6 @@
+Name = "Hammer Peg"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"

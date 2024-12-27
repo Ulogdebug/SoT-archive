@@ -1,0 +1,180 @@
+# Blender MTL File: 'sweatshop.blend'
+# Material Count: 60
+
+newmtl 00009854
+map_Kd textures\\00009854.png
+
+newmtl Boomb
+map_Kd textures\\Boomb.png
+
+newmtl DarkBlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl GreenAcidPoison
+map_Kd textures\\Acid_Green_Water.PNG
+
+newmtl Grey_Rubble_Rock.PNG
+map_Kd textures\\Grey_Rubble_Rock.PNG
+
+newmtl Material.011
+
+newmtl Metal_Converyor
+map_Kd textures\\Metal_Converyor.png
+
+newmtl Prodigy_material_24
+map_Kd textures\\Prodigy_material_24.png
+
+newmtl RedLight
+map_Kd textures\\Nuke_material_23.png
+
+newmtl RedMetal
+map_Kd textures\\Snark_Pit_texture_22.png
+
+newmtl RedMetalLadder
+map_Kd textures\\RedMetalLadder.png
+
+newmtl RustyVent
+map_Kd textures\\00010124.png
+
+newmtl Stairs
+map_Kd textures\\StoneStair.png
+
+newmtl Train_material_46.001
+map_Kd textures\\Prodigy_material_104.png
+
+newmtl VendingMachine
+map_Kd textures\\VendingMachine.png
+
+newmtl WIRE
+map_Kd textures\\00009823.png
+
+newmtl XPlate
+map_Kd textures\\00010417.png
+
+newmtl _2
+map_Kd textures\\SPACEBR.png
+
+newmtl _2.001
+map_Kd textures\\SPACEBR.png
+
+newmtl _3
+map_Kd textures\\_3.png
+
+newmtl _6
+map_Kd textures\\_6.png
+
+newmtl _876
+map_Kd textures\\SPACEBK.png
+
+newmtl _88
+map_Kd textures\\_88.png
+
+newmtl _9
+map_Kd textures\\SWXSGB.png
+
+newmtl _9.001
+map_Kd textures\\SWXSGB.png
+
+newmtl bronzer
+map_Kd textures\\Torn_material_29.png
+
+newmtl chain
+map_Kd textures\\ZELDA MAJORA'S MASK#78AF8F90#0#2_all.png
+
+newmtl darkDirtyFloor
+map_Kd textures\\00002041.png
+
+newmtl darkDirtyWall
+map_Kd textures\\00002041.png
+
+newmtl darkMetalWall
+map_Kd textures\\00011240.png
+
+newmtl door
+
+newmtl engineWall
+map_Kd textures\\00010158.png
+
+newmtl fan
+map_Kd textures\\00009837.png
+
+newmtl heavy_rusty_metal
+map_Kd textures\\747_material_81.png
+
+newmtl hole
+map_Kd textures\\00005875.png
+
+newmtl lava
+map_Kd textures\\Lava 2.png
+
+newmtl metalEdge
+map_Kd textures\\00008494.png
+
+newmtl metalWall2
+map_Kd textures\\00009836.png
+
+newmtl metalfloor
+map_Kd textures\\00003595.png
+
+newmtl middile_rusty_metal
+map_Kd textures\\Torn_material_127.png
+
+newmtl nail
+map_Kd textures\\FT-0xC5328_32x8_RGBA16.png
+
+newmtl nail-unclimable
+map_Kd textures\\FT-0xC5328_32x8_RGBA16.png
+
+newmtl pipe
+map_Kd textures\\00011226.png
+
+newmtl rag
+map_Kd textures\\Torn_material_71.png
+
+newmtl redGlass
+map_Kd textures\\RedLaser.png
+
+newmtl redGlass-NoCollision
+map_Kd textures\\RedLaser.png
+
+newmtl rock
+map_Kd textures\\0001ECD8_32x32_rgba16.png
+
+newmtl rock.bmp
+map_Kd textures\\00006269.png
+
+newmtl rustypipe
+map_Kd textures\\00010071.png
+
+newmtl rustyplate
+map_Kd textures\\00010080.png
+
+newmtl stonebottom
+map_Kd textures\\00002484.png
+
+newmtl vent
+map_Kd textures\\00010232.png
+
+newmtl wall
+map_Kd textures\\00001067.png
+
+newmtl web
+map_Kd textures\\00001044.png
+
+newmtl web-backfaceculling
+map_Kd textures\\00001044.png
+
+newmtl weirdDarkStoneBrick
+map_Kd textures\\00001024.png
+
+newmtl wire-pipe
+map_Kd textures\\00010256.png
+
+newmtl wireplate
+map_Kd textures\\00010057.png
+
+newmtl wornMetalWall
+map_Kd textures\\00010285.png
+
+newmtl wornMetalWall2
+map_Kd textures\\00010286.png

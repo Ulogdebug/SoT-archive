@@ -1,0 +1,331 @@
+# Blender MTL File: 'MonsterLabor.blend'
+# Material Count: 110
+
+newmtl 2
+map_Kd textures\\Train_material_59.png
+
+newmtl 3
+map_Kd textures\\Train_material_57.png
+
+newmtl 4
+map_Kd textures\\Train_material_64.png
+
+newmtl 5
+map_Kd textures\\Train_material_41.png
+
+newmtl Bar.001
+map_Kd textures\\ZELDA MAJORA'S MASK#19A65159#2#1#B9CCD693_ciByRGBA.png
+
+newmtl Belly.001
+map_Kd textures\\3EDED857_c.png
+
+newmtl BlackColor.001
+map_Kd textures\\black.png
+
+newmtl BlueSkyBackground.001
+map_Kd textures\\MossyCloth.png
+
+newmtl Body.002
+map_Kd textures\\3B0DEE4B_c.png
+
+newmtl Book
+map_Kd textures\\book3.png
+
+newmtl Book.002
+map_Kd textures\\ZELDA MAJORA'S MASK#0A3BBC57#2#1#1547C8FB_ciByRGBA.png
+
+newmtl Book.006
+map_Kd textures\\ZELDA MAJORA'S MASK#94C5E7C4#2#1#6733CA98_ciByRGBA.png
+
+newmtl Book2
+map_Kd textures\\ZELDA MAJORA'S MASK#1D26510C#2#1#3B92715C_ciByRGBA.png
+
+newmtl Book3
+map_Kd textures\\ZELDA MAJORA'S MASK#5F6384B7#2#1#E31E5299_ciByRGBA.png
+
+newmtl BookCase
+map_Kd textures\\wood_book_shelf.png
+
+newmtl Carpet.007
+map_Kd textures\\Cloth 9.png
+
+newmtl Chain
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Chain.003
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Chain.004
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl Dirt.016
+map_Kd textures\\DC-0x5CEB8_32x64_CI8.png
+
+newmtl EFFECT
+map_Kd textures\\Forest_Tree03.png
+
+newmtl Eyes.002
+map_Kd textures\\Tektite.png
+
+newmtl FancyWall.003
+map_Kd textures\\00005220_16x128_rgba16.png
+
+newmtl FancyWall.004
+map_Kd textures\\stone_wall_brick_5_colored.png
+
+newmtl FancyWall.014
+map_Kd textures\\wood_wall_house_4#MirrorY.png
+
+newmtl FancyWall.018
+map_Kd textures\\ZELDA MAJORA'S MASK#D6C62972#0#2_rgb.png
+
+newmtl Fence.001
+map_Kd textures\\Wooden Fence 1.png
+
+newmtl Fence.005
+map_Kd textures\\Stone_Fence01.png
+
+newmtl Fur.001
+map_Kd textures\\Stone_Grey_Concrete.png
+
+newmtl GerudoLace.001
+map_Kd textures\\ZELDA MAJORA'S MASK#5EEF14FC#2#1#ED29EECA_ciByRGBA.png
+
+newmtl Grass
+map_Kd textures\\Grass 2.png
+
+newmtl Hook
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl Invisibillity
+map_Kd textures\\0000A900_64x32_rgba16.png
+
+newmtl Iron.001
+map_Kd textures\\ZELDA MAJORA'S MASK#E0FD1A1D#2#1#210BED63_ciByRGBA.png
+
+newmtl Iron.002
+map_Kd textures\\ZELDA MAJORA'S MASK#E0FD1A1D#2#1#210BED63_ciByRGBA.png
+
+newmtl Iron.007
+map_Kd textures\\metal_decor_pattern_01.png
+
+newmtl IronWeb
+map_Kd textures\\Metal_Filter01#MirrorX.png
+
+newmtl Lamp
+map_Kd textures\\ZELDA MAJORA'S MASK#4C99BD55#0#2_all.png
+
+newmtl Legs.001
+map_Kd textures\\47654858_c.png
+
+newmtl Lights
+map_Kd textures\\Lights.png
+
+newmtl LikeLike_01
+map_Kd textures\\LikeLike_01.png
+
+newmtl LikeLike_02.png.001
+map_Kd textures\\LikeLike_02.png
+
+newmtl LikeLike_03.png.002
+map_Kd textures\\LikeLike_03.png
+
+newmtl LikeLike_04
+map_Kd textures\\LikeLike_04.png
+
+newmtl Material.001
+
+newmtl Material.028
+map_Kd textures\\ZELDA MAJORA'S MASK#BFE4DC0F#4#1_all.png
+
+newmtl Material.041
+map_Kd textures\\ZELDA MAJORA'S MASK#436C7064#0#2_all.png
+
+newmtl MetalRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl MetalVentsCover
+map_Kd textures\\00003705.png
+
+newmtl Middle.bmp.001
+map_Kd textures\\Middle.bmp
+
+newmtl Piranesi_material_72
+map_Kd textures\\Piranesi_material_72.png
+
+newmtl PlankWood
+map_Kd textures\\wood_floor_planks_no_seams.png
+
+newmtl Railling.002
+map_Kd textures\\ZELDA MAJORA'S MASK#D6AC2E85#2#1#E1FFD7B8_ciByRGBA.png
+
+newmtl Red
+map_Kd textures\\Red.png
+
+newmtl Red-GreenBrick
+map_Kd textures\\ZELDA MAJORA'S MASK#32B2932D#2#0#D950C841_ciByRGBA.png
+
+newmtl Roof
+map_Kd textures\\stone_roof_old.png
+
+newmtl RustyMetal
+map_Kd textures\\metal_pole_1.png
+
+newmtl Shield
+map_Kd textures\\CI8_06007E80.tga
+
+newmtl Sides.bmp.001
+map_Kd textures\\Sides.bmp
+
+newmtl Slogan.001
+map_Kd textures\\ZELDA MAJORA'S MASK#1142BF9C#2#1#A521DBC4_ciByRGBA.png
+
+newmtl Stalofs_01
+map_Kd textures\\Stalofs_01.png
+
+newmtl Stalofs_02
+map_Kd textures\\Stalofs_02.png
+
+newmtl Stalofs_03
+map_Kd textures\\Stalofs_03.png
+
+newmtl Stalofs_04
+map_Kd textures\\Stalofs_04.png
+
+newmtl Stone.004
+map_Kd textures\\stone_yuka_smooth_stone.png
+
+newmtl Train_material_58
+map_Kd textures\\Train_material_58.png
+
+newmtl TreeSkin
+map_Kd textures\\wood_pole_29.png
+
+newmtl TreeSkin.004
+map_Kd textures\\ZELDA MAJORA'S MASK#71EDAFD8#2#1#80960DFC_ciByRGBA.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_tree_oot_2.png
+
+newmtl Wall.002
+map_Kd textures\\THE LEGEND OF ZELDA#D1B4E1C2#0#2_all.png
+
+newmtl Wall.003
+map_Kd textures\\stone_wood_wall.png
+
+newmtl Water.003
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Web
+map_Kd textures\\fx_web.png
+
+newmtl Wood
+map_Kd textures\\0002AE38_32x32_rgba16.png
+
+newmtl Wood.005
+map_Kd textures\\wood_planks_01_bookshelf_pair.png
+
+newmtl Wood.007
+map_Kd textures\\ZELDA MAJORA'S MASK#6048416E#2#1#5B1A2E6B_ciByRGBA.png
+
+newmtl Wood.008
+map_Kd textures\\wood_planks_01_bookshelf_pair.png
+
+newmtl Wood.012
+map_Kd textures\\ZELDA MAJORA'S MASK#1A6B01FE#0#2_all.png
+
+newmtl Wood.023
+map_Kd textures\\wood_side_2.png
+
+newmtl YellowWindow
+map_Kd textures\\ZELDA MAJORA'S MASK#547E8B6A#0#2_all.png
+
+newmtl bar
+map_Kd textures\\GC-0xDA2D8_32x32_RGBA16.png
+
+newmtl book.001
+map_Kd textures\\book.png
+
+newmtl cloth
+map_Kd textures\\CASTLEVANIA2#0E7CC079#2#0#B8774E4E_ciByRGBA.png
+
+newmtl desk
+map_Kd textures\\ZELDA MAJORA'S MASK#B000E131#3#2_all.png
+
+newmtl effect3
+map_Kd textures\\00041018_32x64_rgba16.png
+
+newmtl effect6.002
+map_Kd textures\\ZELDA MAJORA'S MASK#E0EBAE69#2#0#0150C840_ciByRGBA.png
+
+newmtl effect6.004
+map_Kd textures\\ZELDA MAJORA'S MASK#EC131038#2#0#D950C841_ciByRGBA.png
+
+newmtl effect6.005
+map_Kd textures\\ZELDA MAJORA'S MASK#F8F44588#2#1#A42B73E1_ciByRGBA.png
+
+newmtl effect6.011
+map_Kd textures\\0000C838_32x64_rgba16.png
+
+newmtl ext_rock_wall_grassy
+map_Kd textures\\Grass_Dirt_Brown.png
+
+newmtl flagella.001
+map_Kd textures\\4F9DDA8E_c.png
+
+newmtl floormaster_01
+map_Kd textures\\floormaster_01.png
+
+newmtl floormaster_02
+map_Kd textures\\floormaster_02.png
+
+newmtl floormaster_03
+map_Kd textures\\floormaster_03.png
+
+newmtl floormaster_04
+map_Kd textures\\floormaster_04.png
+
+newmtl iron
+map_Kd textures\\743A2527_c.bmp
+
+newmtl latest
+map_Kd textures\\snowman.png
+
+newmtl metalplate
+map_Kd textures\\00002041.png
+
+newmtl obj_hookshotTarget
+map_Kd textures\\obj_hookshotTarget.png
+
+newmtl obj_maks_boss
+map_Kd textures\\obj_maks_boss.png
+
+newmtl obj_maks_boss.001
+map_Kd textures\\metal_skull#MirrorX.png
+
+newmtl piano
+map_Kd textures\\ZELDA MAJORA'S MASK#F3CBA39C#3#2_all.png
+
+newmtl piano.001
+map_Kd textures\\fx_wood_house#MirrorY#MirrorX.png
+
+newmtl piano.004
+map_Kd textures\\ZELDA MAJORA'S MASK#B000E131#3#2_all.png
+
+newmtl stairs
+map_Kd textures\\CASTLEVANIA2#BAC16E52#2#0#551915D3_ciByRGBA.png
+
+newmtl stonefloor
+map_Kd textures\\0000B590_32x32_rgba16.png
+
+newmtl stonefloor2
+map_Kd textures\\CASTLEVANIA2#8182DA44#2#0#3CB7064B_ciByRGBA.png
+
+newmtl wall.001
+map_Kd textures\\ZELDA MAJORA'S MASK#0C68F419#2#1#4FC95B4A_ciByRGBA.png
+
+newmtl wood
+map_Kd textures\\CASTLEVANIA2#7F4EC577#2#0#F58B3B40_ciByRGBA.png
+
+newmtl wood_pole_20
+map_Kd textures\\wood_side.png

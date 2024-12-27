@@ -1,0 +1,26 @@
+Name = "ladder"
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0xF000
+    Name      = "Model Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Small Wood(120)"      ],
+		[ 1, "Medium Wood(195)"       ],
+		[ 2, "Large Wood(270)" ],
+		[ 3, "Small Metal"      ],
+        [ 4, "Medium Metal"      ],
+        [ 5, "Large Metal"      ],
+	]
+[[Property]]
+    Mask      = 0x0F00
+    Name      = "Trigger Type"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Switch Trigger"      ],
+		[ 1, "Arrow & Slingshot Trigger"       ],
+	]

@@ -1,0 +1,15 @@
+Name = "HookSpot"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gHookSpotObj_DlHookSpotNoSwitchObj"
+
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Type"
+    Target    = "Var"
+	Dropdown = [ [ 0, "triggle switch flags"], [ 1, "normal" ] ]

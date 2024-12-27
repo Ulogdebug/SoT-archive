@@ -1,0 +1,6 @@
+Name = "Bronze Boulder"
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Switch Flag"
+    Target    = "Var"

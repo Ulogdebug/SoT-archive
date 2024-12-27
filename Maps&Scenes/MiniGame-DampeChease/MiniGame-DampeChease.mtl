@@ -1,0 +1,106 @@
+# Blender MTL File: 'MiniGame-DampeChease.blend'
+# Material Count: 35
+
+newmtl ArcBone
+map_Kd textures\\000238F8_32x16_rgba16.png
+
+newmtl Blood
+map_Kd textures\\Skybox 1.png
+
+newmtl Bone
+map_Kd textures\\00023CF8_32x16_rgba16.png
+
+newmtl Brick
+map_Kd textures\\metal_floor_pinned_squa.png
+
+newmtl Brick2
+map_Kd textures\\Stone_Floor01.png
+
+newmtl BrickWall
+map_Kd textures\\stone_wall_hole_inside.png
+
+newmtl CleanBrick
+map_Kd textures\\747_material_10.png
+
+newmtl Cloth_Hay01.001
+map_Kd textures\\Cloth_Hay01#MirrorX#MirrorY.png
+
+newmtl Cloth_HayRoof01
+map_Kd textures\\Cloth_HayRoof01.png
+
+newmtl Crap
+map_Kd textures\\Crap.png
+
+newmtl Dark_Dirt
+map_Kd textures\\Estate_material_28.png
+
+newmtl Decoration
+map_Kd textures\\stone_edge_decorative_sheikah_eye.png
+
+newmtl Floor
+map_Kd textures\\stone_floor_stones.png
+
+newmtl MetalRailling
+map_Kd textures\\MetalRailling.png
+
+newmtl Metal_Pole06
+map_Kd textures\\Metal_Pole06.png
+
+newmtl NobleWall
+map_Kd textures\\Piranesi_material_70.png
+
+newmtl Raillings
+map_Kd textures\\00021018_16x64_rgba16.png
+
+newmtl RockWall
+map_Kd textures\\ext_stone_rough_cave.png
+
+newmtl Rope
+map_Kd textures\\_4.png
+
+newmtl Skull
+map_Kd textures\\0001AC50_32x32_rgba16.png
+
+newmtl StoneFootsteps
+map_Kd textures\\Stone_stairs_2_nomirror.png
+
+newmtl Stone_Brick_Moss3
+map_Kd textures\\stone_wall_mossy_greenery.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl Void
+map_Kd textures\\000297E0_32x32_i8.png
+
+newmtl collision
+
+newmtl cursedRoof
+map_Kd textures\\ext_rock_mahMoss.png
+
+newmtl door_door_F6CF38
+map_Kd textures\\door_door_F6CF38.png
+
+newmtl ext_stone_rough_dark
+map_Kd textures\\ext_stone_rough_dark.png
+
+newmtl hole
+map_Kd textures\\000297E0_32x32_i8.png
+
+newmtl metal_pole_3
+map_Kd textures\\metal_pole_3.png
+
+newmtl pillar
+map_Kd textures\\stone_wall_gate_hole.png
+
+newmtl rustyMetalPlate
+map_Kd textures\\rustyMetalPlate.png
+
+newmtl skulls
+map_Kd textures\\BOW-0x330B0_32x32_RGBA16.png
+
+newmtl wood_crate_metal
+map_Kd textures\\WoodPillarWithMetal.png

@@ -1,0 +1,427 @@
+# Blender MTL File: 'Abyss.blend'
+# Material Count: 142
+
+newmtl AbyssDirt
+map_Kd textures\\GC-0x2C580_32x32_CI8.png
+
+newmtl AbyssWall
+map_Kd textures\\Stone_Wall06.png
+
+newmtl AbyssWall.001
+map_Kd textures\\stone_wall_eerie#MirrorX#MirrorY.png
+
+newmtl AbyssWall.002
+map_Kd textures\\stone_wall_kabe_mid#MirrorX.png
+
+newmtl AbyssWall2.1
+map_Kd textures\\stone_wall_brick_4.png
+
+newmtl ArmBone
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl ArmBone.003
+map_Kd textures\\000032E0_32x32_rgba16.png
+
+newmtl BaseBoard
+map_Kd textures\\GC-0x72CA8_32x32_CI8.png
+
+newmtl BlackBricks
+map_Kd textures\\stone_wall_brick_7.png
+
+newmtl BlackColor
+map_Kd textures\\black.png
+
+newmtl BlackColor.001
+map_Kd textures\\black.png
+
+newmtl BlackColor.002
+map_Kd textures\\black.png
+
+newmtl BlackColor.004
+map_Kd textures\\black.png
+
+newmtl BlackColor.005
+map_Kd textures\\black.png
+
+newmtl BlackStone
+map_Kd textures\\Snark_Pit_texture_20.png
+
+newmtl BlackWhiteLace
+map_Kd textures\\000022A0_16x16_i4.png
+
+newmtl BlackWhiteLace.001
+map_Kd textures\\000022A0_16x16_i4.png
+
+newmtl BlackWhiteLace.003
+map_Kd textures\\fx_water_colorless.png
+
+newmtl BlackWhiteLace.004
+map_Kd textures\\Effect_Water01.png
+
+newmtl Brick.003
+map_Kd textures\\GC-0x10AC0_64x64_I8.png
+
+newmtl Chain
+map_Kd textures\\ST-0x5B0B8_16x32_RGBA16.png
+
+newmtl Chain.001
+map_Kd textures\\BOW-0x1DEB0_16x32_RGBA16.png
+
+newmtl Chain.002
+map_Kd textures\\ZELDA MAJORA'S MASK#594D2856#3#2_all.png
+
+newmtl Cloud
+map_Kd textures\\61D3F86E_c.png
+
+newmtl Dirt.001
+map_Kd textures\\DT-0x17BE0_32x32_CI8.png
+
+newmtl Dirt.008
+map_Kd textures\\DT-0x17BE0_32x32_CI8.png
+
+newmtl Eyes.001
+map_Kd textures\\ZELDA MAJORA'S MASK#BE51FB7B#2#0#1950C840_ciByRGBA.png
+
+newmtl Face
+map_Kd textures\\ZELDA MAJORA'S MASK#B5888FCC#2#1#0C83C9FA_ciByRGBA.png
+
+newmtl Face.001
+map_Kd textures\\ZELDA MAJORA'S MASK#F18B56DD#2#1#0C83C9FA_ciByRGBA.png
+
+newmtl Face.002
+map_Kd textures\\ZELDA MAJORA'S MASK#F18B56DD#2#1#0C83C9FA_ciByRGBA.png
+
+newmtl Fence.001
+map_Kd textures\\ST-0x93880_32x32_RGBA16.png
+
+newmtl Fence.004
+map_Kd textures\\ST-0x93880_32x32_RGBA16.png
+
+newmtl Fence.006
+map_Kd textures\\ST-0x93880_32x32_RGBA16.png
+
+newmtl Filler
+map_Kd textures\\stone_wall_brick_worn.png
+
+newmtl Flesh
+map_Kd textures\\BloodGut.png
+
+newmtl FleshPillar
+map_Kd textures\\ZELDA MAJORA'S MASK#BE51FB7B#2#0#1950C840_ciByRGBA.png
+
+newmtl Floor-wall.001
+map_Kd textures\\GC-0xCB548_32x32_CI8.png
+
+newmtl Grave.001
+map_Kd textures\\ZELDA MAJORA'S MASK#8AAF217C#2#0#D950C841_ciByRGBA.png
+
+newmtl GraveStone
+map_Kd textures\\ext_stone_rough_cave.png
+
+newmtl GreenDirt
+map_Kd textures\\ext_grass_dirty.png
+
+newmtl GreenDirt2
+map_Kd textures\\DT-0x17BE0_32x32_CI8.png
+
+newmtl GreenFlesh
+map_Kd textures\\JJB-0x61CA8_32x64_CI8.png
+
+newmtl GreenFlesh.002
+map_Kd textures\\JJB-0x61CA8_32x64_CI8.png
+
+newmtl GreenFlesh.003
+map_Kd textures\\JJB-0x61CA8_32x64_CI8.png
+
+newmtl Inscription.001
+map_Kd textures\\0001E4D8_128x32_i4.png
+
+newmtl Inscription.003
+map_Kd textures\\DC-0x2B5D8_32x32_CI8.png
+
+newmtl Invisibillity
+
+newmtl Invisibillity.002
+map_Kd textures\\0000A900_64x32_rgba16.png
+
+newmtl Iron.007
+map_Kd textures\\ZELDA MAJORA'S MASK#624653E9#2#1#DAA53725_ciByRGBA.png
+
+newmtl Ladder
+map_Kd textures\\wood_ladder_2#ClampX.png
+
+newmtl Light2
+map_Kd textures\\7003A16E_c.png
+
+newmtl Magic
+map_Kd textures\\2394A79D_c.bmp
+
+newmtl Majora.001
+map_Kd textures\\MajoraBW.png
+
+newmtl Majora.002
+map_Kd textures\\MajoraBW.png
+
+newmtl ManyHole(sick).001
+map_Kd textures\\ZELDA MAJORA'S MASK#603CC7BB#0#2_all.png
+
+newmtl ManyHole(sick).002
+map_Kd textures\\ZELDA MAJORA'S MASK#603CC7BB#0#2_all.png
+
+newmtl Material.003
+map_Kd textures\\GC-0x1FF80_32x32_CI8.png
+
+newmtl Material.005
+map_Kd textures\\MountainWall_3.png
+
+newmtl Material.007
+map_Kd textures\\stone_head#MirrorX.png
+
+newmtl Material.018
+map_Kd textures\\GC-0xF7A8_32x32_CI8.png
+
+newmtl Metal
+map_Kd textures\\SDFLTA.png
+
+newmtl MetalBaseBoard
+map_Kd textures\\GC-0xDE80_64x16_I4.png
+
+newmtl MetalPillar
+map_Kd textures\\metal_decor_cool_shapes.png
+
+newmtl MetalWall
+map_Kd textures\\ZELDA MAJORA'S MASK#B7339F6F#0#2_all.png
+
+newmtl MoonEye
+map_Kd textures\\MoonEye.png
+
+newmtl MoonEye.002
+map_Kd textures\\MoonEye.png
+
+newmtl Pillar.001
+map_Kd textures\\wood_pillar_metal_02.png
+
+newmtl Rope
+map_Kd textures\\000165C0_16x32_rgba16.png
+
+newmtl Rope.001
+map_Kd textures\\000165C0_16x32_rgba16.png
+
+newmtl Rope.007
+map_Kd textures\\000165C0_16x32_rgba16.png
+
+newmtl RustyDoor
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.001
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.002
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.003
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.004
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.005
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.007
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.008
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.009
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl RustyDoor.010
+map_Kd textures\\00009120_32x64_rgba16.png
+
+newmtl Sand.001
+map_Kd textures\\ST-0xEC7D0_32x32_CI8.png
+
+newmtl Sand.002
+map_Kd textures\\ST-0xEC7D0_32x32_CI8.png
+
+newmtl SkinedFlesh.001
+map_Kd textures\\JJB-0x67540_32x64_CI8.png
+
+newmtl Skull
+map_Kd textures\\ST-0x9E6C0_32x32_RGBA16.png
+
+newmtl Skull.002
+map_Kd textures\\ST-0x9E6C0_32x32_RGBA16.png
+
+newmtl Spike
+map_Kd textures\\wood_wall_logs.png
+
+newmtl StickPiles
+map_Kd textures\\0000E508_32x32_rgba16.png
+
+newmtl Stone(Crack)
+map_Kd textures\\Stone_Rocks02.png
+
+newmtl Stone.001
+map_Kd textures\\4B2B76B_c.png
+
+newmtl Stone.002
+map_Kd textures\\3C72B2A_c.png
+
+newmtl TallGrass
+map_Kd textures\\ZELDA MAJORA'S MASK#0C23C745#0#2_all.png
+
+newmtl TreeSkin
+map_Kd textures\\wood_tree_mm_5.png
+
+newmtl TreeSpot
+map_Kd textures\\wood_tree_stump_inside.png
+
+newmtl TreeSpot.005
+map_Kd textures\\000087C8_32x32_rgba16.png
+
+newmtl TreeSpot.006
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl TriForce
+map_Kd textures\\00006000_64x128_ia4.png
+
+newmtl TriForce.001
+map_Kd textures\\00006000_64x128_ia4.png
+
+newmtl TrifoeceSymbol
+map_Kd textures\\stone_floor_stones_circle_variation.png
+
+newmtl UVcolor
+map_Kd textures\\GC-0x11AC0_32x32_RGBA16.png
+
+newmtl Unknwon
+map_Kd textures\\stone_floor_uneveldy_tiled_2.png
+
+newmtl Wall.002
+map_Kd textures\\FT-0x7BA38_32x32_RGBA16.png
+
+newmtl Wall.003
+map_Kd textures\\GC-0x9E610_32x32_RGBA16.png
+
+newmtl Wall.004
+map_Kd textures\\Door_Metal.png
+
+newmtl Water
+map_Kd textures\\WT-0xE7A00_32x32_RGBA16.png
+
+newmtl Wood.010
+map_Kd textures\\0000BD90_64x32_rgba16.png
+
+newmtl WornStone
+map_Kd textures\\stonesfloor_stones_edge_wall.png
+
+newmtl blood
+map_Kd textures\\blood.png
+
+newmtl blood.002
+map_Kd textures\\blood.png
+
+newmtl concrete
+map_Kd textures\\GC-0x10AC0_64x64_I8.png
+
+newmtl concrete2
+map_Kd textures\\stone_wall_brick_worn_2_vertexColor.png
+
+newmtl dusk
+map_Kd textures\\-1_01.png
+
+newmtl dusk10
+map_Kd textures\\-1_10.png
+
+newmtl dusk11
+map_Kd textures\\-1_11.png
+
+newmtl dusk12
+map_Kd textures\\-1_12.png
+
+newmtl dusk2
+map_Kd textures\\-1_02.png
+
+newmtl dusk3
+map_Kd textures\\-1_03.png
+
+newmtl dusk4
+map_Kd textures\\-1_04.png
+
+newmtl dusk5
+map_Kd textures\\-1_05.png
+
+newmtl dusk6
+map_Kd textures\\-1_06.png
+
+newmtl dusk7
+map_Kd textures\\-1_07.png
+
+newmtl dusk8
+map_Kd textures\\-1_08.png
+
+newmtl dusk9
+map_Kd textures\\-1_09.png
+
+newmtl effect5.002
+map_Kd textures\\Cloth_Curtain8.png
+
+newmtl effect6.009
+map_Kd textures\\MountainWall_1.png
+
+newmtl fleshwall
+map_Kd textures\\fleshwall.png
+
+newmtl fleshweb
+map_Kd textures\\JJB-0x37F30_32x64_RGBA16.png
+
+newmtl floor
+map_Kd textures\\Stone_Tile09#MirrorX#MirrorY.png
+
+newmtl hand
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl hand.001
+map_Kd textures\\JJB-0x67540_32x64_CI8.png
+
+newmtl hand.002
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl hand.005
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl hand.007
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl hand.011
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl hand.012
+map_Kd textures\\JJB-0x67540_32x64_CI8.png
+
+newmtl hand.013
+map_Kd textures\\JJB-0x18998_32x64_CI8.png
+
+newmtl iron
+map_Kd textures\\ZELDA MAJORA'S MASK#B7339F6F#0#2_all.png
+
+newmtl red.002
+map_Kd textures\\Red.png
+
+newmtl stone_slate_squares
+map_Kd textures\\stone_slate_squares.png
+
+newmtl wall
+map_Kd textures\\ZELDA MAJORA'S MASK#48C5006B#2#0#1B72EA64_ciByRGBA.png
+
+newmtl wall.002
+map_Kd textures\\ZELDA MAJORA'S MASK#9F5A86DF#0#2_all.png
+
+newmtl web
+map_Kd textures\\ZELDA MAJORA'S MASK#B0E88D47#4#0_all.png
+
+newmtl whiteWall
+map_Kd textures\\stone_wall_brick_vc.png

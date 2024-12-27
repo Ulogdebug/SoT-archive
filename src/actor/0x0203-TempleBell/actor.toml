@@ -1,0 +1,10 @@
+Name = "TempleBell"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gTempleBellObj_DlTempleBellObj"
+    Scale       = 0.016
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"

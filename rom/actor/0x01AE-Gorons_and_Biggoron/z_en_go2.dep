@@ -1,0 +1,7 @@
+src/actor/0x01AE-Gorons_and_Biggoron/z_en_go2.h
+src/lib_user/state/state.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+

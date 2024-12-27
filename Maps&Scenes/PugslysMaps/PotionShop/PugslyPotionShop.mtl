@@ -1,0 +1,119 @@
+# Blender MTL File: 'PugslyPotionShop.blend'
+# Material Count: 39
+
+newmtl BaseBoard
+map_Kd textures\\wood_side.png
+
+newmtl BaseBoard.001
+map_Kd textures\\wood_fence_2.png
+
+newmtl Box2
+map_Kd textures\\ZELDA MAJORA'S MASK#DAB98709#2#1#D603F655_ciByRGBA.png
+
+newmtl Box3
+map_Kd textures\\image_0025.png
+
+newmtl BrickWall
+map_Kd textures\\stone_bricks_red.png
+
+newmtl Cliff
+map_Kd textures\\0000DD08_32x32_rgba16.png
+
+newmtl Curtains
+map_Kd textures\\Cloth_Curtain11.png
+
+newmtl Face
+map_Kd textures\\GreedJa.png
+
+newmtl FloorBricks
+map_Kd textures\\stonefloor2.png
+
+newmtl MgicBox
+map_Kd textures\\Stone_Wall01.png
+
+newmtl MgicBox2
+map_Kd textures\\image_0061.png
+
+newmtl Painting
+map_Kd textures\\JesterRace_01.png
+
+newmtl Painting.001
+map_Kd textures\\JesterRace_02.png
+
+newmtl Painting.002
+map_Kd textures\\JesterRace_03.png
+
+newmtl Painting.003
+map_Kd textures\\JesterRace_04.png
+
+newmtl Painting.004
+map_Kd textures\\JesterRace_05.png
+
+newmtl Painting.005
+map_Kd textures\\JesterRace_06.png
+
+newmtl Painting.006
+map_Kd textures\\JesterRace_07.png
+
+newmtl Painting.007
+map_Kd textures\\JesterRace_08.png
+
+newmtl Painting.008
+map_Kd textures\\JesterRace_09.png
+
+newmtl Pot2
+map_Kd textures\\stone_wall_old.png
+
+newmtl Rug01_m
+map_Kd textures\\Rug01.png
+
+newmtl Rug02_m
+map_Kd textures\\Rug02.png
+
+newmtl Rug03_m
+map_Kd textures\\Rug03.png
+
+newmtl Rug04_m
+map_Kd textures\\Rug04.png
+
+newmtl Rug05_m
+map_Kd textures\\Rug05.png
+
+newmtl Rug06_m
+map_Kd textures\\Rug06.png
+
+newmtl Steam
+map_Kd textures\\Steam.png
+
+newmtl WoodPile
+map_Kd textures\\wood_pillar_rope.png
+
+newmtl WoodSpot
+map_Kd textures\\00004C10_32x16_rgba16.png
+
+newmtl carpet
+map_Kd textures\\ST-0xF8A58_64x32_CI8.png
+
+newmtl lambert14
+map_Kd textures\\fx_water_colorless.png
+
+newmtl lambert19
+map_Kd textures\\ZELDA MAJORA'S MASK#767F9F69#2#0#D950C841_ciByRGBA.png
+
+newmtl pot
+map_Kd textures\\stone_floor_smooth_11.png
+
+newmtl rustyDoor
+map_Kd textures\\metal_door.png
+
+newmtl window
+map_Kd textures\\00021060_32x64_rgba16.png
+
+newmtl wood
+map_Kd textures\\wood_floor_planks_no_seams.png
+
+newmtl wood2
+map_Kd textures\\Wood_Planks06.png
+
+newmtl wood3
+map_Kd textures\\0001F488_32x32_rgba16.png

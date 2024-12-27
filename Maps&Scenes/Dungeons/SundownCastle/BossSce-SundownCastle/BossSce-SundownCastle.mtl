@@ -1,0 +1,43 @@
+# Blender MTL File: 'BossSce-SundownCastle.blend'
+# Material Count: 15
+
+newmtl 00011224
+map_Kd textures\\ZELDA MAJORA'S MASK#9983B45F#2#1#632FA7EF_ciByRGBA.png
+
+newmtl Brick_Broke.003
+map_Kd textures\\00002323.png
+
+newmtl Collision-Wood
+
+newmtl MetalBaseboard
+map_Kd textures\\metal_decor_redPattern_x32.png
+
+newmtl Metal_Gate_StoneTower
+map_Kd textures\\Metal_Gate_StoneTower.png
+
+newmtl RedWoodLedge
+map_Kd textures\\wood_furniture_desk_4#MirrorX#MirrorY.png
+
+newmtl RustyWall
+map_Kd textures\\metal_scratched_color.png
+
+newmtl Torn_material_29
+map_Kd textures\\Torn_material_29.png
+
+newmtl Water
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Wood_Carved03.001
+map_Kd textures\\Wood_Carved03.png
+
+newmtl collision-spike
+
+newmtl collision-stone
+
+newmtl door
+
+newmtl metal_rounded_hole
+map_Kd textures\\metal_circle_wooded_hole.png
+
+newmtl stone_wall_decorative_bottom_05
+map_Kd textures\\stone_wall_decorative_bottom_05.png

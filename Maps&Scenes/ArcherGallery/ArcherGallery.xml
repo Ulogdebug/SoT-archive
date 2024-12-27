@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created with SharpOcarina 1.51-->
+<ZScene cloneid="0" xmlns="clr-namespace:SharpOcarina;assembly=SharpOcarina">
+  <Name>ArcherGallery</Name>
+  <Scale>1</Scale>
+  <Music>1</Music>
+  <NightSFX>19</NightSFX>
+  <Skybox>0</Skybox>
+  <Weather>0</Weather>
+  <SpecialObject>3</SpecialObject>
+  <ElfMessage>0</ElfMessage>
+  <InjectOffset>66289664</InjectOffset>
+  <SceneNumber>108</SceneNumber>
+  <Reverb>6</Reverb>
+  <CameraMovement>80</CameraMovement>
+  <WorldMap>22</WorldMap>
+  <SceneSettings>0</SceneSettings>
+  <OutdoorLight>true</OutdoorLight>
+  <FixedCameraXPos>0</FixedCameraXPos>
+  <FixedCameraYPos>0</FixedCameraYPos>
+  <FixedCameraZPos>0</FixedCameraZPos>
+  <FixedCameraXRot>0</FixedCameraXRot>
+  <FixedCameraYRot>0</FixedCameraYRot>
+  <FixedCameraZRot>0</FixedCameraZRot>
+  <TimeCtrl>0</TimeCtrl>
+  <SkyboxType>0</SkyboxType>
+  <Cloudy>false</Cloudy>
+  <ContinualInject>true</ContinualInject>
+  <NewRoomMode>false</NewRoomMode>
+  <Prerendered>false</Prerendered>
+  <PregeneratedMesh>false</PregeneratedMesh>
+  <JFIFpath></JFIFpath>
+  <CutsceneEntrance>0</CutsceneEntrance>
+  <CutsceneEntranceNum>0</CutsceneEntranceNum>
+  <CutsceneFlag>0</CutsceneFlag>
+  <CutsceneTableRow>-1</CutsceneTableRow>
+  <version>5392</version>
+  <SegmentFunctions>
+    <Capacity>8</Capacity>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>4</Capacity>
+        <ZTextureAnim>
+          <XVelocity1>0</XVelocity1>
+          <XVelocity2>0</XVelocity2>
+          <YVelocity1>-2</YVelocity1>
+          <YVelocity2>0</YVelocity2>
+          <Width1>32</Width1>
+          <Width2>32</Width2>
+          <Height1>32</Height1>
+          <Height2>32</Height2>
+          <Type>1</Type>
+          <FlagReverse>false</FlagReverse>
+          <FlagValue>0</FlagValue>
+          <FlagBitwise>0</FlagBitwise>
+          <FlagType>255</FlagType>
+          <Preview>true</Preview>
+          <Freeze>true</Freeze>
+          <TextureSwapList>
+            <Capacity>0</Capacity>
+          </TextureSwapList>
+          <ColorList>
+            <Capacity>0</Capacity>
+          </ColorList>
+          <CameraEffect>0</CameraEffect>
+        </ZTextureAnim>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>4</Capacity>
+        <ZTextureAnim>
+          <XVelocity1>0</XVelocity1>
+          <XVelocity2>0</XVelocity2>
+          <YVelocity1>5</YVelocity1>
+          <YVelocity2>0</YVelocity2>
+          <Width1>32</Width1>
+          <Width2>32</Width2>
+          <Height1>32</Height1>
+          <Height2>32</Height2>
+          <Type>1</Type>
+          <FlagReverse>false</FlagReverse>
+          <FlagValue>0</FlagValue>
+          <FlagBitwise>0</FlagBitwise>
+          <FlagType>255</FlagType>
+          <Preview>true</Preview>
+          <Freeze>true</Freeze>
+          <TextureSwapList>
+            <Capacity>0</Capacity>
+          </TextureSwapList>
+          <ColorList>
+            <Capacity>0</Capacity>
+          </ColorList>
+          <CameraEffect>0</CameraEffect>
+        </ZTextureAnim>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>4</Capacity>
+        <ZTextureAnim>
+          <XVelocity1>0</XVelocity1>
+          <XVelocity2>0</XVelocity2>
+          <YVelocity1>-5</YVelocity1>
+          <YVelocity2>0</YVelocity2>
+          <Width1>32</Width1>
+          <Width2>32</Width2>
+          <Height1>32</Height1>
+          <Height2>32</Height2>
+          <Type>1</Type>
+          <FlagReverse>false</FlagReverse>
+          <FlagValue>0</FlagValue>
+          <FlagBitwise>0</FlagBitwise>
+          <FlagType>255</FlagType>
+          <Preview>true</Preview>
+          <Freeze>true</Freeze>
+          <TextureSwapList>
+            <Capacity>0</Capacity>
+          </TextureSwapList>
+          <ColorList>
+            <Capacity>0</Capacity>
+          </ColorList>
+          <CameraEffect>0</CameraEffect>
+        </ZTextureAnim>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>4</Capacity>
+        <ZTextureAnim>
+          <XVelocity1>0</XVelocity1>
+          <XVelocity2>0</XVelocity2>
+          <YVelocity1>2</YVelocity1>
+          <YVelocity2>0</YVelocity2>
+          <Width1>32</Width1>
+          <Width2>32</Width2>
+          <Height1>32</Height1>
+          <Height2>32</Height2>
+          <Type>1</Type>
+          <FlagReverse>false</FlagReverse>
+          <FlagValue>0</FlagValue>
+          <FlagBitwise>0</FlagBitwise>
+          <FlagType>255</FlagType>
+          <Preview>true</Preview>
+          <Freeze>true</Freeze>
+          <TextureSwapList>
+            <Capacity>0</Capacity>
+          </TextureSwapList>
+          <ColorList>
+            <Capacity>0</Capacity>
+          </ColorList>
+          <CameraEffect>0</CameraEffect>
+        </ZTextureAnim>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+    <ZSegmentFunction>
+      <Functions>
+        <Capacity>0</Capacity>
+      </Functions>
+    </ZSegmentFunction>
+  </SegmentFunctions>
+  <prerenderimages>
+    <Capacity>0</Capacity>
+  </prerenderimages>
+  <inherittextureanims>true</inherittextureanims>
+  <RestrictionFlags>0</RestrictionFlags>
+  <TitleCard></TitleCard>
+  <CollisionFilename>ArcherGalleryCollision.obj</CollisionFilename>
+  <ZObjects>
+    <Capacity>0</Capacity>
+  </ZObjects>
+  <Transitions>
+    <Capacity>4</Capacity>
+    <ZActor>
+      <Number>9</Number>
+      <XPos>-10</XPos>
+      <YPos>0</YPos>
+      <ZPos>419</ZPos>
+      <XRot>0</XRot>
+      <YRot>-32768</YRot>
+      <ZRot>0</ZRot>
+      <Variable>447</Variable>
+      <FrontSwitchTo>0</FrontSwitchTo>
+      <FrontCamera>255</FrontCamera>
+      <BackSwitchTo>0</BackSwitchTo>
+      <BackCamera>255</BackCamera>
+      <SpawnRoom>255</SpawnRoom>
+      <IgnoreMMRot>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+      </IgnoreMMRot>
+    </ZActor>
+  </Transitions>
+  <SpawnPoints>
+    <Capacity>4</Capacity>
+    <ZActor>
+      <Number>0</Number>
+      <XPos>-9</XPos>
+      <YPos>0</YPos>
+      <ZPos>381</ZPos>
+      <XRot>0</XRot>
+      <YRot>32767</YRot>
+      <ZRot>0</ZRot>
+      <Variable>3583</Variable>
+      <FrontSwitchTo>0</FrontSwitchTo>
+      <FrontCamera>255</FrontCamera>
+      <BackSwitchTo>1</BackSwitchTo>
+      <BackCamera>255</BackCamera>
+      <SpawnRoom>255</SpawnRoom>
+      <IgnoreMMRot>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+      </IgnoreMMRot>
+    </ZActor>
+  </SpawnPoints>
+  <Environments>
+    <Capacity>8</Capacity>
+    <ZEnvironment>
+      <C1>-11518916</C1>
+      <C2>27205</C2>
+      <C3>-3623756</C3>
+      <C4>38587</C4>
+      <C5>-15461356</C5>
+      <FogColor>-16777216</FogColor>
+      <FogDistance>996</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>1</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-9872806</C1>
+      <C2>4802889</C2>
+      <C3>-16</C3>
+      <C4>12040119</C4>
+      <C5>-13487526</C5>
+      <FogColor>-10197896</FogColor>
+      <FogDistance>996</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>1</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-8889856</C1>
+      <C2>4802889</C2>
+      <C3>-9692132</C3>
+      <C4>12040119</C4>
+      <C5>-14803396</C5>
+      <FogColor>-14937088</FogColor>
+      <FogDistance>993</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>1</FogUnknown>
+    </ZEnvironment>
+    <ZEnvironment>
+      <C1>-14145466</C1>
+      <C2>4802889</C2>
+      <C3>-15461341</C3>
+      <C4>12040119</C4>
+      <C5>-13487516</C5>
+      <FogColor>-16777186</FogColor>
+      <FogDistance>992</FogDistance>
+      <DrawDistance>12800</DrawDistance>
+      <FogUnknown>1</FogUnknown>
+    </ZEnvironment>
+  </Environments>
+  <Waterboxes>
+    <Capacity>0</Capacity>
+  </Waterboxes>
+  <PolyTypes>
+    <Capacity>4</Capacity>
+    <ZColPolyType>
+      <Raw>0</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>0</Raw>
+      <PolyFlagA>32768</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>1099511627776</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+    <ZColPolyType>
+      <Raw>2</Raw>
+      <PolyFlagA>0</PolyFlagA>
+      <PolyFlagB>0</PolyFlagB>
+    </ZColPolyType>
+  </PolyTypes>
+  <ExitList>
+    <Capacity>4</Capacity>
+    <ZScene-ZUShort>
+      <Value>0</Value>
+    </ZScene-ZUShort>
+  </ExitList>
+  <ExitListV2>
+    <Capacity>0</Capacity>
+  </ExitListV2>
+  <Pathways>
+    <Capacity>0</Capacity>
+  </Pathways>
+  <Cutscene>
+    <Capacity>0</Capacity>
+  </Cutscene>
+  <Cameras>
+    <Capacity>4</Capacity>
+    <ZCamera>
+      <XPos>0</XPos>
+      <YPos>0</YPos>
+      <ZPos>0</ZPos>
+      <XRot>0</XRot>
+      <YRot>0</YRot>
+      <ZRot>0</ZRot>
+      <Type>3</Type>
+      <Fov>45</Fov>
+      <Unk1>65535</Unk1>
+      <Unk2>65535</Unk2>
+      <Unk12>0</Unk12>
+      <Unk14>0</Unk14>
+      <Unk16>0</Unk16>
+      <Unk18>0</Unk18>
+      <Unk1A>0</Unk1A>
+      <Unk1C>0</Unk1C>
+      <Unk1E>0</Unk1E>
+      <Unk20>0</Unk20>
+      <Unk22>0</Unk22>
+    </ZCamera>
+  </Cameras>
+  <SceneHeaders>
+    <Capacity>0</Capacity>
+  </SceneHeaders>
+  <AdditionalTextures>
+    <Capacity>0</Capacity>
+  </AdditionalTextures>
+  <TextureAnims>
+    <Capacity>0</Capacity>
+  </TextureAnims>
+  <ActorCutscenes>
+    <Capacity>0</Capacity>
+  </ActorCutscenes>
+  <Rooms>
+    <Capacity>4</Capacity>
+    <ZScene-ZRoom>
+      <ModelFilename>ArcherGalleryVisual.obj</ModelFilename>
+      <StartTime>65535</StartTime>
+      <TimeSpeed>0</TimeSpeed>
+      <DisableSkybox>true</DisableSkybox>
+      <DisableSunMoon>true</DisableSunMoon>
+      <WindWest>15</WindWest>
+      <WindVertical>40</WindVertical>
+      <WindSouth>109</WindSouth>
+      <WindStrength>190</WindStrength>
+      <Restriction>2</Restriction>
+      <IdleAnim>4</IdleAnim>
+      <ShowInvisibleActors>false</ShowInvisibleActors>
+      <DisableWarpSongs>false</DisableWarpSongs>
+      <Echo>4</Echo>
+      <AffectedByPointLight>false</AffectedByPointLight>
+      <AdditionalLights>
+        <Capacity>0</Capacity>
+      </AdditionalLights>
+      <InjectOffset>47185920</InjectOffset>
+      <ZObjects>
+        <Capacity>16</Capacity>
+        <ZScene-ZUShort>
+          <Value>91</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>183</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>187</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>189</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>190</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>206</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>216</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>19</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>281</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>379</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>383</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>368</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>13</Value>
+        </ZScene-ZUShort>
+        <ZScene-ZUShort>
+          <Value>529</Value>
+        </ZScene-ZUShort>
+      </ZObjects>
+      <ZActors>
+        <Capacity>16</Capacity>
+        <ZActor>
+          <Number>192</Number>
+          <XPos>-20</XPos>
+          <YPos>20</YPos>
+          <ZPos>181</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>323</Number>
+          <XPos>-126</XPos>
+          <YPos>0</YPos>
+          <ZPos>11</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>416</Number>
+          <XPos>-156</XPos>
+          <YPos>0</YPos>
+          <ZPos>353</ZPos>
+          <XRot>1</XRot>
+          <YRot>-7680</YRot>
+          <ZRot>63</ZRot>
+          <Variable>65535</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>416</Number>
+          <XPos>-155</XPos>
+          <YPos>0</YPos>
+          <ZPos>257</ZPos>
+          <XRot>1</XRot>
+          <YRot>-16320</YRot>
+          <ZRot>62</ZRot>
+          <Variable>65535</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>416</Number>
+          <XPos>-102</XPos>
+          <YPos>0</YPos>
+          <ZPos>301</ZPos>
+          <XRot>1</XRot>
+          <YRot>-19680</YRot>
+          <ZRot>61</ZRot>
+          <Variable>65535</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>274</Number>
+          <XPos>-195</XPos>
+          <YPos>96</YPos>
+          <ZPos>169</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>1</ZRot>
+          <Variable>6784</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>19</Number>
+          <XPos>-159</XPos>
+          <YPos>45</YPos>
+          <ZPos>-103</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>0</ZRot>
+          <Variable>3</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>19</Number>
+          <XPos>160</XPos>
+          <YPos>45</YPos>
+          <ZPos>-103</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>0</ZRot>
+          <Variable>3</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>323</Number>
+          <XPos>124</XPos>
+          <YPos>0</YPos>
+          <ZPos>32</ZPos>
+          <XRot>0</XRot>
+          <YRot>0</YRot>
+          <ZRot>0</ZRot>
+          <Variable>0</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+        <ZActor>
+          <Number>545</Number>
+          <XPos>-93</XPos>
+          <YPos>0</YPos>
+          <ZPos>389</ZPos>
+          <XRot>0</XRot>
+          <YRot>-32640</YRot>
+          <ZRot>0</ZRot>
+          <Variable>19968</Variable>
+          <FrontSwitchTo>0</FrontSwitchTo>
+          <FrontCamera>255</FrontCamera>
+          <BackSwitchTo>1</BackSwitchTo>
+          <BackCamera>255</BackCamera>
+          <SpawnRoom>255</SpawnRoom>
+          <IgnoreMMRot>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+            <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          </IgnoreMMRot>
+        </ZActor>
+      </ZActors>
+      <GroupSettings>
+        <TintAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4278190079</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </TintAlpha>
+        <TileS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </TileS>
+        <TileT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </TileT>
+        <PolyType>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </PolyType>
+        <BackfaceCulling>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+        </BackfaceCulling>
+        <Animated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">true</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Animated>
+        <Metallic>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Metallic>
+        <EnvColor>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </EnvColor>
+        <Decal>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Decal>
+        <IgnoreFog>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </IgnoreFog>
+        <SmoothRGBAEdges>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </SmoothRGBAEdges>
+        <Pixelated>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Pixelated>
+        <Billboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Billboard>
+        <TwoAxisBillboard>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </TwoAxisBillboard>
+        <MultiTexMaterial>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">-1</int>
+        </MultiTexMaterial>
+        <ShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftS>
+        <ShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </ShiftT>
+        <BaseShiftS>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftS>
+        <BaseShiftT>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </BaseShiftT>
+        <MultiTexAlpha>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+          <unsignedInt xmlns="https://extendedxmlserializer.github.io/system">4294967295</unsignedInt>
+        </MultiTexAlpha>
+        <ReverseLight>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ReverseLight>
+        <AnimationBank>
+          <int xmlns="https://extendedxmlserializer.github.io/system">10</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">9</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">11</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">8</int>
+        </AnimationBank>
+        <LodGroup>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodGroup>
+        <LodDistance>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+          <int xmlns="https://extendedxmlserializer.github.io/system">0</int>
+        </LodDistance>
+        <LOD>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </LOD>
+        <AlphaMask>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </AlphaMask>
+        <RenderLast>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </RenderLast>
+        <VertexNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </VertexNormals>
+        <Custom>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Custom>
+        <CustomDL xmlns:exs="https://extendedxmlserializer.github.io/v2" exs:map="6,4">
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+          <unsignedLong xmlns="https://extendedxmlserializer.github.io/system">0</unsignedLong>
+        </CustomDL>
+        <ScaledNormals>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </ScaledNormals>
+        <Vibrant>
+          <boolean xmlns="https://extendedxmlserializer.github.io/system">false</boolean>
+        </Vibrant>
+      </GroupSettings>
+      <OriginalMeshHeaderOffset>0</OriginalMeshHeaderOffset>
+      <ModelShortFilename>ArcherGalleryVisual</ModelShortFilename>
+    </ZScene-ZRoom>
+  </Rooms>
+</ZScene>

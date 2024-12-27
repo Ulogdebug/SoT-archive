@@ -1,0 +1,46 @@
+Name = "Enemy Spawner"
+Category = "SWITCH"
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Flag Type"
+    Target    = "XRot"
+    Dropdown  = [
+        [ 0, "Switch Flag" ],
+		[ 1, "Chest Flag"      ],
+		[ 2, "Collectible Flag"],
+        [ 3, "Global Flag" ],
+    ]
+
+[[Property]]
+    Mask      = 0x3F00
+    Name      = "Flag"
+    Target    = "Var" 
+
+[[Property]]
+    Mask      = 0x00FF
+    Name      = "Enemy"
+    Target    = "Var"
+    Dropdown = [
+		[ 0x0, "Redead"      ],
+		[ 0x1, "Gibdo"       ],
+		[ 0x2, "Iron Redead screaming" ],
+        [ 0x3, "Iron Redead cheasing" ],
+        [ 0x4, "Big Floormaster" ],
+        [ 0x5, "Small Floormaster" ],
+        [ 0x6, "Wallmaster" ],
+        [ 0x7, "Like Like" ],
+        [ 0x8, "Garo, mini Boss music" ],
+        [ 0x9, "Dexihand" ],
+        [ 0xA, "Rat" ],
+        [ 0xB, "Tailparaisan" ],
+        [ 0xC, "Stalfos, rising from ground" ],
+        [ 0xD, "Grey Wolfo, rising from ground" ],
+        [ 0xE, "Freezard,mobile" ],
+        [ 0xF, "Freezard,immobile" ],
+        [ 0x10, "Iron Guard" ],
+        [ 0x11, "Dead Hand's Arm" ],
+        [ 0x12, "Super FireLizard" ],
+        [ 0x13, "Blue Warp" ],
+        [ 0x14, "Teleporter(0x0 params)" ],
+	]

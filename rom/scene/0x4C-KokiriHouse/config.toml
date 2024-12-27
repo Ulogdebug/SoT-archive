@@ -1,0 +1,15 @@
+# KokiriHouse
+draw_func_index = 0
+[enables]
+	bottles     = true
+	a_button    = true
+	b_button    = false
+	unused      = true
+	warp_song   = true
+	ocarina     = true
+	hookshot    = false
+	trade_item  = true
+	other       = true
+	din_nayru   = false
+	farores     = false
+	sun_song    = true

@@ -1,0 +1,134 @@
+# Blender MTL File: 'SlaughterHouse.blend'
+# Material Count: 45
+
+newmtl ArmBone
+map_Kd textures\\00009A10_16x64_rgba16.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl BrownBrick
+map_Kd textures\\Stone_Bricks03.png
+
+newmtl C77
+map_Kd textures\\C77.png
+
+newmtl CleanBrick
+map_Kd textures\\CASTLEVANIA2#C516D655#2#0#E81DEF38_ciByRGBA.png
+
+newmtl Cloth_Rope01
+map_Kd textures\\FT-0x84D48_32x64_RGBA16.png
+
+newmtl DarkBlueWater
+map_Kd textures\\DarkBlueWater.png
+
+newmtl Effect_WaterFall05
+map_Kd textures\\Effect_WaterFall03.png
+
+newmtl Light
+map_Kd textures\\Yellow_Artificial_Light.png
+
+newmtl MetalRailling
+map_Kd textures\\metal_gate_Fine.png
+
+newmtl PAINTING
+map_Kd textures\\FT-0x90468_64x64_I4.png
+
+newmtl Piranesi_material_116
+map_Kd textures\\Storm_material_0.png
+
+newmtl Ragged_Rope
+map_Kd textures\\Ragged_Rope.png
+
+newmtl Stone_Bricks13
+map_Kd textures\\Stone_Bricks08.png
+
+newmtl Stone_Smooth05
+map_Kd textures\\Stone_Smooth05.png
+
+newmtl TreeSkin.005
+map_Kd textures\\wood_log_burning_01.png
+
+newmtl TreeSpot.009
+map_Kd textures\\wood_tree_mossy.png
+
+newmtl Void
+map_Kd textures\\black.png
+
+newmtl baseboard
+map_Kd textures\\CASTLEVANIA2#1ADA476C#2#0#660402AE_ciByRGBA.png
+
+newmtl collision
+
+newmtl collision.001
+
+newmtl collision.002
+
+newmtl dirt
+map_Kd textures\\CASTLEVANIA2#4A1FD084#2#0#0E7F72F5_ciByRGBA.png
+
+newmtl fx_tribal_2
+map_Kd textures\\fx_tribal_3.png
+
+newmtl gerudoCurtain
+map_Kd textures\\ST-0xF9A58_64x32_CI8.png
+
+newmtl gerudoCurtain-Culling
+map_Kd textures\\ST-0xF9A58_64x32_CI8.png
+
+newmtl greenStone
+map_Kd textures\\CASTLEVANIA2#2CDD7E3E#2#0#637AD9A1_ciByRGBA.png
+
+newmtl metalDoor
+map_Kd textures\\MAJORA'S MASK#C2CD90D5#0#2_all.png
+
+newmtl metalPillar
+map_Kd textures\\stone_path.png
+
+newmtl metalPlate
+map_Kd textures\\CASTLEVANIA2#097B2801#2#0#F1C34DB7_ciByRGBA.png
+
+newmtl quicksand
+map_Kd textures\\ext_sand_2.png
+
+newmtl ray
+map_Kd textures\\Lights.png
+
+newmtl ray2
+map_Kd textures\\Light_3_2nd_texture.png
+
+newmtl ruins
+map_Kd textures\\stonesfloor_stones_edge_wall.png
+
+newmtl ruins2
+map_Kd textures\\CASTLEVANIA2#2368A133#2#0#0A06D585_ciByRGBA.png
+
+newmtl stairs
+map_Kd textures\\stone_stairs_brown#MirrorX.png
+
+newmtl switchStone
+map_Kd textures\\CASTLEVANIA2#C64806A7#2#0#3912F9AC_ciByRGBA.png
+
+newmtl sword
+map_Kd textures\\GAUNTLET LEGENDS#900A2861#2#0#3011EEF9_ciByRGBA.png
+
+newmtl wall
+map_Kd textures\\CASTLEVANIA2#5B142998#2#0#3646454A_ciByRGBA.png
+
+newmtl wall2
+map_Kd textures\\CASTLEVANIA2#DA700386#2#0#97DACB7C_ciByRGBA.png
+
+newmtl web
+map_Kd textures\\CASTLEVANIA2#55AE7CCB#2#0#E679B166_ciByRGBA.png
+
+newmtl wood
+map_Kd textures\\wood_planks_11.png
+
+newmtl wornBrick
+map_Kd textures\\CASTLEVANIA2#20E34B59#2#0#EB41F2F4_ciByRGBA.png
+
+newmtl wornBrick-noPanCamera
+map_Kd textures\\CASTLEVANIA2#20E34B59#2#0#EB41F2F4_ciByRGBA.png
+
+newmtl wornStoneWall4
+map_Kd textures\\CASTLEVANIA2#B937A5B8#2#0#43F27701_ciByRGBA.png

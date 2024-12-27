@@ -1,0 +1,79 @@
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 9
+		env_rate = [
+			2, 298, 32701, -1,
+		]
+		env_level = [
+			32701, 32701, 29431, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Scream"
+			tuning = 0.689062
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 97
+		env_rate = [
+			2, 1, 32701, -1,
+		]
+		env_level = [
+			32701, 32701, 29431, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Wind_Cave"
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 102
+		env_rate = [
+			2, 298, 32701, -1,
+		]
+		env_level = [
+			32701, 32701, 29431, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Pad_Voice"
+			tuning = 0.750000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 116
+		env_rate = [
+			2, 1, 433, -1,
+		]
+		env_level = [
+			32701, 32701, 1, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Synth_Bell"
+			tuning = 0.841847
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 97
+		env_rate = [
+			2, 1, 32701, -1,
+		]
+		env_level = [
+			32701, 32701, 29431, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Wind_Cave"
+			tuning = 1.000000
+		[inst.entry.hi]
+

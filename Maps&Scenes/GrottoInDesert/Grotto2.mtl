@@ -1,0 +1,41 @@
+# Blender MTL File: 'Grotto2.blend'
+# Material Count: 13
+
+newmtl Yello_Dirt
+map_Kd textures\\_751.png
+
+newmtl _218
+map_Kd textures\\_218.png
+
+newmtl _4.png.001
+map_Kd textures\\_4.png
+
+newmtl _467
+map_Kd textures\\_467.png
+
+newmtl _7
+map_Kd textures\\_1024.png
+
+newmtl _750
+map_Kd textures\\_750.png
+
+newmtl _auto_1
+map_Kd textures\\_auto_1.png
+
+newmtl _auto_1.001
+map_Kd textures\\_auto_1.png
+
+newmtl _auto_3
+map_Kd textures\\_auto_3.png
+
+newmtl _auto_3.png.001
+map_Kd textures\\_auto_3.png
+
+newmtl floor
+map_Kd textures\\_10.png
+
+newmtl quicksand
+map_Kd textures\\ext_sand_2.png
+
+newmtl vine
+map_Kd textures\\_3.png

@@ -1,0 +1,96 @@
+# Blender MTL File: 'Library.blend'
+# Material Count: 32
+
+newmtl BlackMarble
+map_Kd textures\\MarbleWithGold.png
+
+newmtl Book
+map_Kd textures\\Book.png
+
+newmtl Bookcase_half_empty
+map_Kd textures\\wood_book_shelf_empty.png
+
+newmtl Books_Case
+map_Kd textures\\wood_book_shelf.png
+
+newmtl BrownStone
+map_Kd textures\\stone_floor_curiosity.png
+
+newmtl Collision
+
+newmtl Collision-Wood
+
+newmtl Dark_Dirt_Rubble
+map_Kd textures\\stonesfloor_stones_edge_wall.png
+
+newmtl Flag
+map_Kd textures\\Cloth_Flag1.png
+
+newmtl MetalBar
+map_Kd textures\\stone_wall_decorative_bottom_05.png
+
+newmtl MetalBar.001
+map_Kd textures\\stone_wall_decorative_bottom_05.png
+
+newmtl MetalPipe
+map_Kd textures\\metal_scratched_color.png
+
+newmtl MetalRailling
+map_Kd textures\\metal_gate_StoneTower_Patterned.png
+
+newmtl MetalRailling.001
+map_Kd textures\\metal_gate_StoneTower_Patterned.png
+
+newmtl Rug
+map_Kd textures\\CircleRug.png
+
+newmtl StoneDarkPathway
+map_Kd textures\\stone_wall_decorative_bottom_04.png
+
+newmtl StoneDarkPathway.001
+map_Kd textures\\stone_wall_decorative_bottom_04.png
+
+newmtl Wall
+map_Kd textures\\oil_rig_material_9.png
+
+newmtl book
+map_Kd textures\\book.png
+
+newmtl crystalGlow_Alpha
+map_Kd textures\\CrystalGlow_Alpha.png
+
+newmtl f3dlite_material.017
+map_Kd textures\\TriForces.png
+
+newmtl fakeWall
+map_Kd textures\\H68.png
+
+newmtl hallwayrug
+map_Kd textures\\Cloth_Carpet_Royal_Side.png
+
+newmtl lambert2
+map_Kd textures\\CrystalGlow.png
+
+newmtl paper01
+map_Kd textures\\CASTLEVANIA2#894A3CC6#2#0#593E4E17_ciByRGBA.png
+
+newmtl paper02
+map_Kd textures\\CASTLEVANIA2#923CFF85#2#0#266AD1E9_ciByRGBA.png
+
+newmtl paper04
+map_Kd textures\\Z2_FISHERMAN (33).png
+
+newmtl paper05
+map_Kd textures\\Z2_16GORON_HOUSE (12).png
+
+newmtl rope
+map_Kd textures\\00019D30_32x32_rgba16.png
+
+newmtl skeleton
+map_Kd textures\\BOW-0x210B0_16x128_IA4.png
+
+newmtl stairs
+map_Kd textures\\GTG-0x1D1F8_64x32_CI8.png
+
+newmtl woodDark
+map_Kd textures\\wood_floor_planks_4.png

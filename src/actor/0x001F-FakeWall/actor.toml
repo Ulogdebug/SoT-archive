@@ -1,0 +1,14 @@
+Name = "Fake Wall"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gFakeWallObj_DlFakeWallStoneObj"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0x000F
+    Name      = "Model"
+    Target    = "Var"
+    Dropdown = [
+		[ 0, "Stone"      ],
+		[ 1, "Demon"       ],
+	]

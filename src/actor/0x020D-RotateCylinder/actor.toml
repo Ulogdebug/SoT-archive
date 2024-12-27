@@ -1,0 +1,10 @@
+Name = "Rotate Cylinder"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gRotateCylinderObj_DlRotateCylinder"
+    Scale       = 0.01
+[[Property]]
+    Mask      = 0xFF00
+    Name      = "Switch Flags"
+    Target    = "Var"

@@ -1,0 +1,97 @@
+# Blender MTL File: 'MiniGame-Fishing.blend'
+# Material Count: 32
+
+newmtl BlackWall
+map_Kd textures\\Torn_material_106.png
+
+newmtl BlueSkyWithCloud
+map_Kd textures\\Torn_material_71.png
+
+newmtl BoardWood
+map_Kd textures\\wood_floor_planks_no_seams.png
+
+newmtl Collision
+
+newmtl Counter
+map_Kd textures\\Storm_material_23.png
+
+newmtl DC-0x8B038_32x32_CI8
+map_Kd textures\\DC-0x8B038_32x32_CI8.png
+
+newmtl DarkWoodenDoor
+map_Kd textures\\DarkWoodenDoor.png
+
+newmtl Glass5
+map_Kd textures\\Glass.png
+
+newmtl None
+map_Kd textures\\SandStone2.png
+
+newmtl Piranesi_material_24
+map_Kd textures\\Piranesi_material_136.png
+
+newmtl Piranesi_material_55
+map_Kd textures\\Piranesi_material_55.png
+
+newmtl Piranesi_material_75
+map_Kd textures\\Piranesi_material_70.png
+
+newmtl RaillingWeb
+map_Kd textures\\ST-0xA4DF8_32x32_RGBA16.png
+
+newmtl Rainbow
+map_Kd textures\\Silicon Valley#EFF0F61F#0#2_all.png
+
+newmtl Red_Brick
+map_Kd textures\\rustyMetalPlate2.png
+
+newmtl Rock_Dirt3
+map_Kd textures\\00029638_32x32_rgba16.png
+
+newmtl Stairs
+map_Kd textures\\0000A1A0_128x32_ci4.bmp
+
+newmtl Stonewall
+map_Kd textures\\0000F9A0_64x64_ci4.bmp
+
+newmtl Tree_Dark_Worn
+map_Kd textures\\_609.png
+
+newmtl Water_waterflow.001
+map_Kd textures\\Effect_WaterFall03.png
+
+newmtl Water_waterflow.003
+map_Kd textures\\Effect_WaterFall03.png
+
+newmtl Web
+map_Kd textures\\Piranesi_material_112.png
+
+newmtl Wood
+map_Kd textures\\wood_wall_logs.png
+
+newmtl Wood-NoCollision
+map_Kd textures\\wood_floor_planks_no_seams.png
+
+newmtl Wood_Head_Pell
+map_Kd textures\\wood_pillar_rope_head.png
+
+newmtl f3dlite_material.017
+map_Kd textures\\TriForces.png
+
+newmtl light
+map_Kd textures\\ZELDA MAJORA'S MASK#8C09BDE2#2#1#26369141_ciByRGBA.png
+
+newmtl piano.004
+map_Kd textures\\fx_wood_house#MirrorY#MirrorX.png
+
+newmtl stone_floor_dirty_crackled_2
+map_Kd textures\\CASTLEVANIA2#6ABBC3CA#2#0#521011FC_ciByRGBA.png
+
+newmtl stone_wall_decorative_bottom_05
+map_Kd textures\\stone_wall_decorative_bottom_05.png
+
+newmtl stone_wall_spider_mirror
+map_Kd textures\\stone_wall_spider_mirror.png
+
+newmtl wood_pole_20
+map_Kd textures\\wood_side.png

@@ -1,0 +1,85 @@
+#medium_type = "ram" / "unk"     / "cart" / "ddrive"
+#sequence_player = "sfx" / "fanfare" / "bgm"  / "demo"
+medium_type = "cart"
+sequence_player = "bgm"
+[inst]
+[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 117
+		env_rate = [
+			8, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Bamboo"
+			tuning = 1.059463
+		[inst.entry.hi]
+[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 200
+		env_rate = [
+			5, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Link_Child_Idle_Yawn2" #Pre Piano
+			tuning = 1.000000
+		[inst.entry.hi]
+	[[inst.entry]]
+		split_hi = "E4"
+		split_lo = "A1"
+		release_rate = 160
+		env_rate = [
+			7, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Inst_Pad_Flute"
+			tuning = 1.334840
+		[inst.entry.hi]
+			sample = "Npc_Ingo_Charge" # EnigmaticHi
+			tuning = 0.919787
+[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "G4"
+		release_rate = 10
+		env_rate = [
+			2, 1, 421, -1,
+		]
+		env_level = [
+			32700, 32700, 0, 0,
+		]
+		[inst.entry.low]
+			sample = "Perc_Gong"
+			tuning = 2.996615
+		[inst.entry.prim]
+			sample = "Perc_Bell_Chimes"
+			tuning = 0.500565
+		[inst.entry.hi]
+[[inst.entry]]
+		split_hi = "E12"
+		split_lo = "A1"
+		release_rate = 200
+		env_rate = [
+			5, 1, 32700, -1,
+		]
+		env_level = [
+			32700, 32700, 29430, 0,
+		]
+		[inst.entry.low]
+		[inst.entry.prim]
+			sample = "Link_Child_Idle_Yawn2" #Pre Piano
+			tuning = 1.000000
+		[inst.entry.hi]
+

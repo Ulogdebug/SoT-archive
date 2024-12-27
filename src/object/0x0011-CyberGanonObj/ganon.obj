@@ -1,0 +1,6 @@
+# Blender 4.0.2
+# www.blender.org
+mtllib ganon.mtl
+o ganon
+v 0.000000 0.000000 0.000000
+o gGanonSkel_mesh

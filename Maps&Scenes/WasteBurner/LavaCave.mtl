@@ -1,0 +1,68 @@
+# Blender MTL File: 'LavaCave.blend'
+# Material Count: 22
+
+newmtl 0x3D00
+map_Kd textures\\0x3D00.png
+
+newmtl 0x6160
+map_Kd textures\\0x6160.png
+
+newmtl 0xC240
+map_Kd textures\\0x5480.png
+
+newmtl Arrow
+map_Kd textures\\Arrow.png
+
+newmtl BlackRock
+map_Kd textures\\0x178E0.png
+
+newmtl BlackStone
+map_Kd textures\\0x188C0.png
+
+newmtl Chateau_material_44
+map_Kd textures\\0x4520.png
+
+newmtl Dirt_Dry6
+map_Kd textures\\61909693.png
+
+newmtl Dirt_Rock_Wall8
+map_Kd textures\\DC-0x9B480_32x64_CI8.png
+
+newmtl Goron
+map_Kd textures\\ZELDA MAJORA'S MASK#35959A4E#4#0_all.png
+
+newmtl Lava
+map_Kd textures\\0x28C0.png
+
+newmtl Lava2
+map_Kd textures\\Crap.png
+
+newmtl LavaInLake
+map_Kd textures\\Lava 2.png
+
+newmtl Metal_Plate_Engine
+map_Kd textures\\0x4CA0.png
+
+newmtl Rock
+map_Kd textures\\46158236.png
+
+newmtl StoneWall
+map_Kd textures\\0x5480.png
+
+newmtl Trap
+map_Kd textures\\Spike Wall or Trap 1.png
+
+newmtl Web
+map_Kd textures\\0x3040.png
+
+newmtl Wheel
+map_Kd textures\\17987993.png
+
+newmtl Yellow_Metal_Banister
+map_Kd textures\\0x20.png
+
+newmtl black
+map_Kd textures\\black.png
+
+newmtl stone_floor_stones_circle_variation.001
+map_Kd textures\\metal_circle_wooded_hole.png

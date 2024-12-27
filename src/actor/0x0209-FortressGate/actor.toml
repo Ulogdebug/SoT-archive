@@ -1,0 +1,13 @@
+Name = "Fortress Gate"
+
+[[Render]]
+    Regex       = "...."
+    DisplayList = "gFortressGateObj_DlGate"
+[[Property]]
+    Mask      = 0x3F00
+    Name      = "Switch Flags"
+    Target    = "Var"
+[[Property]]
+    Mask      = 0x00F0
+    Name      = "Distance(x50)"
+    Target    = "Var"

@@ -1,0 +1,17 @@
+src/actor/0x0189-Uncursed_Skulltula_People/z_en_sth.h
+src/lib_user/state/state.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/oot/ovl_En_Sth/ovl_En_Sth.c
+include/oot/ovl_En_Sth/ovl_En_Sth.h
+include/oot/ovl_En_Sth/nose.rgba16.inc.c
+include/oot/ovl_En_Sth/hair_1.rgba16.inc.c
+include/oot/ovl_En_Sth/ear_1.rgba16.inc.c
+include/oot/ovl_En_Sth/eye.rgba16.inc.c
+include/oot/ovl_En_Sth/mouth.rgba16.inc.c
+include/oot/ovl_En_Sth/ear_2.rgba16.inc.c
+include/oot/ovl_En_Sth/hair_2.rgba16.inc.c
+include/oot/ovl_En_Sth/ovl_En_SthVtx_001E70.vtx.inc
+

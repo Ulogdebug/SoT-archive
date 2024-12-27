@@ -1,0 +1,8 @@
+src/actor/0x0255-HardworkWheel/HardworkWheel.h
+src/lib_user/uLib.h
+src/lib_user/uLib_macros.h
+src/lib_user/uLib_types.h
+include/sfx_enum.h
+include/object/0x0078-HardworkWheel.h
+src/lib_user/state/state.h
+

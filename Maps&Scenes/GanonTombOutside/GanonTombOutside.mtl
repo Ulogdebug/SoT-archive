@@ -1,0 +1,64 @@
+# Blender MTL File: 'GanonTombOutside.blend'
+# Material Count: 21
+
+newmtl 00003820
+map_Kd textures\\00009065.png
+
+newmtl ArcBone
+map_Kd textures\\000238F8_32x16_rgba16.png
+
+newmtl Blood.002
+map_Kd textures\\sklteon.png
+
+newmtl Bridge.002
+map_Kd textures\\ZELDA MAJORA'S MASK#063DAC19#0#2_all.png
+
+newmtl DarkBlueWater
+map_Kd textures\\Water.png
+
+newmtl Pillar-Brick
+map_Kd textures\\00009087.png
+
+newmtl Skull
+map_Kd textures\\0001AC50_32x32_rgba16.png
+
+newmtl YellowRock
+map_Kd textures\\00006074.png
+
+newmtl brickwall
+map_Kd textures\\brickWall.png
+
+newmtl collision-stone
+
+newmtl decoration
+map_Kd textures\\00010779.png
+
+newmtl flag
+map_Kd textures\\ST-0xF9A58_64x32_CI8.png
+
+newmtl light
+map_Kd textures\\ZeldaMisc (26).png
+
+newmtl ray
+map_Kd textures\\THE LEGEND OF ZELDA#9A068140#4#0_all.png
+
+newmtl rockWall2
+map_Kd textures\\00007264.png
+
+newmtl ruin
+map_Kd textures\\stonesfloor_stones_edge_wall.png
+
+newmtl specialStone
+map_Kd textures\\00009007.png
+
+newmtl stairs
+map_Kd textures\\00007663.png
+
+newmtl stoneWall
+map_Kd textures\\ext_rock_wall.png
+
+newmtl terrin
+map_Kd textures\\00002315.png
+
+newmtl yellowBrick
+map_Kd textures\\stone_block_4#MirrorX.png

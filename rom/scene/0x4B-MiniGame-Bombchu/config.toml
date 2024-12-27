@@ -1,0 +1,15 @@
+# MiniGame-Bombchu
+draw_func_index = 4
+[enables]
+	bottles     = false
+	a_button    = true
+	b_button    = true
+	unused      = false
+	warp_song   = false
+	ocarina     = false
+	hookshot    = false
+	trade_item  = false
+	other       = true
+	din_nayru   = false
+	farores     = false
+	sun_song    = false

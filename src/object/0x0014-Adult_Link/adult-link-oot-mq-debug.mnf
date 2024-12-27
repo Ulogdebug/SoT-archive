@@ -1,0 +1,339 @@
+import "z64playas" for object, patch
+
+var dictionary = {
+    // "DICT NAME":                   [ BANK OFFSET, OBJECT GROUP NAME ]
+    "gPlayAsSkeleton_Adult":            [ 0x000000, "skeleton.riggedmesh" ],
+    
+    "gPlayAsDl_Adult_Rig_Waist":        [ 0x00EBE8, "riggedmesh.Waist"  ],
+	"gPlayAsDl_Adult_Rig_ThighR":       [ 0x00F260, "riggedmesh.Thigh.R" ],
+	"gPlayAsDl_Adult_Rig_ShinR":        [ 0x00F868, "riggedmesh.Shin.R" ],
+	"gPlayAsDl_Adult_Rig_FootR":        [ 0x00FDE8, "riggedmesh.Foot.R" ],
+	"gPlayAsDl_Adult_Rig_ThighL":       [ 0x010280, "riggedmesh.Thigh.L" ],
+	"gPlayAsDl_Adult_Rig_ShinL":        [ 0x010898, "riggedmesh.Shin.L" ],
+	"gPlayAsDl_Adult_Rig_FootL":        [ 0x010E18, "riggedmesh.Foot.L" ],
+	"gPlayAsDl_Adult_Rig_Head":         [ 0x011D20, "riggedmesh.Head" ],
+	"gPlayAsDl_Adult_Rig_Hat":          [ 0x0126F8, "riggedmesh.Hat" ],
+	"gPlayAsDl_Adult_Rig_Collar":       [ 0x012900, "riggedmesh.Collar" ],
+	"gPlayAsDl_Adult_Rig_UpperarmL":    [ 0x012D00, "riggedmesh.Upperarm.L" ],
+	"gPlayAsDl_Adult_Rig_ForearmL":     [ 0x013228, "riggedmesh.Forearm.L" ],
+	"gPlayAsDl_Adult_Rig_UpperarmR":    [ 0x014868, "riggedmesh.Upperarm.R" ],
+	"gPlayAsDl_Adult_Rig_ForearmR":     [ 0x014D88, "riggedmesh.Forearm.R" ],
+	"gPlayAsDl_Adult_Rig_Torso":        [ 0x016188, "riggedmesh.Torso" ],
+	"gPlayAsDl_Adult_Rig_HandL":        [ 0x013890, "riggedmesh.Hand.L" ],
+	"gPlayAsDl_Adult_Rig_HandR":        [ 0x0153C0, "riggedmesh.Hand.R" ],
+    
+	"gPlayAsDl_Adult_FistL":            [ 0x013DF0, "Fist.L" ],
+	"gPlayAsDl_Adult_FistR":            [ 0x015928, "Fist.R" ],
+	"gPlayAsDl_Adult_FistL_Bottle":     [ 0x014310, "Bottle.Hand.L" ],
+    
+	"gPlayAsDl_Adult_Sheath":           [ 0x015D58, "Sheath" ],
+	"gPlayAsDl_Adult_Hilt2":            [ 0x0168E8, "Hilt.2" ],
+	"gPlayAsDl_Adult_Hilt3":            [ 0x017148, "Hilt.3" ],
+	"gPlayAsDl_Adult_Blade2":           [ 0x016E48, "Blade.2" ],
+	"gPlayAsDl_Adult_Blade3":           [ 0x0174E0, "Blade.3" ],
+	"gPlayAsDl_Adult_Blade3_Broken":    [ 0x017700, "Blade.3.Broken" ],
+	"gPlayAsDl_Adult_Shield1":          [ 0x0190E8, "Shield.1" ],
+	"gPlayAsDl_Adult_Shield2":          [ 0x018BC0, "Shield.2" ],
+	"gPlayAsDl_Adult_Shield3":          [ 0x0190E8, "Shield.3" ],
+	
+	"gPlayAsDl_Adult_Item_Hammer":      [ 0x0184A8, "Hammer" ],
+	"gPlayAsDl_Adult_Item_Bottle":      [ 0x0188E8, "Bottle" ],
+	"gPlayAsDl_Adult_Item_Bow":         [ 0x019810, "Bow" ],
+	"gPlayAsDl_Adult_Item_Ocarina1":    [ 0x019AE0, "Ocarina.1" ],
+	"gPlayAsDl_Adult_Item_Hookshot":    [ 0x019FC0, "Hookshot" ],
+    
+	"gPlayAsDl_Adult_GauntletForearmL": [ 0x01D688, "Gauntlet.Forearm.L" ],
+	"gPlayAsDl_Adult_GauntletHandL":    [ 0x01D9A8, "Gauntlet.Hand.L" ],
+	"gPlayAsDl_Adult_GauntletFistL":    [ 0x01DD68, "Gauntlet.Fist.L" ],
+	"gPlayAsDl_Adult_GauntletForearmR": [ 0x01E048, "Gauntlet.Forearm.R" ],
+	"gPlayAsDl_Adult_GauntletHandR":    [ 0x01E368, "Gauntlet.Hand.R" ],
+	"gPlayAsDl_Adult_GauntletFistR":    [ 0x01E728, "Gauntlet.Fist.R" ],
+    
+	"gPlayAsDl_Adult_Boot2L":           [ 0x01EB38, "Foot.2.L" ],
+	"gPlayAsDl_Adult_Boot2R":           [ 0x01EF50, "Foot.2.R" ],
+	"gPlayAsDl_Adult_Boot3L":           [ 0x01F588, "Foot.3.L" ],
+	"gPlayAsDl_Adult_Boot3R":           [ 0x01FC80, "Foot.3.R" ],
+    
+	"gPlayAsDl_Adult_FpsForearmL":      [ 0x01A9D8, "FPS.Forearm.L" ],
+	"gPlayAsDl_Adult_FpsHandL":         [ 0x01BAA0, "FPS.Hand.L" ],
+	"gPlayAsDl_Adult_FpsForearmR":      [ 0x01C510, "FPS.Forearm.R" ],
+	"gPlayAsDl_Adult_FpsHandR":         [ 0x01D1C8, "FPS.Hand.R" ],
+	"gPlayAsDl_Adult_FpsHookshot":      [ 0x020728, "FPS.Hookshot" ],
+    
+	"gPlayAsDl_Adult_HookshotChain":    [ 0x020BA0, "Hookshot.Chain" ],
+	"gPlayAsDl_Adult_HookshotSpike":    [ 0x020D78, "Hookshot.Spike" ],
+	"gPlayAsDl_Adult_HookshotReticule": [ 0x020E58, "Hookshot.Aiming.Reticule" ],
+    
+	"gPlayAsDl_Adult_BowString":        [ 0x020F20, "Bow.String" ],
+	"gPlayAsDl_Adult_Blade3_Piece":     [ 0x0212A0, "Blade.3.Piece" ],
+	
+	"gPlayAsDl_Adult_Boomerang":     	[ 0x0184A8, "Boomerang" ],
+
+
+}
+
+object.loadDictionary(dictionary)
+object.setLutTable(0x5000, 0x800)
+
+{
+    object.entry("gPlayAsMtx_Adult_SwordBack")
+        object.mtx(0, 0, 0, -715, -310, 78, 1, 1, 1)
+
+    object.entry("gPlayAsMtx_Adult_ShieldBack")
+        object.mtx(0, 0, 180, 935, 94, 29, 1, 1, 1)
+
+    object.entry("gPlayAsLUT_Adult_SheathedSword")
+        object.branch("gPlayAsMtx_Adult_SwordBack")
+        object.branch("gPlayAsDl_Adult_Hilt2")
+        object.popMtx()
+        object.branch("gPlayAsDl_Adult_Sheath")
+		
+	object.entry("gPlayAsLUT_Adult_BackShield1")
+        object.branch("gPlayAsMtx_Adult_ShieldBack")
+        object.branch("gPlayAsDl_Adult_Shield1")
+		
+    object.entry("gPlayAsLUT_Adult_BackShield2")
+        object.branch("gPlayAsMtx_Adult_ShieldBack")
+        object.branch("gPlayAsDl_Adult_Shield2")
+
+    object.entry("gPlayAsLUT_Adult_BackShield3")
+        object.branch("gPlayAsMtx_Adult_ShieldBack")
+        object.branch("gPlayAsDl_Adult_Shield3")
+		
+    object.entry("gPlayAsLUT_Adult_SheathedShield1")
+        object.branch("gPlayAsLUT_Adult_SheathedSword")
+        object.branch("gPlayAsLUT_Adult_BackShield1")	
+		
+    object.entry("gPlayAsLUT_Adult_SheathedShield2")
+        object.branch("gPlayAsLUT_Adult_SheathedSword")
+        object.branch("gPlayAsLUT_Adult_BackShield2")
+
+    object.entry("gPlayAsLUT_Adult_SheathedShield3")
+        object.branch("gPlayAsLUT_Adult_SheathedSword")
+        object.branch("gPlayAsLUT_Adult_BackShield3")
+		
+    object.entry("gPlayAsLUT_Adult_SheathShield2")
+        object.branch("gPlayAsDl_Adult_Sheath")
+        object.branch("gPlayAsLUT_Adult_BackShield2")
+
+    object.entry("gPlayAsLUT_Adult_SheathShield3")
+        object.branch("gPlayAsDl_Adult_Sheath")
+        object.branch("gPlayAsLUT_Adult_BackShield3")
+
+    object.entry("gPlayAsLUT_Adult_Sword2FistL")
+        object.branch("gPlayAsDl_Adult_Hilt2")
+        object.branch("gPlayAsDl_Adult_Blade2")
+        object.branch("gPlayAsDl_Adult_FistL")
+
+    object.entry("gPlayAsLUT_Adult_Sword3FistL")
+        object.branch("gPlayAsDl_Adult_Hilt3")
+        object.branch("gPlayAsDl_Adult_Blade3")
+        object.branch("gPlayAsDl_Adult_FistL")
+
+    object.entry("gPlayAsLUT_Adult_Sword3BrokenFistL")
+        object.branch("gPlayAsDl_Adult_Hilt3")
+        object.branch("gPlayAsDl_Adult_Blade3_Broken")
+        object.branch("gPlayAsDl_Adult_FistL")
+
+    object.entry("gPlayAsLUT_Adult_HammerFistL")
+        object.branch("gPlayAsDl_Adult_Item_Hammer")
+        object.branch("gPlayAsDl_Adult_FistL")
+		
+    object.entry("gPlayAsLUT_Adult_Shield1FistR")
+        object.branch("gPlayAsDl_Adult_Shield1")
+        object.branch("gPlayAsDl_Adult_FistR")
+		
+    object.entry("gPlayAsLUT_Adult_Shield2FistR")
+        object.branch("gPlayAsDl_Adult_Shield2")
+        object.branch("gPlayAsDl_Adult_FistR")
+
+    object.entry("gPlayAsLUT_Adult_Shield3FistR")
+        object.branch("gPlayAsDl_Adult_Shield3")
+        object.branch("gPlayAsDl_Adult_FistR")
+
+    object.entry("gPlayAsLUT_Adult_BowFistR")
+        object.branch("gPlayAsDl_Adult_Item_Bow")
+        object.branch("gPlayAsDl_Adult_FistR")
+
+    object.entry("gPlayAsLUT_Adult_HookshotFistR")
+        object.branch("gPlayAsDl_Adult_Item_Hookshot")
+        object.branch("gPlayAsDl_Adult_FistR")
+
+    object.entry("gPlayAsLUT_Adult_Ocarina1HandR")
+        object.branch("gPlayAsDl_Adult_Item_Ocarina1")
+        object.branch("gPlayAsDl_Adult_Rig_HandR")
+
+    object.entry("gPlayAsLUT_Adult_BowFpsHandR")
+        object.branch("gPlayAsDl_Adult_Item_Bow")
+        object.branch("gPlayAsDl_Adult_FpsHandR")
+
+    object.entry("gPlayAsLUT_Adult_HooshkotFpsHandR")
+        object.branch("gPlayAsDl_Adult_FpsHookshot")
+        object.branch("gPlayAsDl_Adult_FpsHandR")
+		
+	object.entry("gPlayAsLUT_Adult_BoomerangFistL")
+        object.branch("gPlayAsDl_Adult_Boomerang")
+        object.branch("gPlayAsDl_Adult_FistL")
+		
+}
+
+object.buildLutTable()
+
+{
+    patch.advanceBy(8)
+    
+    patch.offset("rom/system/static/z_code.bin", 0x00108D10)
+        patch.write32("gPlayAsSkeleton_Adult")
+    patch.offset(0x00108E88)
+        patch.write32("gPlayAsDl_Adult_FistR")                  //	Right Fist (High Poly)
+        patch.write32("gPlayAsDl_Adult_FistR")                  //	Right Fist (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield1FistR")                  //	Right Fist + Deku Shield (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield1FistR")                  //	Right Fist + Deku Shield (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield2FistR")    //	Right Fist + Hylian Shield (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield2FistR")    //	Right Fist + Hylian Shield (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield3FistR")    //	Right Fist + Mirror Shield (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Shield3FistR")    //	Right Fist + Mirror Shield (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedSword")         //	Sheathed Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedSword")         //	Sheathed Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield1")         //	Deku Shield + Sheathed Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield1")         //	Deku Shield + Sheathed Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield2")    //	Hylian Shield + Sheathed Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield2")    //	Hylian Shield + Sheathed Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield3")    //	Mirror Shield + Sheathed Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedShield3")    //	Mirror Shield + Sheathed Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (Low Poly)
+        patch.write32(0x00000000)                  //	Deku Shield without Sheath (High Poly)
+        patch.write32(0x00000000)                  //	Deku Shield without Sheath (Low Poly)
+        patch.write32("gPlayAsDl_Adult_Sheath")           //	Sword Sheath (High Poly)
+        patch.write32("gPlayAsDl_Adult_Sheath")           //	Sword Sheath (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield2")           //	Deku Shield + Sheath (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield2")           //	Deku Shield + Sheath (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield2")         //	Hylian Shield + Sheath (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield2")         //	Hylian Shield + Sheath (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield3")         //	Mirror Shield + Sheath (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathShield3")         //	Mirror Shield + Sheath (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	? (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword3FistL")        //	Left Fist + Biggoron Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword3FistL")        //	Left Fist + Biggoron Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword3BrokenFistL") //	Left Fist + Broken Giant's Knife (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword3BrokenFistL") //	Left Fist + Broken Giant's Knife (Low Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_HandL")                  //	Left Hand (High Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_HandL")                  //	Left Hand (Low Poly)
+        patch.write32("gPlayAsDl_Adult_FistL")                  //	Left Fist (High Poly)
+        patch.write32("gPlayAsDl_Adult_FistL")                  //	Left Fist (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword2FistL")            //	Left Fist + Kokiri Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword2FistL")            //	Left Fist + Kokiri Sword (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword2FistL")            //	Left Fist + Master Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Sword2FistL")            //	Left Fist + Master Sword (Low Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_HandR")                  //	Right Hand (High Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_HandR")                  //	Right Hand (Low Poly)
+        patch.write32("gPlayAsDl_Adult_FistR")                  //	Right Fist (High Poly)
+        patch.write32("gPlayAsDl_Adult_FistR")                  //	Right Fist (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BowFistR")              //	Right Fist + Fairy Bow (and/or Fairy Slinghot?) (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BowFistR")              //	Right Fist + Fairy Bow (and/or Fairy Slinghot?) (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedSword")         //	Sheathed Sword (High Poly)
+        patch.write32("gPlayAsLUT_Adult_SheathedSword")         //	Sheathed Sword (Low Poly)
+        patch.write32("gPlayAsDl_Adult_Sheath")           //	Sword Sheath (High Poly)
+        patch.write32("gPlayAsDl_Adult_Sheath")           //	Sword Sheath (Low Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_Waist")                  //	Waist (High Poly)
+        patch.write32("gPlayAsDl_Adult_Rig_Waist")                  //	Waist (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BowFistR")              //	Right Fist + Fairy Bow (and/or Fairy Slinghot?) (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BowFistR")              //	Right Fist + Fairy Bow (and/or Fairy Slinghot?) (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Ocarina1HandR")     //	Right Hand + Fairy Ocarina (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Ocarina1HandR")     //	Right Hand + Fairy Ocarina (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_Ocarina1HandR")     //	Right Hand + Ocarina of Time (High Poly)
+        patch.write32("gPlayAsLUT_Adult_Ocarina1HandR")     //	Right Hand + Ocarina of Time (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_HookshotFistR")         //	Right Fist + Hookshot / Longshot (High Poly)
+        patch.write32("gPlayAsLUT_Adult_HookshotFistR")         //	Right Fist + Hookshot / Longshot (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_HammerFistL")           //	Left Fist + Megaton Hammer (High Poly)
+        patch.write32("gPlayAsLUT_Adult_HammerFistL")           //	Left Fist + Megaton Hammer (Low Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	Left Fist + Boomerang (High Poly)
+        patch.write32("gPlayAsLUT_Adult_BoomerangFistL")                  //	Left Fist + Boomerang (Low Poly)
+        patch.write32("gPlayAsDl_Adult_FistL_Bottle")           //	Outstretched Left Hand for Holding Bottles (High Poly)
+        patch.write32("gPlayAsDl_Adult_FistL_Bottle")           //	Outstretched Left Hand for Holding Bottles (Low Poly)
+        patch.write32("gPlayAsDl_Adult_FpsForearmL")           //	FPS Left Forearm
+        patch.write32("gPlayAsDl_Adult_FpsHandL")              //	FPS Left Hand
+        patch.write32("gPlayAsDl_Adult_Rig_UpperarmR")              //	Right Shoulder (High Poly)
+        patch.write32("gPlayAsDl_Adult_FpsForearmR")           //	FPS Right Forearm
+        patch.write32("gPlayAsLUT_Adult_BowFpsHandR")          //	FPS Right Hand + Fairy Bow
+		
+        patch.offset(0x001091BC)
+    	patch.advanceBy(4)
+    		patch.write32("gPlayAsDl_Adult_Boot2L")  //	Left Iron Boot
+    		patch.write32("gPlayAsDl_Adult_Boot2R")  //	Right Iron Boot
+    		patch.write32("gPlayAsDl_Adult_Boot3L") //	Left Hover Boot
+    		patch.write32("gPlayAsDl_Adult_Boot3R") //	Right Hover Boot
+    
+    	patch.offset(0x00109298)
+    		patch.write32("gPlayAsDl_Adult_Item_Bottle")      //	Empty Bottle
+    
+    	patch.offset(0x001092D4)
+    	patch.advanceBy(4)
+    		patch.write32("gPlayAsDl_Adult_BowString")  //	Fairy Bow String
+    		patch.writeFloat(0.0)                //	Fairy Bow String Anchor (X Position Float)
+    		patch.writeFloat(-360.4)             //	Fairy Bow String Anchor (Y Position Float) 0xC3B43333
+    
+    // Hardcoded Assembly Pointers
+    	patch.offset(0x000728BE) //	Left Silver/Golden Gauntlet Forearm
+        	patch.hi32("gPlayAsDl_Adult_GauntletForearmL")
+    	patch.offset(0x000728C2)
+        	patch.lo32("gPlayAsDl_Adult_GauntletForearmL")
+    
+    	patch.offset(0x000728DA) //	Right Silver / Golden Gauntlet Forearm
+        	patch.hi32("gPlayAsDl_Adult_GauntletForearmR")
+    	patch.offset(0x000728DE)
+        	patch.lo32("gPlayAsDl_Adult_GauntletForearmR")
+    
+    	patch.offset(0x000728FA) //	Left Silver / Golden Gauntlet Hand (Fist)
+        	patch.hi32("gPlayAsDl_Adult_GauntletFistL")
+    	patch.offset(0x0007290E)
+        	patch.lo32("gPlayAsDl_Adult_GauntletFistL")
+    
+    	patch.offset(0x00072912) //	Left Silver / Golden Gauntlet Hand (Open Hand)
+        	patch.hi32("gPlayAsDl_Adult_GauntletHandL")
+    	patch.offset(0x0007291E)
+        	patch.lo32("gPlayAsDl_Adult_GauntletHandL")
+    
+    	patch.offset(0x0007294A) //	Right Silver / Golden Gauntlet Hand (Fist)
+        	patch.hi32("gPlayAsDl_Adult_GauntletFistR")
+    	patch.offset(0x0007294E)
+        	patch.lo32("gPlayAsDl_Adult_GauntletFistR")
+    
+    	patch.offset(0x0007295A) //	Right Silver / Golden Gauntlet Hand (Open Hand)
+        	patch.hi32("gPlayAsDl_Adult_GauntletHandR")
+    	patch.offset(0x0007295E)
+        	patch.lo32("gPlayAsDl_Adult_GauntletHandR")
+    
+    	patch.offset(0x0007359A) //	FPS Right Hand + FPS Hookshot / Longshot
+        	patch.hi32("gPlayAsLUT_Adult_HooshkotFpsHandR")
+    	patch.offset(0x0007359E)
+        	patch.lo32("gPlayAsLUT_Adult_HooshkotFpsHandR")
+    
+    	patch.offset(0x00073E56) //	Hookshot / Longshot Aiming Reticle
+        	patch.hi32("gPlayAsDl_Adult_HookshotReticule")
+    	patch.offset(0x00073E5E)
+        	patch.lo32("gPlayAsDl_Adult_HookshotReticule")
+    
+    	patch.offset("rom/actor/0x0066-Hookshot/overlay.zovl", 0x00000A6E) //	Hookshot / Longshot Spike
+        	patch.hi32("gPlayAsDl_Adult_HookshotSpike")
+    	patch.offset(0x00000A72)
+        	patch.lo32("gPlayAsDl_Adult_HookshotSpike")
+    
+    	patch.offset(0x00000B8A) //	Hookshot / Longshot Chain
+        	patch.hi32("gPlayAsDl_Adult_HookshotChain")
+    	patch.offset(0x00000B8E)
+        	patch.lo32("gPlayAsDl_Adult_HookshotChain")
+    
+    	patch.offset(0x00000BE8) //	Hookshot / Longshot Object File
+        	patch.write16(0x014) // Adult Link Object ID
+    
+    	patch.offset("rom/effect/0x0010-Broken_Weapon/overlay.zovl", 0x0000035C)  //	Broken Piece of Giant's Knife
+        	patch.write32("gPlayAsDl_Adult_Blade3_Piece")
+    
+    	patch.offset(0x00000358)  //	Giant's Knife / Biggoron Sword Object File
+        	patch.write16(0x014)
+}
